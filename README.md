@@ -12,7 +12,6 @@ Teste<br>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
 Clone or Download this git and run Windows (64-bit) or Windows (32-bit) executables.<br><br>
-<br><br>
 <h2>Kosm-PACK</h2>
 <img src="https://www.vtxfactory.org/imgs/pack-previeww.gif" width="66%" /><br>
 <strong>PACK currently includes:</strong><br>
