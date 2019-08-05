@@ -7,7 +7,7 @@ Descrição do Pack - dizer que há a versão demo com o movimento vq3 e a vers�
 <br><br>
 <h2>Kosm-DEMO</h2>
 <video>
-<source src="https://www.vtxfactory.org/video/demo-preview.webm" type="video/webm">
+<source src="https://www.vtxfactory.org/video/demo-preview.mp4" type="video/mp4">
 </video><br>
 <h3>DEMO includes:</h3>
 Teste<br>
