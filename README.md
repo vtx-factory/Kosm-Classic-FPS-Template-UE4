@@ -6,7 +6,7 @@ Classic Arena First Person Shooter Mechanics for Unreal Engine 4.<br><br>
 Descrição do Pack - dizer que há a versão demo com o movimento vq3 e a versão pack que inclui movimentos vq3, qw e cpma e ainda um mapa<br><br>
 <br><br>
 <h2>Kosm-DEMO</h2>
-<img src="https://www.vtxfactory.org/imgs/demo-preview.gif" width="66%" /><br>
+<img src="https://www.vtxfactory.org/imgs/demo-previeww.gif" width="66%" /><br>
 <h3>DEMO ./includes:</h3>
 Teste<br>
 <h3>DEMO ./preview:</h3>
@@ -15,12 +15,12 @@ Teste<br>
 Clone or Download this git and run Windows (64-bit) or Windows (32-bit) executables.<br><br>
 <br><br>
 <h2>Kosm-PACK</h2>
-<img src="https://www.vtxfactory.org/imgs/pack-preview.gif" width="66%" /><br>
+<img src="https://www.vtxfactory.org/imgs/pack-previeww.gif" width="66%" /><br>
 <strong>PACK currently includes:</strong><br>
 Teste<br><br>
-VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-pack.gif" width="66%" /><br>
-QW<img src="https://www.vtxfactory.org/imgs/qw-mov-pack.gif" width="66%" /><br>
-CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-pack.gif" width="66%" /><br>
+VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" /><br>
+QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packk.gif" width="66%" /><br>
+CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" /><br>
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" /><br>
 <strong>Unreal Engine's Quality of Life improvements:</strong><br>
 t.maxfps 120 r.vsync off fov scaling e mouse smoothness off<br><br>
