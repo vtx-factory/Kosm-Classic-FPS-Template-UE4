@@ -7,11 +7,11 @@ Descrição do Pack - dizer que há a versão demo com o movimento vq3 e a vers�
 <br><br>
 <h2>Kosm-DEMO</h2>
 <img src="https://www.vtxfactory.org/imgs/demo-preview.gif" width="66%" /><br>
-<h3>DEMO includes:</h3>
+<h3>DEMO ./includes:</h3>
 Teste<br>
-<h3>DEMO preview:</h3>
+<h3>DEMO ./preview:</h3>
 <a href="https://www.vtxfactory.org/fps-demo/">Kosm-DEMO (HTML5)</a><br>
-<h3>DEMO download:</h3>
+<h3>DEMO ./download:</h3>
 Clone or Download this git and run Windows (64-bit) or Windows (32-bit) executables.<br><br>
 <br><br>
 <h2>Kosm-PACK</h2>
