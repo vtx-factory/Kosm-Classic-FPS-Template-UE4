@@ -31,7 +31,8 @@ Teste<br>
 t.maxfps 300 > When playing the active level in the editor viewport, it caps your fps to the current monitor's resolution rate. To increse the cap, find your console toggle key (go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key. Now click in "Play" from the main toolbar, click your binded key and write t.maxfps 300 in the opened command prompt.)<br>
 r.vsync off > With your "Console" key already binded, click "Play" and write r.vsync 0<br>
 uncheck fov scaling > go into Project Settings and type fov scaling in Search Details, then uncheck it.<br>
-uncheck mouse smoothness > go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br><br><br>
+uncheck mouse smoothness > go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br>
+change mouse Turn and Look sensibility > go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br><br>
 <h2>Contact & Support</h2>
 www.vtxfactory.org<br>
 support@vtxfactory.org<br><br>
