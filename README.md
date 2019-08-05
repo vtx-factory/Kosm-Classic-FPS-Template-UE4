@@ -20,13 +20,12 @@ VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" /><b
 QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" /><br>
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" /><br>
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" /><br>
-<strong>Unreal Engine's Quality of Life improvements:</strong><br>
-t.maxfps 120 r.vsync off fov scaling e mouse smoothness off<br><br>
 <strong>Known Issues</strong><br>
 Teste<br><br>
 <strong>Buy Kosm-FPS-Movement-PACK:</strong><br>
-<a href="#">Unreal Marketplace</a><br><br>
-<br><br>
+<a href="#">Unreal Marketplace</a><br><br><br>
+<h3>Unreal Engine's Quality of Life improvements:</h3>
+t.maxfps 120 r.vsync off fov scaling e mouse smoothness off<br><br>
 <h2>Contact & Support</h2>
 www.vtxfactory.org<br>
 support@vtxfactory.org<br><br>
