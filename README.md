@@ -54,3 +54,4 @@ support@vtxfactory.org<br><br>
 Paypal<br>Bitcoin<br>I work on this project by myself in my spare time as I have a full time job. If you like my work and/or use it in other projects please consider donating using buttons above.<br><br>
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.
+<br>
