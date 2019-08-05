@@ -10,7 +10,7 @@ IMAGEM THUMBNAIL DO FPS-DEMO<br>
 <h3>DEMO includes:</h3>
 Teste<br>
 <h3>DEMO preview:</h3>
-<a href="https://www.vtxfactory.org/fps-demo/">Kosm-FPS-Movement-DEMO (HTML5)</a><br>
+<a href="https://www.vtxfactory.org/fps-demo/">Kosm-DEMO (HTML5)</a><br>
 <h3>Download DEMO executables:</h3>
 Windows (64-bit) Windows (32-bit)<br><br>
 <br><br>
