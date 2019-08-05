@@ -13,7 +13,7 @@ Teste<br>
 <h3>DEMO ./download:</h3>
 Clone or Download this git and run Windows (64-bit) or Windows (32-bit) executables.<br><br><br>
 <h2>Kosm-PACK</h2>
-<img src="https://www.vtxfactory.org/imgs/pack-previeww.gif" width="66%" /><br>
+<img src="https://www.vtxfactory.org/imgs/pack-previeww.gif" width="66%" />
 <h3>PACK ./includes:</h3>
 Teste<br><br>
 VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" /><br>
