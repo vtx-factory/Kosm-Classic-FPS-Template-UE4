@@ -20,6 +20,9 @@ VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" /><b
 QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" /><br>
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" /><br>
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" /><br>
+<h3>Patch Notes:</h3>
+v1.0.2:<br><br>
+v1.0.1:<br><br>
 <h3>Known Issues</h3>
 Teste<br><br>
 <h3>Buy Kosm-FPS-Movement-PACK:</h3>
