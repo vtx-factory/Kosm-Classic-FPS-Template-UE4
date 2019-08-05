@@ -15,7 +15,7 @@ Teste<br>
 Clone or Download this git and run Windows (64-bit) or Windows (32-bit) executables.<br><br>
 <br><br>
 <h2>Kosm-PACK</h2>
-IMAGEM THUMBNAIL DO FPS-PACK<br><br>
+<img src="https://www.vtxfactory.org/imgs/pack-preview.gif" width="66%" /><br>
 <strong>PACK currently includes:</strong><br>
 Teste<br><br>
 GIF MOVIMENTO VQ3<br><br>
