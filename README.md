@@ -39,6 +39,8 @@ v1.0.1:<br>
 v1.0.0:<br>
 <h3>PACK ./known_issues:</h3>
 Teste<br>
+<h3>PACK ./install:</h3>
+Inside .pdf instructions quick guide<br>
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's Quality of Life improvements:</h1>
