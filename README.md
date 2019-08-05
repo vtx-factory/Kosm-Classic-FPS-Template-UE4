@@ -18,9 +18,9 @@ Clone or Download this git and run Windows (64-bit) or Windows (32-bit) executab
 <img src="https://www.vtxfactory.org/imgs/pack-preview.gif" width="66%" /><br>
 <strong>PACK currently includes:</strong><br>
 Teste<br><br>
-<img src="https://www.vtxfactory.org/imgs/vq3-pack.gif" width="66%" /><br><br>
-GIF MOVIMENTO QW<br><br>
-GIF MOVIMENTO CPMA<br><br>
+VQ3<img src="https://www.vtxfactory.org/imgs/vq3-pack.gif" width="66%" /><br><br>
+QWGIF MOVIMENTO QW<br><br>
+CPMAGIF MOVIMENTO CPMA<br><br>
 GIF SHOWCASE MAPA<br><br>
 <strong>Unreal Engine's Quality of Life improvements:</strong><br>
 t.maxfps 120 r.vsync off fov scaling e mouse smoothness off<br><br>
