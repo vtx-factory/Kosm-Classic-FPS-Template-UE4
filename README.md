@@ -11,6 +11,7 @@ Kosm-PACK<br>
 //includes<br>
 //patchnotes<br>
 //knownissues<br>
+//install<br>
 //buy pack<br>
 UE QoL<br>
 Contacts<br>
