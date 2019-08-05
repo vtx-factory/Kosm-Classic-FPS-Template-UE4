@@ -15,7 +15,7 @@ Kosm-PACK<br>
 UE QoL<br>
 Contacts<br>
 Feeling too kind?<br>
-Licensing<br>
+Licensing<br><br>
 Descrição do Pack - dizer que há a versão demo com o movimento vq3 e a versão pack que inclui movimentos vq3, qw e cpma e ainda 2 mapas<br><br><br>
 <h2>Kosm-DEMO</h2>
 <img src="https://www.vtxfactory.org/imgs/demo-previewww.gif" width="66%" />
