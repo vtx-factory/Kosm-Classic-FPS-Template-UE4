@@ -21,7 +21,6 @@ Teste<br><br>
 GIF MOVIMENTO VQ3<br><br>
 GIF MOVIMENTO QW<br><br>
 GIF MOVIMENTO CPMA<br><br>
-GIF SHOWCASE ROCKET JUMP<br><br>
 GIF SHOWCASE MAPA<br><br>
 <strong>Unreal Engine's Quality of Life improvements:</strong><br>
 t.maxfps 120 r.vsync off fov scaling e mouse smoothness off<br><br>
