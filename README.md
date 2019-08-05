@@ -6,8 +6,9 @@ Classic Arena First Person Shooter Mechanics for Unreal Engine 4.<br><br>
 Descrição do Pack - dizer que há a versão demo com o movimento vq3 e a versão pack que inclui movimentos vq3, qw e cpma e ainda um mapa<br><br>
 <br><br>
 <h2>Kosm-DEMO</h2>
-<video>
-<source src="https://www.vtxfactory.org/video/demo-preview.mp4" type="video/mp4">
+<video style="width:100%" controls>
+  <source src="https://www.vtxfactory.org/video/demo-preview.mp4" type="video/mp4">
+Your browser does not support the video tag.
 </video><br>
 <h3>DEMO includes:</h3>
 Teste<br>
