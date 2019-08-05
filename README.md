@@ -23,7 +23,7 @@ LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%"
 <h3>PACK ./patch_notes:</h3>
 v1.0.2:<br>
 v1.0.1:<br>
-<h3>PACK ./known_issues: (as of v1.0.2)</h3>
+<h3>PACK ./known_issues:</h3>_(as of v1.0.2)_
 Teste<br>
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
