@@ -12,7 +12,7 @@ Teste<br>
 <h3>DEMO preview:</h3>
 <a href="https://www.vtxfactory.org/fps-demo/">Kosm-DEMO (HTML5)</a><br>
 <h3>Download DEMO executables:</h3>
-Windows (64-bit) Windows (32-bit)<br><br>
+Clone or Download this git and run the Windows (64-bit) or Windows (32-bit) executable.<br><br>
 <br><br>
 <h2>Kosm-PACK</h2>
 IMAGEM THUMBNAIL DO FPS-PACK<br><br>
