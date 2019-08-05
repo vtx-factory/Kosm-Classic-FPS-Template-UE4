@@ -1,6 +1,6 @@
 # Kosm: FPS Movement Pack
 Classic Arena First Person Shooter Mechanics for Unreal Engine 4.<br><br>
-<strong><i>Current development version:</i></strong> v1.0.0 / 01-08-2019<br>
+<strong><i>Current development version:</i></strong> v1.0.2 / 01-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_git.jpg" /><br><br>
 Descrição do Pack - dizer que há a versão demo com o movimento vq3 e a versão pack que inclui movimentos vq3, qw e cpma e ainda um mapa<br><br><br>
