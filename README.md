@@ -1,16 +1,16 @@
-Kosm-DEMO
-//includes
-//preview
-//download
-Kosm-PACK
-//includes
-//patchnotes
-//knownissues
-//buy pack
-UE QoL
-Contacts
-Feeling too kind?
-Licensing
+Kosm-DEMO<br>
+//includes<br>
+//preview<br>
+//download<br>
+Kosm-PACK<br>
+//includes<br>
+//patchnotes<br>
+//knownissues<br>
+//buy pack<br>
+UE QoL<br>
+Contacts<br>
+Feeling too kind?<br>
+Licensing<br>
 # Kosm: FPS Movement Pack
 Classic Arena First Person Shooter Mechanics for Unreal Engine 4.<br><br>
 <strong><i>Current development version:</i></strong> v1.0.2 / 06-08-2019<br>
