@@ -2,6 +2,7 @@
 FPS mechanics to match the classical Quake franchise movement. This Pack includes 3 characters with distinct movements (CPMA, QW and VQ3), an imagined recreation of a Quake fan-favorite (dm20) plus a smaller arena_test map for you to make all of your testing.<br><br>
 <strong><i>Current development version:</i></strong> v1.0.2 / 06-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2-v4.22.3<br><br>
+<strong><i>**currently under development, bugs may appear**</i></strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 Kosm-DEMO<br>
 //includes<br>
