@@ -51,9 +51,9 @@ uncheck fov scaling > go into Project Settings and type fov scaling in Search De
 uncheck mouse smoothness > go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br>
 change mouse Turn and Look sensibility > go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br><br>
 <h2>Contact</h2>
-Website www.vtxfactory.org<br>
-Feedback info@vtxfactory.org<br>
-Support support@vtxfactory.org<br><br>
+<strong>Website</strong><br>www.vtxfactory.org<br>
+<strong>Feedback</strong><br>info@vtxfactory.org<br>
+<strong>Support</strong><br>support@vtxfactory.org<br><br>
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.
 <br>
