@@ -53,8 +53,6 @@ change mouse Turn and Look sensibility > go into Project Settings and select Inp
 <h2>Contact & Support</h2>
 www.vtxfactory.org<br>
 support@vtxfactory.org<br><br>
-<h2>Feeling too kind?</h2>
-Paypal<br>Bitcoin<br>I work on this project by myself in my spare time as I have a full time job. If you like my work and/or use it in other projects please consider donating using buttons above.<br><br>
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.
 <br>
