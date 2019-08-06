@@ -2,7 +2,7 @@
 Classic Arena First Person Shooter Mechanics.<br><br>
 <strong><i>Current development version:</i></strong> v1.0.2 / 06-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.3<br><br>
-<img src="https://www.vtxfactory.org/imgs/banner_git.jpg" /><br><br>
+<img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 Kosm-DEMO<br>
 //includes<br>
 //preview<br>
