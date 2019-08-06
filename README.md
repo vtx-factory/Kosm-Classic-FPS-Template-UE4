@@ -25,7 +25,7 @@ Teste<br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
-Clone or Download this git for Windows (64-bit) version or download Windows (32-bit) <a href="https://za.gl/kbbR">here.</a><br><br><br>
+Clone or Download this git for Windows (64-bit) or download Windows (32-bit) <a href="https://za.gl/kbbR">here.</a><br><br><br>
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-previeww.gif" width="66%" />
 <h3>PACK ./includes:</h3>
@@ -41,7 +41,7 @@ v1.0.0:<br>
 <h3>PACK ./known_issues:</h3>
 Teste<br>
 <h3>PACK ./install:</h3>
-Inside .pdf instructions quick guide<br>
+A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
@@ -50,6 +50,8 @@ r.vsync off > With your "Console" key already binded, click "Play" and write r.v
 uncheck fov scaling > go into Project Settings and type fov scaling in Search Details, then uncheck it.<br>
 uncheck mouse smoothness > go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br>
 change mouse Turn and Look sensibility > go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br><br>
+<h2>Contributing</h2>
+If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
 <h2>Contact</h2>
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
 <strong>Feedback</strong><br>info@vtxfactory.org<br><br>
