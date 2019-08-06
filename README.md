@@ -46,11 +46,11 @@ A .pdf manual is included for further installation instructions, character selec
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
 <strong><i>t.maxfps 300</i> ></strong> When playing the active level in the editor viewport, it caps your fps to the current monitor's resolution rate. To increse the cap, find your console toggle key (go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key. Now click in "Play" from the main toolbar, click your binded key and write t.maxfps 300 in the opened command prompt.)<br><br>
-<strong><i>r.vsync off</i> ></strong> With your "Console" key already binded, click "Play" and write r.vsync 0<br><br>
-<strong><i>uncheck fov scaling</i> ></strong> go into Project Settings and type fov scaling in Search Details, then uncheck it.<br><br>
-<strong><i>uncheck mouse smoothness</i> ></strong> go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br><br>
-<strong><i>change mouse sensibility</i> ></strong> go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
-<strong><i>enable blutility</i> ></strong><br><br><br>
+<strong><i>r.vsync 0</i> ></strong> With your "Console" key already binded, click "Play" and write r.vsync 0<br><br>
+<strong><i>Uncheck FOV Scaling</i> ></strong> go into Project Settings and type fov scaling in Search Details, then uncheck it.<br><br>
+<strong><i>Uncheck Mouse Smoothness</i> ></strong> go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br><br>
+<strong><i>Change Mouse Sensitivity</i> ></strong> go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
+<strong><i>Enable Blutility</i> ></strong><br><br><br>
 <h2>Contributing</h2>
 If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
 <h2>Contact</h2>
