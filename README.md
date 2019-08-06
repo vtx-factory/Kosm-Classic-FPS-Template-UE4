@@ -35,9 +35,9 @@ QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-v1.0.2:<br>
-v1.0.1:<br>
-v1.0.0:<br>
+v1.0.2 #07-08-2019: character now jumps over stairs as if they were ramps, removing the sloppy/sluggish jumps.<br>
+v1.0.1 #03-08-2019: increased step height so character can step up stairs<br>
+v1.0.0 #27-07-2019: first build deployed<br>
 <h3>PACK <i>[as of v1.0.2]</i> ./known_issues:</h3>
 Teste<br>
 <h3>PACK ./install:</h3>
