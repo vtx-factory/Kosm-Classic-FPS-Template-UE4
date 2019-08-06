@@ -44,7 +44,7 @@ Teste<br>
 Inside .pdf instructions quick guide<br>
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
-<h1>Unreal Engine's Quality of Life improvements:</h1>
+<h1>Unreal Engine's QoL improvements:</h1>
 t.maxfps 300 > When playing the active level in the editor viewport, it caps your fps to the current monitor's resolution rate. To increse the cap, find your console toggle key (go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key. Now click in "Play" from the main toolbar, click your binded key and write t.maxfps 300 in the opened command prompt.)<br>
 r.vsync off > With your "Console" key already binded, click "Play" and write r.vsync 0<br>
 uncheck fov scaling > go into Project Settings and type fov scaling in Search Details, then uncheck it.<br>
