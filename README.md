@@ -38,7 +38,7 @@ LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%"
 v1.0.2:<br>
 v1.0.1:<br>
 v1.0.0:<br>
-<h3>PACK <i>(as of v1.0.2)</i> ./known_issues:</h3>
+<h3>PACK <i>[as of v1.0.2]</i> ./known_issues:</h3>
 Teste<br>
 <h3>PACK ./install:</h3>
 A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
