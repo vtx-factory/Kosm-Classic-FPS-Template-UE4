@@ -17,7 +17,7 @@ UE QoL<br>
 Contacts<br>
 Feeling too kind?<br>
 Licensing<br><br>
-FPS mechanics to match the classical Quake franchise movement - this Pack includes 3 characters with distinct movements (CPMA, QW and VQ3), a complete recreated map of a Quake fan favorite (dm20), plus a smaller arena_test map for you to make all your testing.<br><br><br>
+<h3>FPS mechanics to match the classical Quake franchise movement - this Pack includes 3 characters with distinct movements (CPMA, QW and VQ3), a complete recreated map of a Quake fan favorite (dm20) plus a smaller arena_test map for you to make all of your testing.</h3><br><br><br>
 <h1>Kosm-DEMO</h1>
 <img src="https://www.vtxfactory.org/imgs/demo-previewww.gif" width="66%" />
 <h3>DEMO ./includes:</h3>
