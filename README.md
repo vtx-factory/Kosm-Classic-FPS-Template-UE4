@@ -39,7 +39,7 @@ v1.0.2:<br>
 v1.0.1:<br>
 v1.0.0:<br>
 <h3>PACK ./known_issues:</h3>
-Teste **as of v1.0.2**<br>
+Teste<br>
 <h3>PACK ./install:</h3>
 A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
@@ -59,3 +59,4 @@ If you'd like to contribute to this project in any way, feel free to pull a requ
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.
 <br>
+**as of v1.0.2**
