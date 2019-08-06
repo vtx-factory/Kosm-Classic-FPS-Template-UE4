@@ -1,5 +1,5 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
-Classic Arena First Person Shooter Mechanics.<br><br>
+FPS mechanics to match the classical Quake franchise movement - this Pack includes 3 characters with distinct movements (CPMA, QW and VQ3), a complete recreated map of a Quake fan favorite (dm20) plus a smaller arena_test map for you to make all of your testing.<br><br>
 <strong><i>Current development version:</i></strong> v1.0.2 / 06-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2-v4.22.3<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
@@ -17,7 +17,6 @@ UE QoL<br>
 Contacts<br>
 Feeling too kind?<br>
 Licensing<br><br>
-<h3>FPS mechanics to match the classical Quake franchise movement - this Pack includes 3 characters with distinct movements (CPMA, QW and VQ3), a complete recreated map of a Quake fan favorite (dm20) plus a smaller arena_test map for you to make all of your testing.</h3><br><br><br>
 <h1>Kosm-DEMO</h1>
 <img src="https://www.vtxfactory.org/imgs/demo-previewww.gif" width="66%" />
 <h3>DEMO ./includes:</h3>
