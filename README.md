@@ -16,7 +16,6 @@ Kosm-PACK<br>
 //buy pack<br>
 UE QoL<br>
 Contacts<br>
-Feeling too kind?<br>
 Licensing<br><br>
 <h1>Kosm-DEMO</h1>
 <img src="https://www.vtxfactory.org/imgs/demo-previewww.gif" width="66%" />
