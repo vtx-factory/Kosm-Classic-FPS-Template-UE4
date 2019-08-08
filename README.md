@@ -1,7 +1,8 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
-FPS mechanics to match the classical Quake franchise movement. This Pack includes 3 characters with distinct movements (CPMA, QW and VQ3), an imagined recreation of a Quake fan-favorite (dm20) plus a smaller arena_test map for you to make all of your testing.<br><br>
-<strong><i>Current development version:</i></strong> v1.0.2 / 06-08-2019<br>
+FPS mechanics to match the classical Quake franchise movement. This Pack includes 3 characters with distinct movements (which I call CPMA, QW and VQ3), a reimagined mesh creation of a Quake fan-favorite (dm20) plus a smaller map for you to make all of your testing.<br><br>
+<strong><i>Current development version:</i></strong> v1.0.2 / 07-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2-v4.22.3<br><br>
+<i>** project currently under development, bugs may appear **</i><br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 Kosm-DEMO<br>
 //includes<br>
@@ -15,7 +16,6 @@ Kosm-PACK<br>
 //buy pack<br>
 UE QoL<br>
 Contacts<br>
-Feeling too kind?<br>
 Licensing<br><br>
 <h1>Kosm-DEMO</h1>
 <img src="https://www.vtxfactory.org/imgs/demo-previewww.gif" width="66%" />
@@ -26,7 +26,7 @@ Teste<br>
 <h3>DEMO ./download:</h3>
 Clone or Download this git for Windows (64-bit) or download Windows (32-bit) version <a href="https://za.gl/kbbR">here</a>.<br><br><br>
 <h1>Kosm-PACK</h1>
-<img src="https://www.vtxfactory.org/imgs/pack-previeww.gif" width="66%" />
+<img src="https://www.vtxfactory.org/imgs/packk-preview.gif" width="66%" />
 <h3>PACK ./includes:</h3>
 Teste<br>
 VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" />
@@ -34,9 +34,9 @@ QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-v1.0.2:<br>
-v1.0.1:<br>
-v1.0.0:<br>
+<strong>v1.0.2 #07-08-2019:</strong><br>Added Character and Weapon Switch capability.<br><br>
+<strong>v1.0.1 #03-08-2019:</strong><br>Increased step height so character can step up stairs.<br><br>
+<strong>v1.0.0 #27-07-2019:</strong><br>First build deployed.<br>
 <h3>PACK <i>[as of v1.0.2]</i> ./known_issues:</h3>
 Teste<br>
 <h3>PACK ./install:</h3>
