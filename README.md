@@ -42,7 +42,7 @@ LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%"
 <strong>v1.0.2 #02-08-2019:</strong><br>Added Character and Weapon Switch capability.<br><br>
 <strong>v1.0.1 #30-08-2019:</strong><br>Increased step height so character can step up stairs.<br><br>
 <strong>v1.0.0 #27-07-2019:</strong><br>First build deployed.<br>
-<h3>PACK <i>[as of v1.0.2]</i> ./known_issues:</h3>
+<h3>PACK <i>[as of v1.0.7]</i> ./known_issues:</h3>
 Teste<br>
 <h3>PACK ./install:</h3>
 A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
