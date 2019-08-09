@@ -34,7 +34,8 @@ QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-<strong>v1.0.7 #09-08-2019:</strong><br> each character has his own HUD and individual speedometer, which now displays correctly.
+<strong>v1.0.8 #09-08-2019:</strong><br> Simulate collision and physics now was added do Actor's Pawn.
+<strong>v1.0.7 #09-08-2019:</strong><br> each character has its own HUD and individual speedometer, which now displays and works correctly.
 <strong>v1.0.6 #08-08-2019:</strong><br> removed jump cooldown node so cpma character won't stay glued to the ground when jumping on the edge of a slope or the space between stairs is to narrow.
 <strong>v1.0.5 #06-08-2019:</strong><br> tive que aumentar o bound scale das meshes para o mapa aparecer como deve ser no viewport sem aquele glitch branco
 <strong>v1.0.4 #04-08-2019:</strong><br> dizer que adicionei Use Flat Base for Floor Check - this avoids the situation where characters slowly lower off the side of a ledge (as their capsule "balances" on the edge.)
