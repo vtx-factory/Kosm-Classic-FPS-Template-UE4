@@ -36,7 +36,7 @@ LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%"
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.7 #08-08-2019:</strong><br>
 <strong>v1.0.6 #07-08-2019:</strong><br>
-<strong>v1.0.5 #06-08-2019:</strong><br>
+<strong>v1.0.5 #06-08-2019:</strong><br> tive que aumentar o bound scale das meshes para aparecerem no viewport
 <strong>v1.0.4 #05-08-2019:</strong><br> dizer que adicionei Use Flat Base for Floor Check - this avoids the situation where characters slowly lower off the side of a ledge (as their capsule "balances" on the edge.)
 <strong>v1.0.3 #06-08-2019:</strong><br>pesquisar less sloppy when jumping on stairs - if position after jump is above initial jump position, add launch character on the z axis (mas só nas escadas)
 <strong>v1.0.2 #04-08-2019:</strong><br>Added Character and Weapon Switch capability.<br><br>
