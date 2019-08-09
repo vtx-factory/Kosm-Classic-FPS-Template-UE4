@@ -19,6 +19,7 @@ Contacts<br>
 Licensing<br><br>
 <h1>Kosm-DEMO</h1>
 <img src="https://www.vtxfactory.org/imgs/demo-previewww.gif" width="66%" />
+You can test some of the PACK functionalities with our DEMO showcase.
 <h3>DEMO ./includes:</h3>
 Teste<br>
 <h3>DEMO ./preview:</h3>
