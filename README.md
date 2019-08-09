@@ -1,6 +1,6 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
 FPS mechanics to match the classical Quake franchise movement. This Pack includes 3 characters with distinct movements (which I call CPMA, QW and VQ3), a reimagined mesh creation of a Quake fan-favorite (dm20) plus a smaller map for you to make all of your testing.<br><br>
-<strong><i>Current development version:</i></strong> v1.0.7 / 08-08-2019<br>
+<strong><i>Current development version:</i></strong> v1.0.7 / 09-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2-v4.22.3<br><br>
 <i>** project currently under development, bugs may appear **</i><br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
@@ -34,13 +34,13 @@ QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-<strong>v1.0.7 #08-08-2019:</strong><br>
-<strong>v1.0.6 #07-08-2019:</strong><br> removed jump cooldown node so cpma character won't stay glued to the ground when jumping on the edge of a slope or the space between stairs is to narrow.
-<strong>v1.0.5 #06-08-2019:</strong><br> tive que aumentar o bound scale das meshes para aparecerem no viewport
-<strong>v1.0.4 #05-08-2019:</strong><br> dizer que adicionei Use Flat Base for Floor Check - this avoids the situation where characters slowly lower off the side of a ledge (as their capsule "balances" on the edge.)
-<strong>v1.0.3 #06-08-2019:</strong><br>pesquisar less sloppy when jumping on stairs - if position after jump is above initial jump position, add launch character on the z axis (mas só nas escadas)
-<strong>v1.0.2 #04-08-2019:</strong><br>Added Character and Weapon Switch capability.<br><br>
-<strong>v1.0.1 #03-08-2019:</strong><br>Increased step height so character can step up stairs.<br><br>
+<strong>v1.0.7 #09-08-2019:</strong><br> each character has his own HUD and individual speedometer, which now displays correctly.
+<strong>v1.0.6 #08-08-2019:</strong><br> removed jump cooldown node so cpma character won't stay glued to the ground when jumping on the edge of a slope or the space between stairs is to narrow.
+<strong>v1.0.5 #06-08-2019:</strong><br> tive que aumentar o bound scale das meshes para o mapa aparecer como deve ser no viewport sem aquele glitch branco
+<strong>v1.0.4 #04-08-2019:</strong><br> dizer que adicionei Use Flat Base for Floor Check - this avoids the situation where characters slowly lower off the side of a ledge (as their capsule "balances" on the edge.)
+<strong>v1.0.3 #03-08-2019:</strong><br>less sloppy when jumping on stairs - added trimp multiplier to stairs too
+<strong>v1.0.2 #02-08-2019:</strong><br>Added Character and Weapon Switch capability.<br><br>
+<strong>v1.0.1 #30-08-2019:</strong><br>Increased step height so character can step up stairs.<br><br>
 <strong>v1.0.0 #27-07-2019:</strong><br>First build deployed.<br>
 <h3>PACK <i>[as of v1.0.2]</i> ./known_issues:</h3>
 Teste<br>
