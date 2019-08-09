@@ -1,6 +1,6 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
 FPS mechanics to match the classical Quake franchise movement. This Pack includes 3 characters with distinct movements (which I call CPMA, QW and VQ3), a reimagined mesh creation of a Quake fan-favorite (dm20) plus a smaller map for you to make all of your testing.<br><br>
-<strong><i>Current development version:</i></strong> v1.0.7 / 09-08-2019<br>
+<strong><i>Current development version:</i></strong> v1.0.8 / 10-08-2019<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2-v4.22.3<br><br>
 <i>** project currently under development, bugs may appear **</i><br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
@@ -34,7 +34,7 @@ QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-<strong>v1.0.8 #09-08-2019:</strong><br> Simulate collision and physics now was added do Actor's Pawn.
+<strong>v1.0.8 #10-08-2019:</strong><br> Simulate collision and physics now was added do Actor's Pawn.
 <strong>v1.0.7 #09-08-2019:</strong><br> each character has its own HUD and individual speedometer, which now displays and works correctly.
 <strong>v1.0.6 #08-08-2019:</strong><br> removed jump cooldown node so cpma character won't stay glued to the ground when jumping on the edge of a slope or the space between stairs is to narrow.
 <strong>v1.0.5 #06-08-2019:</strong><br> tive que aumentar o bound scale das meshes para o mapa aparecer como deve ser no viewport sem aquele glitch branco
