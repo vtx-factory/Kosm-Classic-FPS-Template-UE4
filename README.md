@@ -29,9 +29,9 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
 Teste<br>
-VQ3 parecido ao visor do qc, try out our kosm-DEMO to see how he works
-QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk" width="66%" />
-CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk" width="66%" />
+VQ3 parecido ao visor do qc, try out our kosm-DEMO to see how he works. https://www.youtube.com/watch?v=2cxf8LLgrd8
+QW https://www.youtube.com/watch?v=nGmjSubCl_Q
+CPMA https://www.youtube.com/watch?v=HJiCq22BOOc
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8 #10-08-2019:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.
