@@ -54,10 +54,10 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.<br><br>
 <strong>v1.0.7:</strong><br> Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.<br><br>
-<strong>v1.0.6:</strong><br> Removed jump cooldown node so cpma character won't stay glued to the ground when jumping on the edge of a slope or the space between stairs is to narrow.<br><br>
-<strong>v1.0.5:</strong><br> tive que aumentar o bound scale das meshes para o mapa aparecer como deve ser no viewport sem aquele glitch branco.<br><br>
-<strong>v1.0.4:</strong><br> dizer que adicionei Use Flat Base for Floor Check - this avoids the situation where characters slowly lower off the side of a ledge (as their capsule "balances" on the edge.)<br><br>
-<strong>v1.0.3:</strong><br>less sloppy when jumping on stairs - added trimp multiplier to stairs too.<br><br>
+<strong>v1.0.6:</strong><br> Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is to narrow.<br><br>
+<strong>v1.0.5:</strong><br> Increased map Bound Scale limits to remove artifacts from viewport.<br><br>
+<strong>v1.0.4:</strong><br> Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br><br>
+<strong>v1.0.3:</strong><br>Increased trimp multiplier on slopes.<br><br>
 <strong>v1.0.2:</strong><br>Added Character and Weapon Switch capability.<br><br>
 <strong>v1.0.1:</strong><br>Increased step height so character can step up stairs.<br><br>
 <strong>v1.0.0:</strong><br>First build deployed.<br>
