@@ -12,8 +12,8 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 &nbsp;<a href="#pack-patch_notes">/patch_notes</a><br>
 &nbsp;<a href="#pack-as-of-v108-known_issues">/known_issues</a><br>
 &nbsp;<a href="#pack-install">/install</a><br>
-//buy pack<br>
-UE QoL<br>
+&nbsp;<a href="#pack-buy">/buy:_pack</a><br><br>
+<a href="#unreal-engines-qol-improvements">UE QoL improvements</a><br>
 Contacts<br>
 Licensing<br><br>
 <h1>Kosm-DEMO</h1>
