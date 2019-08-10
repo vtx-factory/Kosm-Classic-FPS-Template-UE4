@@ -36,9 +36,9 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-- VQ3 character movement - similar to Visor from Quake Champions;<br>
-- QW character movement - similar to Visor from Quake Champions;<br>
-- CPMA character movement - similar to Visor from Quake Champions;<br>
+- VQ3 character movement - similar to Visor from Quake Champions; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+- QW character movement - similar to Visor from Quake Champions; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
+- CPMA character movement - similar to Visor from Quake Champions; <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
 - Dash;<br>
 - Character and Weapon Switch;<br>
 - Walk;<br>
@@ -50,9 +50,6 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 - Real-time Physics Simulation;<br>
 - DM20 map reimagined creation;<br>
 - Smaller testing grounds map.<br>
-VQ3 parecido ao visor do qc, try out our kosm-DEMO to see how he works. https://www.youtube.com/watch?v=2cxf8LLgrd8
-QW https://www.youtube.com/watch?v=nGmjSubCl_Q
-CPMA https://www.youtube.com/watch?v=HJiCq22BOOc
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8 #10-08-2019:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.
