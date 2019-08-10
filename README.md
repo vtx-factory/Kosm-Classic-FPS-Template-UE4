@@ -30,8 +30,8 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h3>PACK ./includes:</h3>
 Teste<br>
 VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" />
-QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
-CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
+QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk" width="66%" />
+CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8 #10-08-2019:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.
