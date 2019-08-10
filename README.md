@@ -27,7 +27,8 @@ You can test some of our PACK functionalities and physics with the DEMO showcase
 - Weapon Zoom;<br>
 - Double Jump;<br>
 - Rocket Launcher Projectile;<br>
-- Real-time Physics Simulation.<br>
+- Real-time Physics Simulation;<br>
+- Sandbox.<br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
