@@ -64,7 +64,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>v1.0.0:</strong><br>First build deployed.<br>
 <h3>PACK <i>[as of v1.0.8]</i> ./known_issues:</h3>
 - Projectile trajectory is not aligned with the crosshair. (for now)<br>
-- VQ3 needs to be smoothed out when jumping in order for the input forward impulse not to be so noticeable.
+- VQ3 character movement needs to be smoothed out - when jumping in order for the input forward impulse not to be so noticeable.
 <h3>PACK ./install:</h3>
 A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
