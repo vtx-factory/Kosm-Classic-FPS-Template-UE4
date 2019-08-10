@@ -20,7 +20,7 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics with the DEMO showcase.
 <h3>DEMO ./includes:</h3>
-Teste<br>
+- VQ3 character movement<br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
