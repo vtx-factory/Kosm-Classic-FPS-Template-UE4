@@ -36,7 +36,19 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-Teste<br>
+- VQ3 character movement - similar to Visor from Quake Champions;<br>
+- QW character movement - similar to Visor from Quake Champions;<br>
+- CPMA character movement - similar to Visor from Quake Champions;<br>
+- Dash;<br>
+- Weapon Switch;<br>
+- Character Switch;<br>
+- Walk;<br>
+- Toggle Crouch;<br>
+- Bunnyhop;<br>
+- Weapon Zoom;<br>
+- Double Jump;<br>
+- Rocket Launcher Projectile;<br>
+- Real-time Physics Simulation;<br>
 VQ3 parecido ao visor do qc, try out our kosm-DEMO to see how he works. https://www.youtube.com/watch?v=2cxf8LLgrd8
 QW https://www.youtube.com/watch?v=nGmjSubCl_Q
 CPMA https://www.youtube.com/watch?v=HJiCq22BOOc
