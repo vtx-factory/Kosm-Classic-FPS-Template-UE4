@@ -4,10 +4,10 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.2-v4.22.3<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 <a href="#kosm-demo">Kosm-DEMO</a><br>
-&nbsp;<a href="#demo-includes">./includes</a><br>
-&nbsp;<a href="#demo-preview">./preview</a><br>
-//download<br>
-Kosm-PACK<br>
+&nbsp;<a href="#demo-includes">/includes</a><br>
+&nbsp;<a href="#demo-preview">/preview</a><br>
+&nbsp;<a href="#demo-download">/download</a><br>
+<a href="#kosm-pack">Kosm-PACK</a><br>
 //includes<br>
 //patchnotes<br>
 //knownissues<br>
