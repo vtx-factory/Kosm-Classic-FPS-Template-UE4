@@ -20,15 +20,15 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics with the DEMO showcase.
 <h3>DEMO ./includes:</h3>
-<strong>- VQ3 character movement -</strong> similar to Visor from Quake Champions - the longer the bunnyhop, the faster he travels;<br>
-<strong>- Walk;</strong><br>
-<strong>- Toggle Crouch;</strong><br>
-<strong>- Bunnyhop;</strong><br>
-<strong>- Weapon Zoom;</strong><br>
-<strong>- Double Jump;</strong><br>
-<strong>- Rocket Launcher Projectile;</strong><br>
-<strong>- Real-time Physics Simulation;</strong><br>
-<strong>- Sandbox.</strong><br>
+<strong><i>- VQ3 character movement </i></strong>- similar to Visor from Quake Champions - the longer the bunnyhop, the faster he travels;<br>
+<strong><i>- Walk;</i></strong><br>
+<strong><i>- Toggle Crouch;</i></strong><br>
+<strong><i>- Bunnyhop;</i></strong><br>
+<strong><i>- Weapon Zoom;</i></strong><br>
+<strong><i>- Double Jump;</i></strong><br>
+<strong><i>- Rocket Launcher Projectile;</i></strong><br>
+<strong><i>- Real-time Physics Simulation;</i></strong><br>
+<strong><i>- Sandbox.</i></strong><br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
