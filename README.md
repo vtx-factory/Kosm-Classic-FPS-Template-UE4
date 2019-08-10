@@ -13,10 +13,10 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 &nbsp;<a href="#pack-as-of-v108-known_issues">- Known Issues</a><br>
 &nbsp;<a href="#pack-install">- Installation</a><br>
 &nbsp;<a href="#pack-buy">- Buy PACK</a><br><br>
-<a href="#unreal-engines-qol-improvements">Unreal Engine QoL improvements</a><br>
-<a href="#contributing">Contributing</a><br>
-<a href="#contact">Contact</a><br>
-<a href="#licensing">Licensing</a><br><br>
+<a href="#unreal-engines-qol-improvements">&#8226; Unreal Engine QoL improvements</a><br>
+<a href="#contributing">&#8226; Contributing</a><br>
+<a href="#contact">&#8226; Contact</a><br>
+<a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics with the DEMO showcase.
 <h3>DEMO ./includes:</h3>
