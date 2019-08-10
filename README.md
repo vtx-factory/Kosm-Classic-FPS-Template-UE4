@@ -33,7 +33,7 @@ Teste<br>
 VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" />
 QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk.gif" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk.gif" width="66%" />
-LVL_SHOW<img src="https://www.vtxfactory.org/imgs/lvl-show-pack.gif" width="66%" />
+LVL_SHOW<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8 #10-08-2019:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.
 <strong>v1.0.7 #09-08-2019:</strong><br> Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.
