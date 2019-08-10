@@ -70,7 +70,7 @@ A .pdf manual is included for further installation instructions, character selec
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
-<strong><i>t.maxfps 300</i> ></strong> When playing the active level in the editor viewport, it caps your fps to the current monitor's resolution rate. To increse the cap, find your console toggle key (go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key. Now click in "Play" from the main toolbar, click your binded key and write t.maxfps 300 in the opened command prompt.)<br><br>
+<strong><i>t.maxfps 300</i> ></strong> When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key.</strong> Now click "Play" from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
 <strong><i>r.vsync 0</i> ></strong> With your "Console" key already binded, click "Play" and write r.vsync 0<br><br>
 <strong><i>Uncheck FOV Scaling</i> ></strong> go into Project Settings and type fov scaling in Search Details, then uncheck it.<br><br>
 <strong><i>Uncheck Mouse Smoothness</i> ></strong> go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br><br>
