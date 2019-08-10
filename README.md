@@ -7,11 +7,11 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 &nbsp;<a href="#demo-includes">- Includes</a><br>
 &nbsp;<a href="#demo-preview">- Preview</a><br>
 &nbsp;<a href="#demo-download">- Download</a><br><br>
-<a href="#kosm-pack">Kosm-PACK</a><br>
-&nbsp;<a href="#pack-includes">/includes</a><br>
-&nbsp;<a href="#pack-patch_notes">/patch_notes</a><br>
-&nbsp;<a href="#pack-as-of-v108-known_issues">/known_issues</a><br>
-&nbsp;<a href="#pack-install">/install</a><br>
+<a href="#kosm-pack">&#8226; Kosm-PACK</a><br>
+&nbsp;<a href="#pack-includes">- Includes</a><br>
+&nbsp;<a href="#pack-patch_notes">- Patch Notes</a><br>
+&nbsp;<a href="#pack-as-of-v108-known_issues">- Known Issues</a><br>
+&nbsp;<a href="#pack-install">- Installation</a><br>
 &nbsp;<a href="#pack-buy">/buy</a><br><br>
 <a href="#unreal-engines-qol-improvements">Unreal Engine QoL improvements</a><br>
 <a href="#contributing">Contributing</a><br>
