@@ -10,7 +10,7 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <a href="#kosm-pack">Kosm-PACK</a><br>
 &nbsp;<a href="#pack-includes">/includes</a><br>
 &nbsp;<a href="#pack-patch_notes">/patch_notes</a><br>
-//knownissues<br>
+&nbsp;<a href="#pack-as-of-v108-known_issues">/known_issues</a><br>
 //install<br>
 //buy pack<br>
 UE QoL<br>
