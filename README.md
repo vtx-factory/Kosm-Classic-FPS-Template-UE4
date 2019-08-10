@@ -49,7 +49,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong><i>- Double Jump;</i></strong><br>
 <strong><i>- Rocket Launcher Projectile;</i></strong><br>
 <strong><i>- Real-time Physics Simulation;</i></strong><br>
-<strong><i>- DM20 map reimagined creation;</i></strong><br>
+<strong><i>- DM20 reimagined map;</i></strong><br>
 <strong><i>- Smaller testing grounds map. (as seen on character movement showcase)</i></strong><br><br>
 <strong>DM20 reimagined:</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
