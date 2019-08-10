@@ -12,7 +12,7 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 &nbsp;<a href="#pack-patch_notes">/patch_notes</a><br>
 &nbsp;<a href="#pack-as-of-v108-known_issues">/known_issues</a><br>
 &nbsp;<a href="#pack-install">/install</a><br>
-&nbsp;<a href="#pack-buy">/buy:_pack</a><br><br>
+&nbsp;<a href="#pack-buy">/buy</a><br><br>
 <a href="#unreal-engines-qol-improvements">Unreal Engine QoL improvements</a><br>
 <a href="#contributing">Contributing</a><br>
 <a href="#contact">Contact</a><br>
