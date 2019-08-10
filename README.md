@@ -6,9 +6,9 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <a href="#kosm-demo">Kosm-DEMO</a><br>
 &nbsp;<a href="#demo-includes">/includes</a><br>
 &nbsp;<a href="#demo-preview">/preview</a><br>
-&nbsp;<a href="#demo-download">/download</a><br>
+&nbsp;<a href="#demo-download">/download</a><br><br>
 <a href="#kosm-pack">Kosm-PACK</a><br>
-//includes<br>
+<a href="#pack-includes">/includes</a><br>
 //patchnotes<br>
 //knownissues<br>
 //install<br>
