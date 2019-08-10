@@ -50,7 +50,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong><i>- Real-time Physics Simulation;</i></strong><br>
 <strong><i>- DM20 map reimagined creation;</i></strong><br>
 <strong><i>- Smaller testing grounds map.</i></strong><br><br>
-<strong>DM20 reimagined map</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
+<strong>DM20 reimagined:</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8 #10-08-2019:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.
 <strong>v1.0.7 #09-08-2019:</strong><br> Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.
