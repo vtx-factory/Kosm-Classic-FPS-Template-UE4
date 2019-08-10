@@ -40,8 +40,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 - QW character movement - similar to Visor from Quake Champions;<br>
 - CPMA character movement - similar to Visor from Quake Champions;<br>
 - Dash;<br>
-- Weapon Switch;<br>
-- Character Switch;<br>
+- Character and Weapon Switch;<br>
 - Walk;<br>
 - Toggle Crouch;<br>
 - Bunnyhop;<br>
@@ -49,6 +48,8 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 - Double Jump;<br>
 - Rocket Launcher Projectile;<br>
 - Real-time Physics Simulation;<br>
+- DM20 map reimagined creation;<br>
+- Smaller testing grounds map.<br>
 VQ3 parecido ao visor do qc, try out our kosm-DEMO to see how he works. https://www.youtube.com/watch?v=2cxf8LLgrd8
 QW https://www.youtube.com/watch?v=nGmjSubCl_Q
 CPMA https://www.youtube.com/watch?v=HJiCq22BOOc
