@@ -8,8 +8,8 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 &nbsp;<a href="#demo-preview">/preview</a><br>
 &nbsp;<a href="#demo-download">/download</a><br><br>
 <a href="#kosm-pack">Kosm-PACK</a><br>
-<a href="#pack-includes">/includes</a><br>
-//patchnotes<br>
+&nbsp;<a href="#pack-includes">/includes</a><br>
+&nbsp;<a href="#pack-patch_notes">/patch_notes</a><br>
 //knownissues<br>
 //install<br>
 //buy pack<br>
