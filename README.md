@@ -36,20 +36,20 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-- VQ3 character movement - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
-- QW character movement - Air Control on its own rotation axis - forward vector is being controlled by the position of the character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
-- CPMA character movement - Full Air Control - forward vector is controlled by the direction of the player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
-- Dash;<br>
-- Character and Weapon Switch;<br>
-- Walk;<br>
-- Toggle Crouch;<br>
-- Bunnyhop;<br>
-- Weapon Zoom;<br>
-- Double Jump;<br>
-- Rocket Launcher Projectile;<br>
-- Real-time Physics Simulation;<br>
-- DM20 map reimagined creation;<br>
-- Smaller testing grounds map.<br><br>
+<strong><i>- VQ3 character movement</i></strong> - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+<strong><i>- QW character movement</i></strong> - Air Control on its own rotation axis - forward vector is being controlled by the position of character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
+<strong><i>- CPMA character movement</i></strong> - Full Air Control - forward vector is controlled by the direction of player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
+<strong><i>- Dash;</i></strong><br>
+<strong><i>- Character and Weapon Switch;</i></strong><br>
+<strong><i>- Walk;</i></strong><br>
+<strong><i>- Toggle Crouch;</i></strong><br>
+<strong><i>- Bunnyhop;</i></strong><br>
+<strong><i>- Weapon Zoom;</i></strong><br>
+<strong><i>- Double Jump;</i></strong><br>
+<strong><i>- Rocket Launcher Projectile;</i></strong><br>
+<strong><i>- Real-time Physics Simulation;</i></strong><br>
+<strong><i>- DM20 map reimagined creation;</i></strong><br>
+<strong><i>- Smaller testing grounds map.</i></strong><br><br>
 <strong>DM20 reimagined map</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8 #10-08-2019:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.
