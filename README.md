@@ -35,7 +35,7 @@ You can test some of our PACK functionalities and physics with the DEMO showcase
 Clone or Download this git for Windows (64-bit) or download Windows (32-bit) version <a href="https://za.gl/kbbR">here</a>.<br><br><br>
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
-Kosm-PACK is composed of a folder which you can import to your own Unreal Engine project.<br>
+<i>** Kosm-PACK is composed of a folder which you can import to your own Unreal Engine project. **</i><br>
 <h3>PACK ./includes:</h3>
 <strong><i>- VQ3 character movement</i></strong> - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
 <strong><i>- QW character movement</i></strong> - Air Control on its own rotation axis - forward vector is being controlled by the position of character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
