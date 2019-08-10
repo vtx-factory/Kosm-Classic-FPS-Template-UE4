@@ -71,7 +71,7 @@ A .pdf manual is included for further installation instructions, character selec
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
 <strong><i>t.maxfps 300</i> ></strong> When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key.</strong> Now click "Play" from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
-<strong><i>r.vsync 0</i> ></strong> With your "Console" key already binded, click "Play" and write r.vsync 0<br><br>
+<strong><i>r.vsync 0</i> ></strong> With your "Console" key already binded, click "Play" and write <i>r.vsync 0</i><br><br>
 <strong><i>Uncheck FOV Scaling</i> ></strong> go into Project Settings and type fov scaling in Search Details, then uncheck it.<br><br>
 <strong><i>Uncheck Mouse Smoothness</i> ></strong> go into Project Settings and type mouse smooth in Search Details, then uncheck it.<br><br>
 <strong><i>Change Mouse Sensitivity</i> ></strong> go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
