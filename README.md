@@ -75,7 +75,7 @@ A .pdf manual is included for further installation instructions, character selec
 <strong><i>Uncheck FOV Scaling</i> ></strong> go into Project Settings and type "FOV Scaling" in Search Details, then uncheck it.<br><br>
 <strong><i>Uncheck Mouse Smoothness</i> ></strong> go into Project Settings and type "Mouse Smooth" in Search Details, then uncheck it.<br><br>
 <strong><i>Change Mouse Sensitivity</i> ></strong> go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
-<strong><i>Enable Blutilities</i> ></strong> go to Editor Preferences and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget to start using them.<br><br><br>
+<strong><i>Enable Blutilities</i> ></strong> go to Editor Preferences and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
 <h2>Contributing</h2>
 If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
 <h2>Contact</h2>
