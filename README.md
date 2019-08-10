@@ -20,7 +20,7 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics with the DEMO showcase.
 <h3>DEMO ./includes:</h3>
-<strong><i>- VQ3 character movement </i></strong>- similar to Visor from Quake Champions - the longer the bunnyhop, the faster he travels;<br>
+<strong><i>- VQ3 character movement </i></strong>- the longer the bunnyhop, the faster he travels;<br>
 <strong><i>- Walk;</i></strong><br>
 <strong><i>- Toggle Crouch;</i></strong><br>
 <strong><i>- Bunnyhop;</i></strong><br>
@@ -36,7 +36,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-- VQ3 character movement - similar to Visor from Quake Champions - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+- VQ3 character movement - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
 - QW character movement - Air Control on its own rotation axis - forward vector is being controlled by the position of the character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
 - CPMA character movement - Full Air Control - forward vector is controlled by the direction of the player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
 - Dash;<br>
