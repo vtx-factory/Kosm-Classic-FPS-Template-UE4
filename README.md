@@ -26,10 +26,10 @@ Teste<br>
 <h3>DEMO ./download:</h3>
 Clone or Download this git for Windows (64-bit) or download Windows (32-bit) version <a href="https://za.gl/kbbR">here</a>.<br><br><br>
 <h1>Kosm-PACK</h1>
-<img src="https://www.vtxfactory.org/imgs/pack-prvw.gif" width="66%" />
+<img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
 Teste<br>
-VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk.gif" width="66%" />
+VQ3<img src="https://www.vtxfactory.org/imgs/vq3-mov-packk" width="66%" />
 QW<img src="https://www.vtxfactory.org/imgs/qw-mov-packkk" width="66%" />
 CPMA<img src="https://www.vtxfactory.org/imgs/cpma-mov-packk" width="66%" />
 LVL_SHOW<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
