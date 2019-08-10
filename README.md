@@ -50,7 +50,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong><i>- Rocket Launcher Projectile;</i></strong><br>
 <strong><i>- Real-time Physics Simulation;</i></strong><br>
 <strong><i>- DM20 map reimagined creation;</i></strong><br>
-<strong><i>- Smaller testing grounds map.</i></strong><br><br>
+<strong><i>- Smaller testing grounds map. (as seen on character movement showcase)</i></strong><br><br>
 <strong>DM20 reimagined:</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>v1.0.8:</strong><br> Added an extra ragdoll for you to mess up with collision and physics.<br><br>
