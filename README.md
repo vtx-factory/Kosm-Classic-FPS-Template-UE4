@@ -54,7 +54,11 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>- DM20 Reimagined Map</strong> - Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-⋅⋅* Unordered sub-list. 
+1. Item1
+   1. SubItemA
+   2. SubItemB
+      - wat
+        - hi
 <strong>&#8226; v1.0.8:</strong><br> - Added an extra ragdoll for you to mess up with collision and physics.<br>
 <strong>&#8226; v1.0.7:</strong><br>- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.<br>
 <strong>&#8226; v1.0.6:</strong><br>- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is to narrow.<br>
