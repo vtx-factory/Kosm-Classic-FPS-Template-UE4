@@ -70,11 +70,11 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
 <strong><i>t.maxfps 300</i> ></strong> When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key.</strong> Now click "Play" from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
-<strong><i>r.vsync 0</i> ></strong> With your "Console" key already binded, click "Play" and write <i>r.vsync 0</i> to turn off Vertical Sync.<br><br>
-<strong><i>Uncheck FOV Scaling</i> ></strong> go into Project Settings and type "FOV Scaling" in Search Details, then uncheck it.<br><br>
-<strong><i>Uncheck Mouse Smoothness</i> ></strong> go into Project Settings and type "Mouse Smooth" in Search Details, then uncheck it.<br><br>
-<strong><i>Change Mouse Sensitivity</i> ></strong> go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
-<strong><i>Enable Blutilities</i> ></strong> go to Editor Preferences and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
+<strong><i>&#8226; r.vsync 0</i></strong><br>- With your "Console" key already binded, click "Play" and write <i>r.vsync 0</i> to turn off Vertical Sync.<br><br>
+<strong><i>&#8226; Uncheck FOV Scaling</i></strong><br>-  go into Project Settings and type "FOV Scaling" in Search Details, then uncheck it.<br><br>
+<strong><i>&#8226; Uncheck Mouse Smoothness</i></strong><br>- go into Project Settings and type "Mouse Smooth" in Search Details, then uncheck it.<br><br>
+<strong><i>&#8226; Change Mouse Sensitivity</i></strong><br>- go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
+<strong><i>&#8226; Enable Blutilities</i></strong><br>- go to Editor Preferences and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
 <h2>Contributing</h2>
 If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
 <h2>Contact</h2>
