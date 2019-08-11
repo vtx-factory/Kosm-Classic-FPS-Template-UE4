@@ -79,8 +79,8 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
 <h2>Contact</h2>
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
+<strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
 <strong>Support</strong><br>support@vtxfactory.org<br><br>
-<strong>Feedback</strong><br>info@vtxfactory.org<br><br>
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.
 <br>
