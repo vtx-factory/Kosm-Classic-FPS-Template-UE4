@@ -52,14 +52,14 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong><i>- Smaller testing grounds map. (as seen on character movement showcase)</i></strong><br><br>
 <strong>DM20 reimagined:</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
-<strong>&#8226; v1.0.8:</strong><br>- Added an extra ragdoll for you to mess up with collision and physics.<br><br>
-<strong>&#8226; v1.0.7:</strong><br>- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.<br><br>
-<strong>&#8226; v1.0.6:</strong><br>- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is to narrow.<br><br>
-<strong>&#8226;v1.0.5:</strong><br>- Increased map Bound Scale limits to remove artifacts from viewport.<br><br>
-<strong>&#8226; v1.0.4:</strong><br>- Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br><br>
-<strong>&#8226; v1.0.3:</strong><br>- Increased trimp multiplier on slopes.<br><br>
-<strong>&#8226; v1.0.2:</strong><br>- Added Character and Weapon Switch capability.<br><br>
-<strong>&#8226; v1.0.1:</strong><br>- Increased step height so character can step up stairs.<br><br>
+<strong>&#8226; v1.0.8:</strong><br>- Added an extra ragdoll for you to mess up with collision and physics.<br>
+<strong>&#8226; v1.0.7:</strong><br>- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.<br>
+<strong>&#8226; v1.0.6:</strong><br>- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is to narrow.<br>
+<strong>&#8226; v1.0.5:</strong><br>- Increased map Bound Scale limits to remove artifacts from viewport.<br>
+<strong>&#8226; v1.0.4:</strong><br>- Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br>
+<strong>&#8226; v1.0.3:</strong><br>- Increased trimp multiplier on slopes.<br>
+<strong>&#8226; v1.0.2:</strong><br>- Added Character and Weapon Switch capability.<br>
+<strong>&#8226; v1.0.1:</strong><br>- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>- First build deployed.<br>
 <h3>PACK <i>[as of v1.0.8]</i> ./known_issues:</h3>
 - Projectile trajectory is not aligned with the crosshair. (for now)<br>
