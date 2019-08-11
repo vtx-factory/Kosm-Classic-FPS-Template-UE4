@@ -18,7 +18,7 @@ FPS mechanics to match our good and old-fashioned Quake franchise movement, on U
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
-You can test some of our PACK functionalities and physics with the <a href="#demo-preview">DEMO</a> showcase.
+You can test some of our PACK functionalities and physics in the <a href="#demo-preview">DEMO</a> showcase.
 <h3>DEMO ./includes:</h3>
 <strong>- VQ3 movement Character;</strong><br>
 <strong>- Custom Crosshair and Speedometer;</strong><br>
