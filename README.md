@@ -20,7 +20,7 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics with the <a href="#demo-preview">DEMO</a> showcase.
 <h3>DEMO ./includes:</h3>
-<strong>- VQ3 character movement;</strong><br>
+<strong>- VQ3 movement Character;</strong><br>
 <strong>- Walk;</strong><br>
 <strong>- Toggle Crouch;</strong><br>
 <strong>- Bunnyhop;</strong><br>
@@ -36,9 +36,9 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-<strong>- VQ3 character movement</strong> - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
-<strong>- QW character movement</strong> - Air Control on its own rotation axis - forward vector is being controlled by the position of character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
-<strong>- CPMA character movement</strong> - Full Air Control - forward vector is controlled by the direction of player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
+<strong>- VQ3 movement Character</strong> - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+<strong>- QW movement Character</strong> - Air Control on its own rotation axis - forward vector is being controlled by the position of character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
+<strong>- CPMA movement Character</strong> - Full Air Control - forward vector is controlled by the direction of player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
 <strong>- Dash;</strong><br>
 <strong>- Character and Weapon Switch;</strong><br>
 <strong>- Walk;</strong><br>
@@ -48,7 +48,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>- Double Jump;</strong><br>
 <strong>- Rocket Launcher Projectile;</strong><br>
 <strong>- Real-time Physics Simulation;</strong><br>
-<strong>- Smaller Testing Grounds Map</strong> - as seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a><br>
+<strong>- Smaller Testing Grounds Map</strong> - as seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a>;<br>
 <strong>- DM20 Reimagined Map</strong> - Pequeno texto aqui.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
