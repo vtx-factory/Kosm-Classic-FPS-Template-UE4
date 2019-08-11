@@ -55,8 +55,6 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 * Bullet list
-  * Nested bullet
-* Bullet list item 2
 <strong>&#8226; v1.0.8:</strong><br> - Added an extra ragdoll for you to mess up with collision and physics.<br>
 <strong>&#8226; v1.0.7:</strong><br>- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.<br>
 <strong>&#8226; v1.0.6:</strong><br>- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is to narrow.<br>
