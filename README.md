@@ -36,9 +36,9 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-<strong>- VQ3 movement Character</strong> - Longer the Bunnyhop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
-<strong>- QW movement Character</strong> - Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
-<strong>- CPMA movement Character</strong> - Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
+<strong>- VQ3 movement Character</strong>(Green) - Longer the Bunnyhop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+<strong>- QW movement Character</strong>(Blue) - Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
+<strong>- CPMA movement Character</strong>(Red) - Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
 <strong>- Dash;</strong><br>
 <strong>- Character and Weapon Switch;</strong><br>
 <strong>- Walk;</strong><br>
