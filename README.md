@@ -49,8 +49,8 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>- Rocket Launcher Projectile;</strong><br>
 <strong>- Real-time Physics Simulation;</strong><br>
 <strong>- DM20 reimagined map;</strong><br>
-<strong>- Smaller testing grounds map. (as seen on character movement showcase)</strong><br><br>
-<strong>DM20 reimagined:</strong><br><br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
+<strong>- Smaller testing grounds map</strong> - as seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a><br><br>
+<strong>DM20 reimagined:</strong><br>Pequeno texto aqui<br><img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.0.8:</strong><br>- Added an extra ragdoll for you to mess up with collision and physics.<br>
 <strong>&#8226; v1.0.7:</strong><br>- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching characters.<br>
