@@ -37,21 +37,21 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-<strong>- VQ3 movement Character</strong> (Green Actor)<br>Longer the Bunny-hop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br><br>
-<strong>- QW movement Character</strong> (Red Actor)<br>Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br><br>
-<strong>- CPMA movement Character</strong> (Blue Actor)<br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse; <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br><br>
-<strong>- Custom Crosshairs and Speedometer;</strong><br>
-<strong>- Dash;</strong><br>
-<strong>- Character and Weapon Switch;</strong><br>
-<strong>- Walk;</strong><br>
-<strong>- Toggle Crouch;</strong><br>
-<strong>- Bunny-hop;</strong><br>
-<strong>- Weapon Zoom;</strong><br>
-<strong>- Double Jump;</strong><br>
-<strong>- Rocket Launcher Projectile;</strong><br>
-<strong>- Real-time Physics Simulation;</strong><br>
-<strong>- Smaller Testing Grounds Map</strong> - as seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a>;<br>
-<strong>- DM20 Reimagined Map</strong> - Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
+<strong>&#8226; VQ3 movement Character</strong> (Green Actor)<br>Longer the Bunny-hop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br><br>
+<strong>&#8226; QW movement Character</strong> (Red Actor)<br>Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br><br>
+<strong>&#8226; CPMA movement Character</strong> (Blue Actor)<br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse; <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br><br>
+<strong>&#8226; Custom Crosshairs and Speedometer;</strong><br>
+<strong>&#8226; Dash;</strong><br>
+<strong>&#8226; Character and Weapon Switch;</strong><br>
+<strong>&#8226; Walk;</strong><br>
+<strong>&#8226; Toggle Crouch;</strong><br>
+<strong>&#8226; Bunny-hop;</strong><br>
+<strong>&#8226; Weapon Zoom;</strong><br>
+<strong>&#8226; Double Jump;</strong><br>
+<strong>&#8226; Rocket Launcher Projectile;</strong><br>
+<strong>&#8226; Real-time Physics Simulation;</strong><br>
+<strong>&#8226; Smaller Testing Grounds Map</strong> - as seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a>;<br>
+<strong>&#8226; DM20 Reimagined Map</strong> - Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.0.8:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
