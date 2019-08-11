@@ -11,9 +11,9 @@ FPS mechanics to match our good and old-fashioned Quake franchise movement, on U
 &nbsp;<a href="#pack-includes">- Includes</a><br>
 &nbsp;<a href="#pack-patch_notes">- Patch Notes</a><br>
 &nbsp;<a href="#pack-as-of-v108-known_issues">- Known Issues</a><br>
-&nbsp;<a href="#pack-install">- Installation</a><br>
+&nbsp;<a href="#pack-installation">- Installation</a><br>
 &nbsp;<a href="#pack-buy">- Buy</a><br>
-<a href="#unreal-engines-qol-improvements">&#8226; Unreal Engine 4 QoL improvements</a><br>
+<a href="#unreal-engine-4-qol-improvements">&#8226; Unreal Engine 4 QoL improvements</a><br>
 <a href="#contributing">&#8226; Contributing</a><br>
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
