@@ -71,7 +71,7 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
-<strong>&#8226; t.maxfps 300</strong><br>- When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your <strong>Console key</strong>.</strong> Now click <strong>Play</strong> from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br>
+<p><strong>&#8226; t.maxfps 300</strong><br>- When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your <strong>Console key</strong>.</strong> Now click <strong>Play</strong> from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)</p><br>
 <strong>&#8226; r.vsync 0</strong><br>- With your <strong>Console key</strong> already binded, click <strong>Play</strong> in the <strong>Editor Viewport</strong> and write <i>r.vsync 0</i> to disable Vertical Sync.<br>
 <strong>&#8226; Uncheck FOV Scaling</strong><br>-  Go into <strong>Project Settings</strong> and type "FOV Scaling" in <strong>Search Details</strong>, then uncheck it.<br>
 <strong>&#8226; Uncheck Mouse Smoothness</strong><br>- Go into <strong>Project Settings</strong> and type "Mouse Smooth" in <strong>Search Details</strong>, then uncheck it.<br>
