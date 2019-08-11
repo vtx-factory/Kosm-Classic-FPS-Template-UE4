@@ -36,9 +36,9 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-<strong><i>- VQ3 character movement</i></strong> - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
-<strong><i>- QW character movement</i></strong> - Air Control on its own rotation axis - forward vector is being controlled by the position of character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
-<strong><i>- CPMA character movement</i></strong> - Full Air Control - forward vector is controlled by the direction of player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
+<strong>- VQ3 character movement</strong> - the longer the bunnyhop, the faster he travels; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+<strong>- QW character movement</strong> - Air Control on its own rotation axis - forward vector is being controlled by the position of character's shoulder; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
+<strong>- CPMA character movement</strong> - Full Air Control - forward vector is controlled by the direction of player's crosshair - character gains acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
 <strong>- Dash;</strong><br>
 <strong>- Character and Weapon Switch;</strong><br>
 <strong>- Walk;</strong><br>
@@ -69,11 +69,11 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine's QoL improvements:</h1>
-<strong>&#8226; t.maxfps 300</strong>- When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key.</strong> Now click "Play" from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
-<strong>&#8226; r.vsync 0</strong><br>- With your "Console" key already binded, click "Play" and write <i>r.vsync 0</i> to turn off Vertical Sync.<br><br>
-<strong>&#8226; Uncheck FOV Scaling</strong><br>-  Go into Project Settings and type "FOV Scaling" in Search Details, then uncheck it.<br><br>
-<strong>&#8226; Uncheck Mouse Smoothness</strong><br>- Go into Project Settings and type "Mouse Smooth" in Search Details, then uncheck it.<br><br>
-<strong>&#8226; Change Mouse Sensitivity</strong><br>- Go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br><br>
+<strong>&#8226; t.maxfps 300</strong>- When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increse the cap, find your console toggle key <strong>- go to Edit > Project Settings > type "Console" in "Search Details" field and bind your "Console" key.</strong> Now click "Play" from the main toolbar, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br>
+<strong>&#8226; r.vsync 0</strong><br>- With your "Console" key already binded, click "Play" and write <i>r.vsync 0</i> to turn off Vertical Sync.<br>
+<strong>&#8226; Uncheck FOV Scaling</strong><br>-  Go into Project Settings and type "FOV Scaling" in Search Details, then uncheck it.<br>
+<strong>&#8226; Uncheck Mouse Smoothness</strong><br>- Go into Project Settings and type "Mouse Smooth" in Search Details, then uncheck it.<br>
+<strong>&#8226; Change Mouse Sensitivity</strong><br>- Go into Project Settings and select Input from the left column, then scroll down until you see "Turn" and "LookUp" inside Axis Mappings, then just change the "Scale" property.<br>
 <strong>&#8226; Enable Blutilities</strong><br>- go to Editor Preferences and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
 <h2>Contributing</h2>
 If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
