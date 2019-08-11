@@ -13,7 +13,7 @@ FPS mechanics to match our good and old-fashioned Quake franchise movement, on U
 &nbsp;<a href="#pack-as-of-v108-known_issues">- Known Issues</a><br>
 &nbsp;<a href="#pack-install">- Installation</a><br>
 &nbsp;<a href="#pack-buy">- Buy</a><br>
-<a href="#unreal-engines-qol-improvements">&#8226; Unreal Engine QoL improvements</a><br>
+<a href="#unreal-engines-qol-improvements">&#8226; Unreal Engine 4 QoL improvements</a><br>
 <a href="#contributing">&#8226; Contributing</a><br>
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
@@ -70,7 +70,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 Kosm-PACK is composed of a folder which you can import to a new or existing Unreal Engine project. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
-<h1>Unreal Engine's QoL improvements:</h1>
+<h1>Unreal Engine 4 QoL improvements:</h1>
 <strong>&#8226; t.maxfps 300</strong><br>- When playing the active level in editor viewport, it caps your fps to the current monitor's refresh rate. To increase the cap, go to <strong>Edit > Project Settings</strong> and type "Console" in <strong>Search Details</strong> field to bind your <strong>Console key</strong>. Now click <strong>Play</strong> from the <strong>Editor Viewport</strong>, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br>
 <strong>&#8226; r.vsync 0</strong><br>- With your <strong>Console key</strong> already binded, click <strong>Play</strong> in the <strong>Editor Viewport</strong> and write <i>r.vsync 0</i> to disable Vertical Sync.<br>
 <strong>&#8226; Uncheck FOV Scaling</strong><br>-  Go into <strong>Project Settings</strong> and type "FOV Scaling" in <strong>Search Details</strong>, then uncheck it.<br>
