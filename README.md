@@ -24,7 +24,7 @@ You can test some of our PACK functionalities and physics in the <a href="#demo-
 <strong>- Custom Crosshair and Speedometer;</strong><br>
 <strong>- Walk;</strong><br>
 <strong>- Toggle Crouch;</strong><br>
-<strong>- Bunnyhop;</strong><br>
+<strong>- Bunny-hop;</strong><br>
 <strong>- Weapon Zoom;</strong><br>
 <strong>- Double Jump;</strong><br>
 <strong>- Rocket Launcher Projectile;</strong><br>
@@ -37,7 +37,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-<strong>- VQ3 movement Character</strong> (Green Actor) - Longer the Bunnyhop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
+<strong>- VQ3 movement Character</strong> (Green Actor) - Longer the Bunny-hop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
 <strong>- QW movement Character</strong> (Red Actor) - Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
 <strong>- CPMA movement Character</strong> (Blue Actor) - Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse; <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
 <strong>- Custom Crosshairs and Speedometer;</strong><br>
@@ -45,7 +45,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>- Character and Weapon Switch;</strong><br>
 <strong>- Walk;</strong><br>
 <strong>- Toggle Crouch;</strong><br>
-<strong>- Bunnyhop;</strong><br>
+<strong>- Bunny-hop;</strong><br>
 <strong>- Weapon Zoom;</strong><br>
 <strong>- Double Jump;</strong><br>
 <strong>- Rocket Launcher Projectile;</strong><br>
