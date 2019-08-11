@@ -37,9 +37,9 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
-<strong>&#8226; VQ3 movement Character;</strong> (Green Actor) <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
-<strong>&#8226; QW movement Character;</strong> (Red Actor) <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>.<br><br>
-<strong>&#8226; CPMA movement Character;</strong> (Blue Actor) <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
+<strong>&#8226; VQ3 movement Character;</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
+<strong>&#8226; QW movement Character;</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/qw-mov.mp4">(preview movement)</a><br>Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>.<br><br>
+<strong>&#8226; CPMA movement Character;</strong> (Blue Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 <strong>&#8226; Custom Crosshairs and Speedometer;</strong><br>
 <strong>&#8226; Dash;</strong><br>
 <strong>&#8226; Character and Weapon Switch;</strong><br>
@@ -50,7 +50,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; Double Jump;</strong><br>
 <strong>&#8226; Rocket Launcher Projectile;</strong><br>
 <strong>&#8226; Real-time Physics Simulation;</strong><br><br>
-<strong>&#8226; Smaller Testing Grounds Map;</strong><br>As seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a>.<br><br>
+<strong>&#8226; Smaller Testing Grounds Map;</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
 <strong>&#8226; DM20 Reimagined Map</strong><br>Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
