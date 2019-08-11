@@ -51,7 +51,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>- Rocket Launcher Projectile;</strong><br>
 <strong>- Real-time Physics Simulation;</strong><br>
 <strong>- Smaller Testing Grounds Map</strong> - as seen on <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">Character Movement Showcase</a>;<br>
-<strong>- DM20 Reimagined Map for Unreal Engine 4</strong> - Pequeno texto aqui.<br><br>
+<strong>- DM20 Reimagined Map</strong> - Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.0.8:</strong><br>- Added an extra ragdoll for you to mess up with collision and physics.<br>
