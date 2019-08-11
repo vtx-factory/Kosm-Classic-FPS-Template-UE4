@@ -21,7 +21,7 @@ FPS mechanics to match our good and old-fashioned Quake franchise movement, on U
 You can test some of our PACK functionalities and physics with the <a href="#demo-preview">DEMO</a> showcase.
 <h3>DEMO ./includes:</h3>
 <strong>- VQ3 movement Character;</strong><br>
-<strong>- Crosshair and Speedometer;</strong><br>
+<strong>- Custom Crosshair and Speedometer;</strong><br>
 <strong>- Walk;</strong><br>
 <strong>- Toggle Crouch;</strong><br>
 <strong>- Bunnyhop;</strong><br>
@@ -40,7 +40,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>- VQ3 movement Character</strong> <span style="color:#68cc55">(Green)</span> - Longer the Bunnyhop, faster the travel; <a href="https://www.youtube.com/watch?v=2cxf8LLgrd8">(preview movement)</a><br>
 <strong>- QW movement Character</strong> (Red) - Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>; <a href="https://www.youtube.com/watch?v=nGmjSubCl_Q">(preview movement)</a><br>
 <strong>- CPMA movement Character</strong> (Blue) - Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse. <a href="https://www.youtube.com/watch?v=HJiCq22BOOc">(preview movement)</a><br>
-<strong>- Crosshair and Speedometer;</strong><br>
+<strong>- Custom Crosshairs and Speedometer;</strong><br>
 <strong>- Dash;</strong><br>
 <strong>- Character and Weapon Switch;</strong><br>
 <strong>- Walk;</strong><br>
