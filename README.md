@@ -20,16 +20,16 @@ FPS mechanics to match our good and old-fashioned Quake franchise movement, on U
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics in the <a href="#demo-preview">DEMO Showcase</a>.
 <h3>DEMO ./includes:</h3>
-<strong>- VQ3 movement Character;</strong><br>
-<strong>- Custom Crosshair and Speedometer;</strong><br>
-<strong>- Walk;</strong><br>
-<strong>- Toggle Crouch;</strong><br>
-<strong>- Bunny-hop;</strong><br>
-<strong>- Weapon Zoom;</strong><br>
-<strong>- Double Jump;</strong><br>
-<strong>- Rocket Launcher Projectile;</strong><br>
-<strong>- Real-time Physics Simulation;</strong><br>
-<strong>- Small Sandbox.</strong><br>
+<strong>&#8226; VQ3 movement Character;</strong><br>
+<strong>&#8226; Custom Crosshair and Speedometer;</strong><br>
+<strong>&#8226; Walk;</strong><br>
+<strong>&#8226; Toggle Crouch;</strong><br>
+<strong>&#8226; Bunny-hop;</strong><br>
+<strong>&#8226; Weapon Zoom;</strong><br>
+<strong>&#8226; Double Jump;</strong><br>
+<strong>&#8226; Rocket Launcher Projectile;</strong><br>
+<strong>&#8226; Real-time Physics Simulation;</strong><br>
+<strong>&#8226; Small Sandbox.</strong><br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
