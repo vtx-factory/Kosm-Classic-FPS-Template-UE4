@@ -86,8 +86,3 @@ If you'd like to contribute to this project in any way, feel free to pull a requ
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.
 <br>
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
