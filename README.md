@@ -18,9 +18,9 @@ FPS mechanics to match the classical Quake franchise movement. This Pack include
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
-You can test some of our PACK functionalities and physics with the DEMO showcase.
+You can test some of our PACK functionalities and physics with the <a href="#demo-preview">DEMO</a> showcase.
 <h3>DEMO ./includes:</h3>
-<strong><i>- VQ3 character movement </i></strong>- the longer the bunnyhop, the faster he travels;<br>
+<strong><i>- VQ3 character movement </i></strong><br>
 <strong><i>- Walk;</i></strong><br>
 <strong><i>- Toggle Crouch;</i></strong><br>
 <strong><i>- Bunnyhop;</i></strong><br>
