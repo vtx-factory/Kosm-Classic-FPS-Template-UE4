@@ -1,5 +1,5 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
-FPS mechanics to match our good and old-fashioned Quake franchise movement, on Unreal Engine. This Pack includes 3 Characters with distinct movements (defined as VQ3, QW and CPMA), a reimagined DM20 Map plus a smaller one for you to make all your testing.<br><br>
+FPS mechanics to match our good and old-fashioned Quake franchise movement, on Unreal Engine. This Pack includes 3 Characters with distinct movements (defined as VQ3, QW and CPMA), a reimagined DM20 Map plus a smaller one for you to make all your testing and much more.<br><br>
 <strong><i>Current Development version:</i></strong> v1.0.8<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.3 - v4.23.0 Preview 5<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
@@ -51,7 +51,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; Rocket Launcher Projectile</strong><br>
 <strong>&#8226; Real-time Physics Simulation</strong><br><br>
 <strong>&#8226; Smaller Testing Grounds Map</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
-<strong>&#8226; DM20 Reimagined Map</strong><br>Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
+<strong>&#8226; DM20 Reimagined Map</strong><br>Raise your weapon and get nostalgic with this recreation.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.0.8:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
