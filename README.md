@@ -71,7 +71,7 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine 4 QoL improvements:</h1>
-<strong>&#8226; COMO FAZER PARA APARECER OS FPS E A MEMORIA A SER USADA NO CANTO SUPERIOR DIREITO.<br><br>
+<strong>&#8226; COMO FAZER PARA APARECER OS FPS E A MEMORIA A SER USADA NO CANTO SUPERIOR DIREITO.</strong><br><br>
 <strong>&#8226; t.MaxFPS 300</strong><br>When playing the active level in editor viewport, it caps your fps to 60. To increase the cap, go to <strong>Edit > Project Settings</strong> and type "Console" in <strong>Search Details</strong> field to bind your <strong>Console key</strong>. Now click <strong>Play</strong> from the <strong>Editor Viewport</strong>, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
 <strong>&#8226; r.VSync 0</strong><br>With your <strong>Console key</strong> already binded, click <strong>Play</strong> in the <strong>Editor Viewport</strong> and write <i>r.vsync 0</i> to disable Vertical Sync.<br><br>
 <strong>&#8226; Uncheck FOV Scaling</strong><br>Go into <strong>Project Settings</strong> and type "FOV Scaling" in <strong>Search Details</strong>, then uncheck it.<br><br>
