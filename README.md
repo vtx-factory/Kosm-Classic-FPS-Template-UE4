@@ -54,6 +54,11 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; DM20 Reimagined Map</strong><br>Raise your weapon and get nostalgic with this recreation.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
+<strong>&#8226; v1.1.0:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
+&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
+&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
+&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
+&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
 <strong>&#8226; v1.0.8:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
 <strong>&#8226; v1.0.7:</strong><br>&nbsp;&nbsp;- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
 <strong>&#8226; v1.0.6:</strong><br>&nbsp;&nbsp;- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
