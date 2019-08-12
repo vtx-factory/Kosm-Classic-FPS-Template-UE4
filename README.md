@@ -1,7 +1,7 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
 FPS mechanics to match our good and old-fashioned Quake franchise movement, on Unreal Engine. This Pack includes 3 Characters with distinct movements (defined as VQ3, QW and CPMA), a reimagined DM20 Map plus a smaller one for you to make all your testing and much more.<br><br>
-<strong><i>Current Development Build:</i></strong> v1.1.0<br>
-<strong><i>Unreal Engine Compatibility Version:</i></strong> v4.22.3 - v4.23.0 Preview 5<br><br>
+<strong><i>Current development build:</i></strong> v1.1.0<br>
+<strong><i>Unreal Engine compatibility version:</i></strong> v4.22.3 - v4.23.0 Preview 5<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 <a href="#kosm-demo">&#8226; Kosm-DEMO</a><br>
 &nbsp;<a href="#demo-includes">- Includes</a><br>
