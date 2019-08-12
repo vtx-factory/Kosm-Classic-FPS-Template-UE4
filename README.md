@@ -20,16 +20,16 @@ FPS mechanics to match our good and old-fashioned Quake franchise movement, on U
 <h1>Kosm-DEMO</h1>
 You can test some of our PACK functionalities and physics in the <a href="#demo-preview">DEMO Showcase</a>.
 <h3>DEMO ./includes:</h3>
-<strong>&#8226; VQ3 movement Character;</strong><br>
-<strong>&#8226; Custom Crosshair and Speedometer;</strong><br>
-<strong>&#8226; Walk;</strong><br>
-<strong>&#8226; Toggle Crouch;</strong><br>
-<strong>&#8226; Bunny-hop;</strong><br>
-<strong>&#8226; Weapon Zoom;</strong><br>
-<strong>&#8226; Double Jump;</strong><br>
-<strong>&#8226; Rocket Launcher Projectile;</strong><br>
-<strong>&#8226; Real-time Physics Simulation;</strong><br>
-<strong>&#8226; Small Sandbox.</strong><br>
+<strong>&#8226; VQ3 movement Character</strong><br>
+<strong>&#8226; Custom Crosshair and Speedometer</strong><br>
+<strong>&#8226; Walk</strong><br>
+<strong>&#8226; Toggle Crouch</strong><br>
+<strong>&#8226; Bunny-hop</strong><br>
+<strong>&#8226; Weapon Zoom</strong><br>
+<strong>&#8226; Double Jump</strong><br>
+<strong>&#8226; Rocket Launcher Projectile</strong><br>
+<strong>&#8226; Real-time Physics Simulation</strong><br>
+<strong>&#8226; Small Sandbox</strong><br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
@@ -40,17 +40,17 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; VQ3 movement Character;</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
 <strong>&#8226; QW movement Character;</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/qw-mov.mp4">(preview movement)</a><br>Air Control on its own rotation axis - input forward vector is relative to the position of Character's <i>shoulder</i>.<br><br>
 <strong>&#8226; CPMA movement Character;</strong> (Blue Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
-<strong>&#8226; Custom Crosshairs and Speedometer;</strong><br>
-<strong>&#8226; Dash;</strong><br>
-<strong>&#8226; Character and Weapon Switch;</strong><br>
-<strong>&#8226; Walk;</strong><br>
-<strong>&#8226; Toggle Crouch;</strong><br>
-<strong>&#8226; Bunny-hop;</strong><br>
-<strong>&#8226; Weapon Zoom;</strong><br>
-<strong>&#8226; Double Jump;</strong><br>
-<strong>&#8226; Rocket Launcher Projectile;</strong><br>
-<strong>&#8226; Real-time Physics Simulation;</strong><br><br>
-<strong>&#8226; Smaller Testing Grounds Map;</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
+<strong>&#8226; Custom Crosshairs and Speedometer</strong><br>
+<strong>&#8226; Dash</strong><br>
+<strong>&#8226; Character and Weapon Switch</strong><br>
+<strong>&#8226; Walk</strong><br>
+<strong>&#8226; Toggle Crouch</strong><br>
+<strong>&#8226; Bunny-hop</strong><br>
+<strong>&#8226; Weapon Zoom</strong><br>
+<strong>&#8226; Double Jump</strong><br>
+<strong>&#8226; Rocket Launcher Projectile</strong><br>
+<strong>&#8226; Real-time Physics Simulation</strong><br><br>
+<strong>&#8226; Smaller Testing Grounds Map</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
 <strong>&#8226; DM20 Reimagined Map</strong><br>Revisit this old masterpiece, now in Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <h3>PACK ./patch_notes:</h3>
