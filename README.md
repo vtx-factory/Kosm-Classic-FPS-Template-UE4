@@ -1,6 +1,6 @@
 # Kosm: A FPS Movement Pack For Unreal Engine 4
 FPS mechanics to match our good and old-fashioned Quake franchise movement, on Unreal Engine. This Pack includes 3 Characters with distinct movements (defined as VQ3, QW and CPMA), a reimagined DM20 Map plus a smaller one for you to make all your testing and much more.<br><br>
-<strong><i>Current Development version:</i></strong> v1.0.8<br>
+<strong><i>Current Development version:</i></strong> v1.1.0<br>
 <strong><i>Unreal Engine compatibility:</i></strong> v4.22.3 - v4.23.0 Preview 5<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 <a href="#kosm-demo">&#8226; Kosm-DEMO</a><br>
@@ -64,8 +64,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
 <h3>PACK <i>[as of v1.0.8]</i> ./known_issues:</h3>
-- Projectile trajectory is not aligned with the crosshair. (for now)<br>
-- VQ3 character movement needs to be smoothed out - when jumping in order for the input forward impulse not to be so noticeable.
+<i>- Nothing to report</i><br>
 <h3>PACK ./installation:</h3>
 Kosm-PACK is composed of a folder which you can import to a new or existing Unreal Engine project. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
