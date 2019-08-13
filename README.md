@@ -68,7 +68,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; v1.0.2:</strong><br>&nbsp;&nbsp;- Added Character and Weapon Switch capability.<br>
 <strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
-<h3>PACK <i>[as of v1.1.0]</i> ./known_issues:</h3>
+<h3>PACK ./known_issues:</h3>
 <strong>&#8226; as of v1.1.0:</strong><br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly not aligned with fired Projectile.<br>
 <h3>PACK ./installation:</h3>
@@ -76,7 +76,7 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Marketplace</a><br><br><br>
 <h1>Unreal Engine 4 QoL improvements:</h1>
-<strong>&#8226; Show Frame Rate and Memory in Editor</strong><br>Go into Edit > Editor Preferences and type in Search Details Show Frame Rate and Memory and check it.<br><br>
+<strong>&#8226; Show Frame Rate and Memory in Editor</strong><br>Go into <strong>Edit > Editor Preferences</strong> and type in <strong>Search Details<strong> "Show Frame Rate and Memory", then check it.<br><br>
 <strong>&#8226; t.MaxFPS 300</strong><br>When playing the active level in editor viewport, it caps your fps to 60. To increase the cap, go to <strong>Edit > Project Settings</strong> and type "Console" in <strong>Search Details</strong> field to bind your <strong>Console key</strong>. Now click <strong>Play</strong> from the <strong>Editor Viewport</strong>, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
 <strong>&#8226; r.VSync 0</strong><br>With your <strong>Console key</strong> already binded, click <strong>Play</strong> in the <strong>Editor Viewport</strong> and write <i>r.vsync 0</i> to disable Vertical Sync.<br><br>
 <strong>&#8226; Uncheck FOV Scaling</strong><br>Go into <strong>Project Settings</strong> and type "FOV Scaling" in <strong>Search Details</strong>, then uncheck it.<br><br>
