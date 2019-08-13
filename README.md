@@ -72,7 +72,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; as of v1.1.0:</strong><br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop in upcoming patch.<br>
-&nbsp;&nbsp;- VQ3 Acceleration Detection will be upgraded in upcoming patch.<br>
+&nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded in upcoming patch.<br>
 <h3>PACK ./installation:</h3>
 Kosm-PACK is composed of a folder which you can import to a new or existing Unreal Engine project. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
