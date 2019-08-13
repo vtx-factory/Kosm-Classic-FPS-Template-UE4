@@ -83,7 +83,7 @@ Kosm-PACK is composed of a folder which you can import to a new or existing Unre
 <strong>&#8226; Change Mouse Sensitivity</strong><br>Go into <strong>Project Settings</strong> and select <strong>Input</strong> from the left column, then scroll down until you see <strong>Turn</strong> and <strong>LookUp</strong> inside <strong>Axis Mappings</strong>, then just change the <strong>Scale</strong> property.<br><br>
 <strong>&#8226; Enable Blutilities</strong><br>Go to <strong>Editor Preferences</strong> and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
 <h2>Contributing</h2>
-If you'd like to contribute to this project in any way, feel free to pull a request.<br><br>
+If you'd like to contribute to this project in any way, please feel free to pull a request or contact us directly.<br><br>
 <h2>Contact</h2>
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
 <strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
