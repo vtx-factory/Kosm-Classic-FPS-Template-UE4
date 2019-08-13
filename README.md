@@ -74,7 +74,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <h3>PACK ./installation:</h3>
 Kosm-PACK is composed of a folder which you can import to a new or existing Unreal Engine project. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
-<a href="#">Unreal Marketplace</a><br><br><br>
+<a href="#">Unreal Engine Marketplace</a><br><br><br>
 <h1>Unreal Engine 4 QoL improvements:</h1>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 <strong>&#8226; Show Frame Rate and Memory in Editor</strong><br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
