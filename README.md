@@ -28,7 +28,7 @@ You can test some of our PACK functionalities and physics in the <a href="#demo-
 <strong>&#8226; Weapon Zoom</strong><br>
 <strong>&#8226; Double Jump</strong><br>
 <strong>&#8226; Rocket Launcher Projectile</strong><br>
-<strong>&#8226; Small Sandbox</strong><br>
+<strong>&#8226; Testing Grounds Map</strong><br>
 <h3>DEMO ./preview:</h3>
 <a href="https://za.gl/7Zeir5">Kosm-DEMO (HTML5)</a><br>
 <h3>DEMO ./download:</h3>
@@ -50,7 +50,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; Rocket Launcher Projectile</strong><br><br>
 <strong>&#8226; DM20 Reimagined Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
-<strong>&#8226; Smaller Testing Grounds Map</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
+<strong>&#8226; Testing Grounds Map</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.1.0:</strong><br>
 &nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
