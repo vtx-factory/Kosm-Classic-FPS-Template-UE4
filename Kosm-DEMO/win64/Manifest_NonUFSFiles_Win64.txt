@@ -1,4 +1,4 @@
-AFPS_Movement_Demo/Binaries/Win64/AFPS_Movement_Demo.exe	2019-08-05T17:54:04.377Z
+Kosm_DEMO/Binaries/Win64/Kosm_DEMO.exe	2019-08-14T15:15:27.236Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2019-05-26T08:53:17.530Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2019-05-26T08:50:59.429Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2019-05-26T08:50:42.464Z
@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll	2019-05-26T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2019-05-26T08:50:59.521Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2019-05-26T08:51:28.519Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2019-05-26T08:51:28.528Z
-AFPS_Movement_Demo.exe	2019-08-05T18:46:25.843Z
+Kosm_DEMO.exe	2019-08-14T22:31:10.826Z
