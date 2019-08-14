@@ -55,10 +55,11 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; Smaller Testing Grounds Map</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.1.0:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
-&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
-&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
-&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
-&nbsp;&nbsp;- Added an extra ragdoll for you to mess up with collision and physics.<br>
+&nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (it will be upgraded in upcoming patch)<br>
+&nbsp;&nbsp;- Aligned Projectile with Crosshair.<br>
+&nbsp;&nbsp;- Revamped Rocket Launcher Projectile animations and particles.<br>
+&nbsp;&nbsp;- Fixed a SpawnedDecal error.<br>
+&nbsp;&nbsp;- Updated to support Unreal Engine 4.23.0 Preview 6.<br>
 <strong>&#8226; v1.0.8:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to test collision and physics.<br>
 <strong>&#8226; v1.0.7:</strong><br>&nbsp;&nbsp;- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
 <strong>&#8226; v1.0.6:</strong><br>&nbsp;&nbsp;- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
