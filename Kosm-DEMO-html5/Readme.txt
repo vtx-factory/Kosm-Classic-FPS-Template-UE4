@@ -105,4 +105,3 @@ Local Testing
 	OSX and Linux normally have Apache installed.
 	* You can use that for testing which has the closest behavior to most web host providers.
 
-
