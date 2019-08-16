@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<!--
+     HTML code used with Epic Games HTML5 projects
+
+     much of this is for UE4 development purposes.
+
+     to create a custom HTML file for your project:
+     - make a copy of this file - or make one from scratch
+     - and put it in: "your project folder"/Build/HTML/GameX.html.template
+-->
+
+<html lang="en">
+<head>
+	<title>vtx factory.org :: FPS_Movement_Demo</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+	<link href="Kosm_DEMO.css" rel="stylesheet">
+</head>
+<body style="background-color: #0f0f0f;">
+<br><a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack" target="_blank"><img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 33%;" /></a><br>
+<div style="color:#fff;text-align: center;">** For an optimal experience, please turn on GPU Acceleration in your browser settings - Google Chrome or Mozzila Firefox are recommended. **</div>
+<div class="wrapper" id="mainarea" style="width:33%">
+	<div class="alert alert-warning centered-axis-xy" style="min-height: 20px; display:none;" role="alert" id="compilingmessage">
+		<div id='loadTasks'> </div>
+	</div>
+	<!-- The "tabindex=0" specifier on the canvas is important to allow it to capture keyboard focus when clicking on it with a mouse -->
+	<canvas tabindex=0 id="canvas" class="emscripten" oncontextmenu="event.preventDefault()" style="display:none;">
+</div><br>
+
+<div class="text-center"><button type="button" class="btn btn-primary" id="fullscreen_request" style="padding:10px;">FULLSCREEN</button></div><br>
+
+<script src="Kosm_DEMO.UE4.js"></script>
+</body>
+</html>
