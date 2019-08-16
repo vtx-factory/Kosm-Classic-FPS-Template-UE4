@@ -71,8 +71,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <h3>PACK ./known_issues:</h3>
 <strong>&#8226; as of v1.1.0:</strong><br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
-&nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop in upcoming patch.<br>
-&nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded in upcoming patch.<br>
+&nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop in subsequent patch.<br>
+&nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded in subsequent patch.<br>
 <h3>PACK ./installation:</h3>
 Kosm-PACK is composed of a folder which you can import to a new or existing Unreal Engine project. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
