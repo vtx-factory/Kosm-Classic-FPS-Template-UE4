@@ -49,7 +49,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; Double Jump</strong><br>
 <strong>&#8226; Rocket Launcher Projectile</strong><br><br>
 <strong>&#8226; DM20 Reimagined Map:</strong><br>
-<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
+<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" /><br>
 <strong>&#8226; Testing Grounds Map</strong><br>As seen on <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">Character Movement Showcase</a>.<br><br>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.1.0:</strong><br>
