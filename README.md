@@ -51,7 +51,7 @@ Clone or Download this git for Windows (64-bit) or download Windows (32-bit) ver
 <strong>&#8226; DM20 Reimagined Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <p><strong>&#8226; Testing Grounds Map:</strong><br>
-<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" /></p><br><br>
+<img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p><br><br>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.1.0:</strong><br>
 &nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
