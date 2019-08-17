@@ -32,7 +32,7 @@ You can test some of our PACK functionalities and physics in the <a href="#demo-
 <h3>DEMO ./preview:</h3>
 <a href="http://bit.ly/2Nb5k40">Kosm-DEMO (html5)</a><br>
 <h3>DEMO ./download:</h3>
-Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform. <strong>(or clone this git if you want the html5 version)</strong><br><br><br>
+Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform. <strong>(or clone this git if you want the html5 version [you will have to host it in your own webserver])</strong><br><br><br>
 <h1>Kosm-PACK</h1>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
