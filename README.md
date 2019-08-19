@@ -52,7 +52,7 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 <strong>&#8226; Weapon Zoom</strong><br>
 <strong>&#8226; Double Jump</strong><br>
 <strong>&#8226; Rocket Launcher Projectile</strong><br><br>
-<strong>&#8226; DM20 Reimagined Map:</strong><br>
+<strong>&#8226; Fortress Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <p><strong>&#8226; Testing Grounds Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
