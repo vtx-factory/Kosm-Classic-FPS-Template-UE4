@@ -78,7 +78,7 @@ Clone this git for the html5 version. (you'll have to host it on your own webser
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop in subsequent patch.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded in subsequent patch.<br>
 <h3>PACK ./installation:</h3>
-Kosm-PACK is composed of a .uproject file that you can open on-the-fly and a content folder which you can import to a new or existing Unreal Engine project. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
+Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly and a content folder which you can <strong>import to a new or existing Unreal Engine project</strong>. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
 <a href="#">Unreal Engine Marketplace</a><br><br><br>
 <h1>Unreal Engine 4 QoL improvements:</h1>
