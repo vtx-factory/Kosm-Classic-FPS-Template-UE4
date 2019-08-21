@@ -31,7 +31,7 @@ You can test some of our PACK functionalities and physics in the <a href="#demo-
 <strong>&#8226; Rocket Launcher Projectile</strong><br>
 <strong>&#8226; Testing Grounds Map</strong><br>
 <h3>DEMO ./preview:</h3>
-<a href="https://www.vtxfactory.org/main/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
+<a href="https://kosm.vtxfactory.org/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
 <h3>DEMO ./download:</h3>
 <strong>&#8226; Windows 64-bit/32-bit executables</strong><br>
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
