@@ -77,7 +77,7 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
-&nbsp;&nbsp;-  Theres a delay on the next fired Projectile when firing any weapon and switching to another at the same time.<br>
+&nbsp;&nbsp;-  Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
 <h3>PACK ./installation:</h3>
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly and a content folder which you can <strong>import to a new or existing Unreal Engine project</strong>. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
