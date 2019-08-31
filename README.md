@@ -73,10 +73,11 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 <strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
 <h3>PACK ./known_issues:</h3>
-<strong>&#8226; as of v1.1.0:</strong><br>
+<strong>&#8226; as of v1.1.0: <i>(to be fixed in subsequent updates)</i></strong><br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
-&nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop in subsequent patch.<br>
-&nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded in subsequent patch.<br>
+&nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
+&nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
+&nbsp;&nbsp;-  Theres a delay on the next fired projectile when firing any weapon and switching to another at the same time.<br>
 <h3>PACK ./installation:</h3>
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly and a content folder which you can <strong>import to a new or existing Unreal Engine project</strong>. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK ./buy:</h3>
