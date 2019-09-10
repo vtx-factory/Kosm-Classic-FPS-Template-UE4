@@ -56,7 +56,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Enabled Raw Input support.<br>
-&nbsp;&nbsp;- Added Damage indicators<br>
+&nbsp;&nbsp;- Added Damage Indicators.<br>
 &nbsp;&nbsp;- Added Sound attenuation over distance.<br>
 &nbsp;&nbsp;- Added Radial/Splash damage.<br>
 &nbsp;&nbsp;- Added AI with Sight and Hear Perception.<br>
