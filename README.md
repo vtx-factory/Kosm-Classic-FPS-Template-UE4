@@ -61,6 +61,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- Added Radial/Splash damage.<br>
 &nbsp;&nbsp;- Added AI with Sight and Hear Perception.<br>
 &nbsp;&nbsp;- Added Footsteps Audio.<br>
+&nbsp;&nbsp;- Added Health/Armor system.<br>
 &nbsp;&nbsp;- Added Health and Armor pickups.<br>
 &nbsp;&nbsp;- Added Nailgun and Railgun Projectiles.<br>
 &nbsp;&nbsp;- Added Player's HUD.<br>
