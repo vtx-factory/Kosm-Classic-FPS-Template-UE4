@@ -6,7 +6,6 @@ FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engi
 <strong><i>Unreal Engine compatibility version:</i></strong> v4.22.3 - v4.23.0<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 <a href="#kosm-demo">&#8226; Kosm-DEMO</a><br>
-&nbsp;<a href="#demo-includes">- Includes</a><br>
 &nbsp;<a href="#demo-preview">- Preview</a><br>
 &nbsp;<a href="#demo-download">- Download</a><br>
 <a href="#kosm-pack">&#8226; Kosm-PACK</a><br>
