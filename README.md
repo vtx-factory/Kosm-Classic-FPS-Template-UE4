@@ -28,7 +28,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <strong>&#8226; HTML5 version</strong><br>
 Clone this git for the html5 version. <strong><i>(you'll have to host it on your own webserver)</i></strong><br><br>
 <h1>Kosm-PACK</h1>
-This PACK is composed by a .uproject file which you can freely customize using Unreal Engine 4.
+This PACK is composed by a .uproject file which you can freely customize using Unreal Engine 4.<br>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
 <strong>&#8226; VQ3 movement Character</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
