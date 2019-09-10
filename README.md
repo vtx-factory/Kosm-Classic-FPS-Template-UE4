@@ -48,7 +48,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <p><strong>&#8226; Testing Grounds Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
 <h3>PACK ./patch_notes:</h3>
-<strong>&#8226; v1.2.0:</strong><br>
+<strong>&#8226; v1.1.0:</strong><br>
 &nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 &nbsp;&nbsp;- Revamped Rocket Launcher Projectile animations and particles.<br>
 &nbsp;&nbsp;- Aligned Projectile with Crosshair.<br>
