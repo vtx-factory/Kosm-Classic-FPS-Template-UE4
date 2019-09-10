@@ -20,17 +20,7 @@ FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engi
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
-You can test some of our PACK functionalities and physics in the <a href="#demo-preview">DEMO Showcase</a>.
-<h3>DEMO ./includes:</h3>
-<strong>&#8226; VQ3 movement Character</strong><br>
-<strong>&#8226; Custom Crosshair and Speedometer</strong><br>
-<strong>&#8226; Walk</strong><br>
-<strong>&#8226; Toggle Crouch</strong><br>
-<strong>&#8226; Bunny-hop</strong><br>
-<strong>&#8226; Weapon Zoom</strong><br>
-<strong>&#8226; Double Jump</strong><br>
-<strong>&#8226; Rocket Launcher Projectile</strong><br>
-<strong>&#8226; Testing Grounds Map</strong><br>
+You can test our PACK functionalities with our DEMO showcase below, which includes all assets from Kosm-PACK, on Testing_Grounds map.
 <h3>DEMO ./preview:</h3>
 <a href="https://kosm.vtxfactory.org/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
 <h3>DEMO ./download:</h3>
