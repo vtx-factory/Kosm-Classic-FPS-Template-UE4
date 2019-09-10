@@ -19,7 +19,7 @@ FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engi
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
-You can test our PACK functionalities with our DEMO showcase below, which includes all assets from Kosm-PACK, on Testing_Grounds map. Check it to get familiar with the INPUT BINDINGS too.
+You can test our PACK functionalities with our DEMO showcase below, which includes all the necessary input bindings and assets from Kosm-PACK, on Testing_Grounds map.
 <h3>DEMO ./preview:</h3>
 <a href="https://kosm.vtxfactory.org/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
 <h3>DEMO ./download:</h3>
