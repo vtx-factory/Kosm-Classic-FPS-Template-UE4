@@ -55,6 +55,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.2.0:</strong><br>
+&nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
 &nbsp;&nbsp;- Enabled Raw Input support.<br>
 &nbsp;&nbsp;- Added Damage Indicators.<br>
 &nbsp;&nbsp;- Added Sound attenuation over distance.<br>
