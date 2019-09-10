@@ -40,16 +40,16 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; Artificial Intelligence Bot with Sight and Hearing Perception</strong><br>
 <strong>&#8226; Footsteps, Misc Sounds and Attenuation</strong><br>
 <strong>&#8226; Radial/Splash Damage</strong><br>
-<strong>&#8226; Dash</strong><br>
 <strong>&#8226; Character and Weapon Switch</strong><br>
-<strong>&#8226; Walk</strong><br>
 <strong>&#8226; Toggle Crouch</strong><br>
 <strong>&#8226; Bunny-hop</strong><br>
 <strong>&#8226; Weapon Zoom</strong><br>
-<strong>&#8226; Double Jump</strong><br><br>
+<strong>&#8226; Double Jump</strong><br>
+<strong>&#8226; Dash</strong><br>
+<strong>&#8226; Walk</strong><br><br>
 <strong>&#8226; Fortress Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
-<p><strong>&#8226; Testing Grounds Map:</strong><br>
+<p><strong>&#8226; Testing_Grounds Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.1.0:</strong><br>
