@@ -32,7 +32,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK ./includes:</h3>
 <strong>&#8226; VQ3 movement Character</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
-<strong>&#8226; CPMA movement Character</strong> (Blue Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
+<strong>&#8226; CPMA movement Character</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br>
 <strong>&#8226; Custom Crosshairs and Speedometer</strong><br>
 <strong>&#8226; Health/Armor system</strong><br>
