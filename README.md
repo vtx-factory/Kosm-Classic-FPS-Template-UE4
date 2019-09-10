@@ -49,9 +49,9 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; Double Jump</strong><br>
 <strong>&#8226; Dash</strong><br>
 <strong>&#8226; Walk</strong><br><br>
-<strong>&#8226; Fortress Map:</strong><br>
+<strong>&#8226; Fortress Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
-<p><strong>&#8226; Testing_Grounds Map:</strong><br>
+<p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
 <h3>PACK ./patch_notes:</h3>
 <strong>&#8226; v1.2.0:</strong><br>
