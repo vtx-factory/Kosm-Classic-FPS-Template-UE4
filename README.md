@@ -36,7 +36,9 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br>
 <strong>&#8226; Artificial Intelligence Bot with Sight and Hearing Perception</strong><br>
 <strong>&#8226; Custom Crosshairs and Speedometer</strong><br>
+<strong>&#8226; Player's HUD</strong><br>
 <strong>&#8226; Health/Armor system</strong><br>
+<strong>&#8226; Health/Armor pickups</strong><br>
 <strong>&#8226; Damage Indicators</strong><br>
 <strong>&#8226; Footsteps, Misc Sounds and Attenuation</strong><br>
 <strong>&#8226; Radial/Splash Damage</strong><br>
@@ -52,6 +54,16 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <p><strong>&#8226; Testing_Grounds Map:</strong><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
 <h3>PACK ./patch_notes:</h3>
+<strong>&#8226; v1.2.0:</strong><br>
+&nbsp;&nbsp;- Enabled Raw Input support.<br>
+&nbsp;&nbsp;- Added Damage indicators<br>
+&nbsp;&nbsp;- Added Sound attenuation over distance.<br>
+&nbsp;&nbsp;- Added Radial/Splash damage.<br>
+&nbsp;&nbsp;- Added AI with Sight and Hear Perception.<br>
+&nbsp;&nbsp;- Added Footsteps Audio.<br>
+&nbsp;&nbsp;- Added Health and Armor pickups.<br>
+&nbsp;&nbsp;- Added Nailgun and Railgun Projectiles.<br>
+&nbsp;&nbsp;- Added Player's HUD.<br>
 <strong>&#8226; v1.1.0:</strong><br>
 &nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 &nbsp;&nbsp;- Revamped Rocket Launcher Projectile animations and particles.<br>
