@@ -2,8 +2,8 @@
 FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engine.<br><br>This Pack includes 2 Character Blueprints with distinct movement mechanics (defined as VQ3 and CPMA), 3 Projectile Blueprints (Rocket Launcher, Railgun and Nailgun), plus 2 maps for you to make all your testing, Health/Armor system and much more!<br><br>Fully customizable Blueprints to match your style.<br><br>
 <strong><i>Showcase Teaser:</i></strong> <a href="https://www.youtube.com/watch?v=udRW0fI7Cvk">Watch Video</a><br>
 <strong><i>Current Development build:</i></strong> v1.2.0<br>
-<strong><i>Unreal Engine compatibility version:</i></strong> v4.22.3 - v4.23.0<br>
-<strong><i>OS compatibility:</i></strong> Windows 32/64-bit, Linux and Oculus-Rift ready<br><br>
+<strong><i>OS compatibility:</i></strong> Windows 32/64-bit, Linux and Oculus-Rift ready<br>
+<strong><i>Unreal Engine compatibility version:</i></strong> v4.22.3 - v4.23.0<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 <a href="#kosm-demo">&#8226; Kosm-DEMO</a><br>
 &nbsp;<a href="#demo-includes">- Includes</a><br>
