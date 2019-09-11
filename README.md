@@ -27,6 +27,7 @@ You can test our PACK functionalities with our DEMO showcase below, on Testing_G
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
 <strong>&#8226; HTML5 version</strong><br>
 Clone this git for the html5 version. <strong><i>(you'll have to host it on your own webserver)</i></strong><br><br>
+~~tesdte gdgfsggsdg gdsf g fdgfsdgdsgdfg~~
 <h1>Kosm-PACK</h1>
 This PACK is composed by a .uproject file which you can freely customize using Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
@@ -88,7 +89,6 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
 &nbsp;&nbsp;- When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>
-~~tesdte gdgfsggsdg gdsf g fdgfsdgdsgdfg~~
 <h3>PACK installation:</h3>
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK buy:</h3>
