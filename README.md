@@ -56,14 +56,14 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <h3>PACK patch_notes:</h3>
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
-&nbsp;&nbsp;- Enabled Raw Input support.<br>
+&nbsp;&nbsp;- Enabled Raw Input Support.<br>
 &nbsp;&nbsp;- Added Damage Indicators.<br>
-&nbsp;&nbsp;- Added Sound attenuation over distance.<br>
-&nbsp;&nbsp;- Added Radial/Splash damage.<br>
+&nbsp;&nbsp;- Added Sound Attenuation over distance.<br>
+&nbsp;&nbsp;- Added Radial/Splash Damage.<br>
 &nbsp;&nbsp;- Added AI with Sight and Hear Perception.<br>
 &nbsp;&nbsp;- Added Footsteps Audio.<br>
-&nbsp;&nbsp;- Added Health/Armor system.<br>
-&nbsp;&nbsp;- Added Health and Armor pickups.<br>
+&nbsp;&nbsp;- Added Health/Armor System.<br>
+&nbsp;&nbsp;- Added Health and Armor Pickups.<br>
 &nbsp;&nbsp;- Added Nailgun and Railgun Projectiles.<br>
 &nbsp;&nbsp;- Added Player's HUD.<br>
 <strong>&#8226; v1.1.0:</strong><br>
