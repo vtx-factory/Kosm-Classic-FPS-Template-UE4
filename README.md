@@ -35,8 +35,8 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; CPMA movement Character</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br>
 <strong>&#8226; Artificial Intelligence Bot with Sight and Hearing Perception</strong><br>
-<strong>&#8226; Health/Armor system</strong><br>
-<strong>&#8226; Health/Armor pickups</strong><br>
+<strong>&#8226; Health/Armor System</strong><br>
+<strong>&#8226; Health/Armor Pickups</strong><br>
 <strong>&#8226; Damage Indicators</strong><br>
 <strong>&#8226; Custom Crosshairs and Speedometer</strong><br>
 <strong>&#8226; Player's HUD</strong><br>
