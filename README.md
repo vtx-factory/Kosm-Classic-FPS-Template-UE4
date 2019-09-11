@@ -20,9 +20,9 @@ FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engi
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
 You can test our PACK functionalities with our DEMO showcase below, which includes all the necessary input bindings and assets from Kosm-PACK, on Testing_Grounds map.
-<h3>DEMO ./preview:</h3>
+<h3>DEMO preview:</h3>
 <a href="https://kosm.vtxfactory.org/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
-<h3>DEMO ./download:</h3>
+<h3>DEMO download:</h3>
 <strong>&#8226; Windows 64-bit/32-bit executables</strong><br>
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
 <strong>&#8226; HTML5 version</strong><br>
@@ -30,7 +30,7 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 <h1>Kosm-PACK</h1>
 This PACK is composed by a .uproject file which you can freely customize using Unreal Engine 4.<br><br>
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
-<h3>PACK ./includes:</h3>
+<h3>PACK includes:</h3>
 <strong>&#8226; VQ3 movement Character</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
 <strong>&#8226; CPMA movement Character</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br>
