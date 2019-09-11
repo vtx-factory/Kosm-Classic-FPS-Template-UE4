@@ -36,8 +36,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br><br>
 <strong>&#8226; Artificial Intelligence Bot with Sight and Hearing Perception</strong><br><br>
 <strong>&#8226; Player's HUD</strong><br>
-<strong>&#8226; Health/Armor System</strong><br>
-<strong>&#8226; Health/Armor Pickups</strong><br>
+<strong>&#8226; Health/Armor System & Pickups</strong><br>
 <strong>&#8226; Radial/Splash Damage</strong><br>
 <strong>&#8226; Damage Indicators</strong><br><br>
 <strong>&#8226; Custom Crosshairs and Speedometer</strong><br>
