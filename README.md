@@ -1,5 +1,5 @@
 # Kosm: FPS Movement Pack For Unreal Engine 4
-FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engine.<br><br><br><br>A powerful tool with fully customizable Blueprints to tune your project up and replicated for online gameplay. This Pack includes 2 Character Blueprints with distinct movement mechanics (defined as VQ3 and CPMA), an AI bot and ragdoll, 3 Projectile Blueprints (Rocket Launcher, Railgun and Nailgun), plus 2 maps for you to make all your testing, Health/Armor system and much more!<br><br>
+FPS mechanics to match our good and old-fashioned Quake movement, on Unreal Engine.<br><br>A powerful tool with fully customizable Blueprints to tune your project up and replicated for online gameplay. This Pack includes 2 Character Blueprints with distinct movement mechanics (defined as VQ3 and CPMA), an AI bot and ragdoll, 3 Projectile Blueprints (Rocket Launcher, Railgun and Nailgun), plus 2 maps for you to make all your testing, Health/Armor system and much more!<br><br>
 <strong><i>Showcase Teaser:</i></strong> <a href="https://www.youtube.com/watch?v=udRW0fI7Cvk">Watch Video</a><br>
 <strong><i>Current Development build:</i></strong> v1.2.0<br>
 <strong><i>Supported OS:</i></strong> Windows 32/64-bit, Linux and Oculus-Rift ready<br>
