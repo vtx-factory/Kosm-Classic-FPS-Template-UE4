@@ -89,7 +89,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
 
 
-&nbsp;&nbsp;- ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>~~
+&nbsp;&nbsp;- ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~<br>
 
 
 <h3>PACK installation:</h3>
