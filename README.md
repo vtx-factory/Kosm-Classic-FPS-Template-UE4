@@ -87,7 +87,11 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
-&nbsp;&nbsp;- When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>
+
+
+~~&nbsp;&nbsp;- When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>~~
+
+
 <h3>PACK installation:</h3>
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK buy:</h3>
@@ -110,6 +114,3 @@ If you'd like to contribute to this project in any way, please feel free to pull
 <h2>Licensing</h2>
 This project supports the GNU v3.0 license.<br><br>Additionally, monetizing any content of this repository on Unreal Engine Marketplace, in the original or derivative form, is expressly prohibited.
 <br>
-
-
-~~h kh bkj b jkb jhb kj bkh~~
