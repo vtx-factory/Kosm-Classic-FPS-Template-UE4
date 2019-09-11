@@ -89,7 +89,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
 &nbsp;&nbsp;- When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>
 <h3>PACK installation:</h3>
-Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly and a content folder which you can <strong>import to a new or existing Unreal Engine project</strong>. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
+Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK buy:</h3>
 <a href="#">Unreal Engine Marketplace</a> (soon)<br><br><br>
 <h1>Unreal Engine 4 QoL improvements:</h1>
