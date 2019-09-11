@@ -53,7 +53,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
-<h3>PACK ./patch_notes:</h3>
+<h3>PACK patch_notes:</h3>
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
 &nbsp;&nbsp;- Enabled Raw Input support.<br>
@@ -81,7 +81,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; v1.0.2:</strong><br>&nbsp;&nbsp;- Added Character and Weapon Switch capability.<br>
 <strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
-<h3>PACK ./known_issues:</h3>
+<h3>PACK known_issues:</h3>
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
 &nbsp;&nbsp;- When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>
 &nbsp;&nbsp;- AI Strafe animations to be added.<br>
@@ -89,9 +89,9 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
 &nbsp;&nbsp;-  Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
-<h3>PACK ./installation:</h3>
+<h3>PACK installation:</h3>
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly and a content folder which you can <strong>import to a new or existing Unreal Engine project</strong>. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
-<h3>PACK ./buy:</h3>
+<h3>PACK buy:</h3>
 <a href="#">Unreal Engine Marketplace</a><br><br><br>
 <h1>Unreal Engine 4 QoL improvements:</h1>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
