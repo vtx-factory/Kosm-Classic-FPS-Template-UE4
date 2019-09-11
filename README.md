@@ -1,6 +1,6 @@
 # Kosm: Classic FPS Pack For Unreal Engine 4
 FPS classical movement and mechanics, now on Unreal Engine.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 3 Projectiles (Rocket Launcher, Railgun and Nailgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more, all replicated for online gameplay.<br><br>
-~~tesdte~~
+~~tesdte gdgfsggsdg gdsf g fdgfsdgdsgdfg~~
 <strong><i>Showcase Teaser:</i></strong> <a href="https://www.youtube.com/watch?v=udRW0fI7Cvk">Watch Video</a><br>
 <strong><i>Current Development build:</i></strong> v1.2.0<br>
 <strong><i>Supported OS:</i></strong> Windows 32/64-bit, Linux and Oculus-Rift ready<br>
