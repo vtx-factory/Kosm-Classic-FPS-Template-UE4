@@ -19,7 +19,7 @@ FPS classical movement and mechanics, now on Unreal Engine.<br><br>A powerful to
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
-You can test our PACK functionalities with our DEMO showcase below, which includes all the necessary input bindings and assets from Kosm-PACK, on Testing_Grounds map.
+You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
 <h3>DEMO preview:</h3>
 <a href="https://kosm.vtxfactory.org/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
 <h3>DEMO download:</h3>
