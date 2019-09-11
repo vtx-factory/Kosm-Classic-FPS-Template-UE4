@@ -18,7 +18,6 @@ FPS classical movement and mechanics, now on Unreal Engine.<br><br>A powerful to
 <a href="#contributing">&#8226; Contributing</a><br>
 <a href="#contact">&#8226; Contact</a><br>
 <a href="#licensing">&#8226; Licensing</a><br><br>
-~~tesdte gdgfsggsdg gdsf g fdgfsdgdsgdfg~~
 <h1>Kosm-DEMO</h1>
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
 <h3>DEMO preview:</h3>
@@ -89,6 +88,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
 &nbsp;&nbsp;- When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.<br>
+~~tesdte gdgfsggsdg gdsf g fdgfsdgdsgdfg~~
 <h3>PACK installation:</h3>
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK buy:</h3>
