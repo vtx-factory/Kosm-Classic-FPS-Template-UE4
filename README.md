@@ -63,7 +63,7 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 &nbsp;&nbsp;- Added Health/Armor System.<br>
 &nbsp;&nbsp;- Added Health and Armor Pickups.<br>
 &nbsp;&nbsp;- Added Nailgun and Railgun Projectiles.<br>
-&nbsp;&nbsp;- Added Player's HUD.<br>
+&nbsp;&nbsp;- Added Individual HUDs for each Character.<br>
 <strong>&#8226; v1.1.0:</strong><br>
 &nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 &nbsp;&nbsp;- Revamped Rocket Launcher Projectile animations and particles.<br>
