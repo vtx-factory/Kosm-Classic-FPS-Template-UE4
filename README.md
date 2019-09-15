@@ -81,8 +81,7 @@ This PACK is composed by a .uproject file which you can freely customize using U
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
 <h3>PACK known_issues:</h3>
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
-&nbsp;&nbsp;- CPMA Character jumps way to high when crouch jumping.<br>
-&nbsp;&nbsp;- AI_Noobot doesn't recognize Collision Heights as intended yet so do your AI testing on the Testing_Grounds Map instead.<br>
+&nbsp;&nbsp;- AI_Noobot doesn't recognize Collision Heights as intended yet, so do your AI testing on the Testing_Grounds Map instead.<br>
 &nbsp;&nbsp;- AI Strafe animations to be added.<br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
