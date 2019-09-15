@@ -109,5 +109,4 @@ If you'd like to contribute to this project in any way, please feel free to pull
 <strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
 <strong>Support</strong><br>support@vtxfactory.org<br><br>
 <h2>Licensing</h2>
-This project supports the GNU v3.0 license.<br><br>Additionally, monetizing any content of this repository, in its original or derivative form, is expressly prohibited.
-<br>
+This project supports the GNU v3.0 license.
