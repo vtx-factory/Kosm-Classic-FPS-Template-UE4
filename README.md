@@ -82,7 +82,7 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 <h3>PACK known_issues:</h3>
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
 &nbsp;&nbsp;- AI Bot is still Experimental, but will be upgraded overtime.<br>
-&nbsp;&nbsp;- Correct Animations to be added (e.g. when Crouching, Strafing or Walking).<br>
+&nbsp;&nbsp;- Correct AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).<br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
