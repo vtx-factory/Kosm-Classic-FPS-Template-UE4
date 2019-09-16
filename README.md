@@ -81,8 +81,7 @@ Clone this git for the html5 version. <strong><i>(you'll have to host it on your
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
 <h3>PACK known_issues:</h3>
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
-&nbsp;&nbsp;- AI Bot is still in Experimental Phase, but will be upgraded overtime.<br>
-&nbsp;&nbsp;- AI Strafe animations to be added.<br>
+&nbsp;&nbsp;- AI Bot is still Experimental, but will be upgraded overtime, as well as his Animations (e.g. Strafe).<br>
 &nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
