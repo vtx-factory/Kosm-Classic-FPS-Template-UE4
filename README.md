@@ -7,7 +7,6 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <strong><i>Unreal Engine Compatibility Version:</i></strong> v4.22.3 - v4.23.0<br><br>
 <img src="https://www.vtxfactory.org/imgs/banner_gittt.jpg" /><br><br>
 <a href="#kosm-demo">&#8226; Kosm-DEMO</a><br>
-&nbsp;<a href="#demo-preview">- Preview</a><br>
 &nbsp;<a href="#demo-download">- Download</a><br>
 <a href="#kosm-pack">&#8226; Kosm-PACK</a><br>
 &nbsp;<a href="#pack-includes">- Includes</a><br>
@@ -21,8 +20,6 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <a href="#licensing">&#8226; Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
-<h3>DEMO preview:</h3>
-<a href="https://kosm.vtxfactory.org/Kosm-DEMO">Kosm-DEMO (html5 version)</a><br>
 <h3>DEMO download:</h3>
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
 <h1>Kosm-PACK</h1>
