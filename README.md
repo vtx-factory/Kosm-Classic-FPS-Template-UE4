@@ -48,15 +48,10 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img>
 
 ## PACK patch_notes:
-# A collapsible section with markdown
 <details>
   <summary>v1.2.0:</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+- Further tuned VQ3 Character movement.
 </details>
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
