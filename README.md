@@ -26,6 +26,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 # Kosm-PACK
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 ## PACK includes:
+
 <strong>&#8226; VQ3 movement Character</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
 <strong>&#8226; CPMA movement Character</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br><br>
@@ -47,6 +48,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
 ## PACK patch_notes:
+
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
 &nbsp;&nbsp;- Enabled Raw Input Support.<br>
@@ -75,6 +77,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
 ## PACK known_issues:
+
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
 &nbsp;&nbsp;- AI Bot is still Experimental, but will be upgraded overtime.<br>
 &nbsp;&nbsp;- Correct AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).<br>
@@ -82,11 +85,12 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
-
 &nbsp;&nbsp;- ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~<br>
 ## PACK installation:
+
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 ## PACK buy:
+
 <a href="#">Unreal Engine Marketplace</a> (soon)<br><br><br>
 # Unreal Engine 4 QoL improvements:
 Here's some tips to improve your experience using Unreal Engine:<br><br>
