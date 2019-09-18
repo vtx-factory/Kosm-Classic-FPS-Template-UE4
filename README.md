@@ -26,25 +26,25 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 # Kosm-PACK
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%"></img>
 ## PACK includes:
-**&#9632; VQ3 movement Character** (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
+**&#9632; VQ3 movement Character** (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br>
 **&#9632; CPMA movement Character** (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
-&#9632; Rocket Launcher, Railgun and Nailgun Projectiles<br><br>
-&#9632; Artificial Intelligence Bot with Sight and Hearing Perception<br><br>
-&#9632; Player's HUD<br>
-&#9632; Health/Armor System & Pickups<br>
-&#9632; Radial/Splash Damage<br>
-&#9632; Damage Indicators<br><br>
-&#9632; Custom Crosshairs and Speedometer<br>
-&#9632; Footsteps, Misc Sounds and Attenuation Settings<br><br>
-&#9632; Toggle Crouch<br>
-&#9632; Bunny-hop<br>
-&#9632; Weapon Zoom<br>
-&#9632; Double Jump<br>
-&#9632; Dash<br>
-&#9632; Walk<br><br>
-&#9632; Fortress Map:<br><br>
+**&#9632; Rocket Launcher, Railgun and Nailgun Projectiles<br><br>
+**&#9632; Artificial Intelligence Bot with Sight and Hearing Perception<br><br>
+**&#9632; Player's HUD<br>
+**&#9632; Health/Armor System & Pickups<br>
+**&#9632; Radial/Splash Damage<br>
+**&#9632; Damage Indicators<br><br>
+**&#9632; Custom Crosshairs and Speedometer<br>
+**&#9632; Footsteps, Misc Sounds and Attenuation Settings<br><br>
+**&#9632; Toggle Crouch<br>
+**&#9632; Bunny-hop<br>
+**&#9632; Weapon Zoom<br>
+**&#9632; Double Jump<br>
+**&#9632; Dash<br>
+**&#9632; Walk<br><br>
+**&#9632; Fortress Map:<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img>
-<p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
+<p>**&#9632; Testing_Grounds Map:**<br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img></p>
 
 ## PACK patch_notes:
