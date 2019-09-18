@@ -50,7 +50,6 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 ## PACK patch_notes:
 <details>
   <summary>v1.2.0:</summary>
-  
 - Further tuned VQ3 Character movement.
 - Enabled Raw Input Support.
 - Added Damage Indicators.
@@ -63,12 +62,15 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 - Added Nailgun and Railgun Projectiles.
 - Added Individual HUDs for each Character.
 </details>
+<details>
+  <summary>v1.1.0:</summary>
+- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
+- Revamped Rocket Launcher Projectile animations and particles.<br>
+- Aligned Projectile with Crosshair.<br>
+- Fixed a SpawnedDecal error.<br>
+- Upgraded Project compatibility to support Unreal Engine v4.23.0 Preview 6.<br>
+</details>
 <strong>&#8226; v1.1.0:</strong><br>
-&nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
-&nbsp;&nbsp;- Revamped Rocket Launcher Projectile animations and particles.<br>
-&nbsp;&nbsp;- Aligned Projectile with Crosshair.<br>
-&nbsp;&nbsp;- Fixed a SpawnedDecal error.<br>
-&nbsp;&nbsp;- Upgraded Project compatibility to support Unreal Engine v4.23.0 Preview 6.<br>
 <strong>&#8226; v1.0.8:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to test collision and physics.<br>
 <strong>&#8226; v1.0.7:</strong><br>&nbsp;&nbsp;- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
 <strong>&#8226; v1.0.6:</strong><br>&nbsp;&nbsp;- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
