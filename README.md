@@ -19,11 +19,11 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
 - <a href="#licensing">Licensing</a><br><br>
-<h1>Kosm-DEMO</h1>
+# Kosm-DEMO
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
 <h3>DEMO download:</h3>
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
-<h1>Kosm-PACK</h1>
+# Kosm-PACK
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
 <h3>PACK includes:</h3>
 <strong>&#8226; VQ3 movement Character</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
@@ -88,7 +88,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 <h3>PACK buy:</h3>
 <a href="#">Unreal Engine Marketplace</a> (soon)<br><br><br>
-<h1>Unreal Engine 4 QoL improvements:</h1>
+# Unreal Engine 4 QoL improvements:
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 <strong>&#8226; Show Frame Rate and Memory in Editor</strong><br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
 <strong>&#8226; t.MaxFPS 300</strong><br>When playing the active level in editor viewport, it caps your fps to 60. To increase the cap, go to <strong>Edit > Project Settings</strong> and type "Console" in <strong>Search Details</strong> field to bind your <strong>Console key</strong>. Now click <strong>Play</strong> from the <strong>Editor Viewport</strong>, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
@@ -97,11 +97,11 @@ Here's some tips to improve your experience using Unreal Engine:<br><br>
 <strong>&#8226; Uncheck Mouse Smoothness</strong><br>Go into <strong>Project Settings</strong> and type "Mouse Smooth" in <strong>Search Details</strong>, then uncheck it.<br><br>
 <strong>&#8226; Change Mouse Sensitivity</strong><br>Go into <strong>Project Settings</strong> and select <strong>Input</strong> from the left column, then scroll down until you see <strong>Turn</strong> and <strong>LookUp</strong> inside <strong>Axis Mappings</strong>, then just change the <strong>Scale</strong> property.<br><br>
 <strong>&#8226; Enable Blutilities</strong><br>Go to <strong>Editor Preferences</strong> and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser > Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
-<h2>Contributing</h2>
+# Contributing
 If you'd like to contribute to this project in any way, please feel free to pull a request or contact us directly.<br><br>Feel free to contact support if you have any suggestions or run into any trouble editing the blueprints. <br><br>
-<h2>Contact</h2>
+# Contact
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
 <strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
 <strong>Support</strong><br>support@vtxfactory.org<br><br>
-<h2>Licensing</h2>
+# Licensing
 This project supports the GNU v3.0 license.
