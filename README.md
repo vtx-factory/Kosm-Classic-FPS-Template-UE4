@@ -46,7 +46,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
 <p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
-## &#9675; PACK patch_notes:
+## PACK patch_notes:
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
 &nbsp;&nbsp;- Enabled Raw Input Support.<br>
@@ -74,7 +74,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <strong>&#8226; v1.0.2:</strong><br>&nbsp;&nbsp;- Added Character and Weapon Switch capability.<br>
 <strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
 <strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
-## &#9675; PACK known_issues:
+## PACK known_issues:
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
 &nbsp;&nbsp;- AI Bot is still Experimental, but will be upgraded overtime.<br>
 &nbsp;&nbsp;- Correct AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).<br>
@@ -84,9 +84,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
 
 &nbsp;&nbsp;- ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~<br>
-## &#9675; PACK installation:
+## PACK installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
-## &#9675; PACK buy:
+## PACK buy:
 <a href="#">Unreal Engine Marketplace</a> (soon)<br><br><br>
 # Unreal Engine 4 QoL improvements:
 Here's some tips to improve your experience using Unreal Engine:<br><br>
