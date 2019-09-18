@@ -25,8 +25,7 @@ You can test our PACK functionalities with our DEMO showcase below, on Testing_G
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
 # Kosm-PACK
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
-## PACK includes:
-
+PACK includes:
 <strong>&#8226; VQ3 movement Character</strong> (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview movement)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
 <strong>&#8226; CPMA movement Character</strong> (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview movement)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 <strong>&#8226; Rocket Launcher, Railgun and Nailgun Projectiles</strong><br><br>
