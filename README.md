@@ -43,7 +43,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 **&#9632; Dash**<br>
 **&#9632; Walk**<br><br>
 **&#9632; Fortress Map:**<br><br>
-<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img><br>
+<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img><br><br>
 **&#9632; Testing_Grounds Map:**<br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img>
 
