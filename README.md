@@ -50,6 +50,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 ## PACK patch_notes:
 <details>
   <summary>v1.2.0:</summary>
+  
 - Further tuned VQ3 Character movement.
 - Enabled Raw Input Support.
 - Added Damage Indicators.
@@ -64,6 +65,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 </details>
 <details>
   <summary>v1.1.0:</summary>
+  
 - Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 - Revamped Rocket Launcher Projectile animations and particles.<br>
 - Aligned Projectile with Crosshair.<br>
