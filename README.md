@@ -21,7 +21,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#licensing">Licensing</a><br><br>
 # Kosm-DEMO
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
-## &#9675; DEMO download:
+&#9675; ## DEMO download:
 Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
 # Kosm-PACK
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%" />
