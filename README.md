@@ -8,13 +8,13 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Unreal Engine Compatibility Version:** v4.22.3 - v4.23.0<br><br>
 <img src="https://kosm.vtxfactory.org/imgs/banner_git3.png" /><br><br>
 - <a href="#kosm-demo">Kosm-DEMO</a><br>
- -<a href="#demo-download">- Download</a><br>
+<a href="#demo-download">- Download</a><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
-&nbsp;<a href="#pack-includes">- Includes</a><br>
-&nbsp;<a href="#pack-patch_notes">- Patch Notes</a><br>
-&nbsp;<a href="#pack-known_issues">- Known Issues</a><br>
-&nbsp;<a href="#pack-installation">- Installation</a><br>
-&nbsp;<a href="#pack-buy">- Buy</a><br>
+<a href="#pack-includes">Includes</a><br>
+<a href="#pack-patch_notes">Patch Notes</a><br>
+<a href="#pack-known_issues">Known Issues</a><br>
+<a href="#pack-installation">Installation</a><br>
+<a href="#pack-buy">Buy</a><br>
 - <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL improvements</a><br>
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
