@@ -113,7 +113,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v1.0.1:</summary>
+  <summary>v1.0.0:</summary>
   
 - First build deployed.<br>
 </details>
@@ -126,7 +126,12 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 &nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
 &nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
 &nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
-&nbsp;&nbsp;- ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~<br>
+&nbsp;&nbsp;- ~~~~<br>
+
+- [ ] Finish my changes
+- [ ] Push my commits to GitHub
+- [x] When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.
+
 ## PACK installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 ## PACK buy:
