@@ -47,7 +47,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img></p>
 
-PACK patch_notes:
+## PACK patch_notes:
 
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
