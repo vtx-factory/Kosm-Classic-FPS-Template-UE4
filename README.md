@@ -119,18 +119,14 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 </details>
 
 ## PACK known_issues:
-<strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
-&nbsp;&nbsp;- AI Bot is still Experimental, but will be upgraded overtime.<br>
-&nbsp;&nbsp;- Correct AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).<br>
-&nbsp;&nbsp;- On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.<br>
-&nbsp;&nbsp;- All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.<br>
-&nbsp;&nbsp;- VQ3 Acceleration Gain Detection will be upgraded.<br>
-&nbsp;&nbsp;- Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.<br>
-&nbsp;&nbsp;- ~~~~<br>
 
-- [ ] Finish my changes
-- [ ] Push my commits to GitHub
-- [x] When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.
+- [ ] AI Bot is still Experimental, but will be upgraded overtime.
+- [ ] Correct AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).
+- [ ] On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.
+- [ ] All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.
+- [ ] VQ3 Acceleration Gain Detection will be upgraded.
+- [ ] Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
+- [x] ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~
 
 ## PACK installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
