@@ -45,7 +45,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; Fortress Map**<br><br>
 <img src="https://kosm.vtxfactory.org/imgs/fortress_map.jpg" /><br><br>
 **&#9632; Testing_Grounds Map**<br><br>
-<img src="https://kosm.vtxfactory.org/imgs/testing_grounds_map.jpg" />
+<img src="https://kosm.vtxfactory.org/imgs/testing_grounds_map.jpg" /><br><br>
 
 ## PACK patch_notes:
 <details>
