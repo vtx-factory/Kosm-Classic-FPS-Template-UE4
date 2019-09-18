@@ -2,15 +2,6 @@
 > Classic Arena First Person Shooter Mechanics for Unreal Engine.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 3 Projectiles (Rocket Launcher, Railgun and Nailgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more, all replicated for online gameplay.<br><br>
 This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
-
-
-
-
-
-
-
-
-
 **Showcase Teaser:** <a href="https://www.youtube.com/watch?v=udRW0fI7Cvk">Watch Video</a><br>
 **Current Development Build:** v1.2.0<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
@@ -55,7 +46,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img>
 <p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img></p>
-## PACK patch_notes:
+
+PACK patch_notes:
+
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
 &nbsp;&nbsp;- Enabled Raw Input Support.<br>
