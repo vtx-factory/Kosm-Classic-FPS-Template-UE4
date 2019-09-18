@@ -42,12 +42,22 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 **&#9632; Double Jump**<br>
 **&#9632; Dash**<br>
 **&#9632; Walk**<br><br>
-**&#9632; Fortress Map:**<br><br>
+**&#9632; Fortress Map**<br><br>
 <img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img><br><br>
-**&#9632; Testing_Grounds Map:**<br><br>
+**&#9632; Testing_Grounds Map**<br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img>
 
 ## PACK patch_notes:
+# A collapsible section with markdown
+<details>
+  <summary>v1.2.0:</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
 &nbsp;&nbsp;- Enabled Raw Input Support.<br>
