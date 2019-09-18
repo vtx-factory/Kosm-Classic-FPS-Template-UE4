@@ -9,16 +9,16 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <img src="https://kosm.vtxfactory.org/imgs/banner_git3.png" /><br><br>
 - <a href="#kosm-demo">Kosm-DEMO</a><br>
 <a href="#demo-download">- Download</a><br>
-<a href="#kosm-pack">&#8226; Kosm-PACK</a><br>
+- <a href="#kosm-pack">Kosm-PACK</a><br>
 &nbsp;<a href="#pack-includes">- Includes</a><br>
 &nbsp;<a href="#pack-patch_notes">- Patch Notes</a><br>
 &nbsp;<a href="#pack-known_issues">- Known Issues</a><br>
 &nbsp;<a href="#pack-installation">- Installation</a><br>
 &nbsp;<a href="#pack-buy">- Buy</a><br>
-<a href="#unreal-engine-4-qol-improvements">&#8226; Unreal Engine 4 QoL improvements</a><br>
-<a href="#contributing">&#8226; Contributing</a><br>
-<a href="#contact">&#8226; Contact</a><br>
-<a href="#licensing">&#8226; Licensing</a><br><br>
+- <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL improvements</a><br>
+- <a href="#contributing">Contributing</a><br>
+- <a href="#contact">Contact</a><br>
+- <a href="#licensing">Licensing</a><br><br>
 <h1>Kosm-DEMO</h1>
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
 <h3>DEMO download:</h3>
