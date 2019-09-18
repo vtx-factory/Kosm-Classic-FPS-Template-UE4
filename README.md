@@ -72,16 +72,52 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 - Fixed a SpawnedDecal error.<br>
 - Upgraded Project compatibility to support Unreal Engine v4.23.0 Preview 6.<br>
 </details>
-<strong>&#8226; v1.1.0:</strong><br>
-<strong>&#8226; v1.0.8:</strong><br>&nbsp;&nbsp;- Added an extra ragdoll for you to test collision and physics.<br>
-<strong>&#8226; v1.0.7:</strong><br>&nbsp;&nbsp;- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
-<strong>&#8226; v1.0.6:</strong><br>&nbsp;&nbsp;- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
-<strong>&#8226; v1.0.5:</strong><br>&nbsp;&nbsp;- Increased map Bound Scale limits to remove artifacts from viewport.<br>
-<strong>&#8226; v1.0.4:</strong><br>&nbsp;&nbsp;- Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br>
-<strong>&#8226; v1.0.3:</strong><br>&nbsp;&nbsp;- Increased trimp multiplier on slopes.<br>
-<strong>&#8226; v1.0.2:</strong><br>&nbsp;&nbsp;- Added Character and Weapon Switch capability.<br>
-<strong>&#8226; v1.0.1:</strong><br>&nbsp;&nbsp;- Increased step height so character can step up stairs.<br>
-<strong>&#8226; v1.0.0:</strong><br>&nbsp;&nbsp;- First build deployed.<br>
+<details>
+  <summary>v1.0.8:</summary>
+  
+- Added an extra ragdoll for you to test collision and physics.<br>
+</details>
+<details>
+  <summary>v1.0.7:</summary>
+  
+- Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
+</details>
+<details>
+  <summary>v1.0.6:</summary>
+  
+- Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
+</details>
+<details>
+  <summary>v1.0.5:</summary>
+  
+- Increased map Bound Scale limits to remove artifacts from viewport.<br>
+</details>
+<details>
+  <summary>v1.0.4:</summary>
+  
+- Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br>
+</details>
+<details>
+  <summary>v1.0.3:</summary>
+  
+- Increased trimp multiplier on slopes.<br>
+</details>
+<details>
+  <summary>v1.0.2:</summary>
+  
+- Added Character and Weapon Switch capability.<br>
+</details>
+<details>
+  <summary>v1.0.1:</summary>
+  
+- Increased step height so character can step up stairs.<br>
+</details>
+<details>
+  <summary>v1.0.1:</summary>
+  
+- First build deployed.<br>
+</details>
+
 ## PACK known_issues:
 <strong>&#8226; as of v1.2.0: <i>(to be fixed in subsequent updates)</i></strong><br>
 &nbsp;&nbsp;- AI Bot is still Experimental, but will be upgraded overtime.<br>
