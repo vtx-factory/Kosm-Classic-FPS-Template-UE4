@@ -43,9 +43,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <strong>&#8226; Dash</strong><br>
 <strong>&#8226; Walk</strong><br><br>
 <strong>&#8226; Fortress Map:</strong><br><br>
-<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%" />
+<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img>
 <p><strong>&#8226; Testing_Grounds Map:</strong><br><br>
-<img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%" /></p>
+<img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img></p>
 ## PACK patch_notes:
 <strong>&#8226; v1.2.0:</strong><br>
 &nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
