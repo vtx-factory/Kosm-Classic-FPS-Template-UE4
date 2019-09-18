@@ -6,7 +6,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Current Development Build:** v1.2.0<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 **Unreal Engine Compatibility Version:** v4.22.3 - v4.23.0<br><br>
-<img src="https://kosm.vtxfactory.org/imgs/banner_git3.png"/><br><br>
+<img src="https://kosm.vtxfactory.org/imgs/banner_git3.png" /><br><br>
 - <a href="#kosm-demo">Kosm-DEMO</a><br>
 <a href="#demo-download">Download</a><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
@@ -24,7 +24,7 @@ You can test our PACK functionalities with our DEMO showcase below, on Testing_G
 ## DEMO download:
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm-PACK
-<img src="https://kosm.vtxfactory.org/imgs/kosm-intro.png"/>
+<img src="https://kosm.vtxfactory.org/imgs/kosm-intro.png" /><br><br>
 ## PACK includes:
 **&#9632; VQ3 movement Character** (Green Actor) <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
 **&#9632; CPMA movement Character** (Red Actor) <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
