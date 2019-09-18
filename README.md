@@ -27,9 +27,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 <img src="https://www.vtxfactory.org/imgs/pack-prvw1.gif" width="66%"></img>
 ## PACK includes:
 **&#9632; VQ3 movement Character** (Green Actor) <a href="https://www.vtxfactory.org/video/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
-**&#9632; CPMA movement Character** (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
+**&#9632; CPMA movement Character** (Red Actor) <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br>
+**&#9632; Artificial Intelligence Bot with Sight and Hearing Perception** <a href="https://www.vtxfactory.org/video/cpma-mov.mp4">(preview)</a><br><br>
 **&#9632; Rocket Launcher, Railgun and Nailgun Projectiles**<br><br>
-**&#9632; Artificial Intelligence Bot with Sight and Hearing Perception**<br><br>
 **&#9632; Player's HUD**<br>
 **&#9632; Health/Armor System & Pickups**<br>
 **&#9632; Radial/Splash Damage**<br>
