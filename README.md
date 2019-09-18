@@ -22,7 +22,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 # Kosm-DEMO
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
 ## DEMO download:
-Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/releases">Releases</a> section to download the binaries for your platform.<br><br>
+Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br>
 # Kosm-PACK
 <img src="https://kosm.vtxfactory.org/imgs/kosm-intro.png"></img>
 ## PACK includes:
@@ -43,7 +43,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
 **&#9632; Dash**<br>
 **&#9632; Walk**<br><br>
 **&#9632; Fortress Map**<br><br>
-<img src="https://www.vtxfactory.org/imgs/level_showcase.gif" width="66%"></img><br><br>
+<img src="https://kosm.vtxfactory.org/imgs/fortress-map.jpg"></img><br><br>
 **&#9632; Testing_Grounds Map**<br><br>
 <img src="https://www.vtxfactory.org/imgs/test_grounds.png" width="66%"></img>
 
