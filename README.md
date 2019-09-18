@@ -52,19 +52,17 @@ Check our <a href="https://github.com/vtx-factory/Kosm-FPS-Movement-Pack/release
   <summary>v1.2.0:</summary>
   
 - Further tuned VQ3 Character movement.
+- Enabled Raw Input Support.
+- Added Damage Indicators.
+- Added Sound Attenuation over distance.
+- Added Radial/Splash Damage.
+- Added AI with Sight and Hear Perception.
+- Added Footsteps Audio.
+- Added Health/Armor System.
+- Added Health and Armor Pickups.
+- Added Nailgun and Railgun Projectiles.
+- Added Individual HUDs for each Character.
 </details>
-<strong>&#8226; v1.2.0:</strong><br>
-&nbsp;&nbsp;- Further tuned VQ3 Character movement.<br>
-&nbsp;&nbsp;- Enabled Raw Input Support.<br>
-&nbsp;&nbsp;- Added Damage Indicators.<br>
-&nbsp;&nbsp;- Added Sound Attenuation over distance.<br>
-&nbsp;&nbsp;- Added Radial/Splash Damage.<br>
-&nbsp;&nbsp;- Added AI with Sight and Hear Perception.<br>
-&nbsp;&nbsp;- Added Footsteps Audio.<br>
-&nbsp;&nbsp;- Added Health/Armor System.<br>
-&nbsp;&nbsp;- Added Health and Armor Pickups.<br>
-&nbsp;&nbsp;- Added Nailgun and Railgun Projectiles.<br>
-&nbsp;&nbsp;- Added Individual HUDs for each Character.<br>
 <strong>&#8226; v1.1.0:</strong><br>
 &nbsp;&nbsp;- Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 &nbsp;&nbsp;- Revamped Rocket Launcher Projectile animations and particles.<br>
