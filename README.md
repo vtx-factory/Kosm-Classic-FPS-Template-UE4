@@ -48,9 +48,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 <img src="https://kosm.vtxfactory.org/imgs/testing_grounds_map.jpg" /><br><br>
 
 ## PACK patch_notes:
-Below you can find all changes and tweaks made from previous to current version of the project.
+Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary>v1.2.0:</summary>
+  <summary>v1.2.0</summary>
   
 - Further tuned VQ3 Character movement.
 - Enabled Raw Input Support.
@@ -65,7 +65,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Added Individual HUDs for each Character.
 </details>
 <details>
-  <summary>v1.1.0:</summary>
+  <summary>v1.1.0</summary>
   
 - Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 - Revamped Rocket Launcher Projectile animations and particles.<br>
@@ -74,47 +74,47 @@ Below you can find all changes and tweaks made from previous to current version 
 - Upgraded Project compatibility to support Unreal Engine v4.23.0 Preview 6.<br>
 </details>
 <details>
-  <summary>v1.0.8:</summary>
+  <summary>v1.0.8</summary>
   
 - Added an extra ragdoll for you to test collision and physics.<br>
 </details>
 <details>
-  <summary>v1.0.7:</summary>
+  <summary>v1.0.7</summary>
   
 - Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
 </details>
 <details>
-  <summary>v1.0.6:</summary>
+  <summary>v1.0.6</summary>
   
 - Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
 </details>
 <details>
-  <summary>v1.0.5:</summary>
+  <summary>v1.0.5</summary>
   
 - Increased map Bound Scale limits to remove artifacts from viewport.<br>
 </details>
 <details>
-  <summary>v1.0.4:</summary>
+  <summary>v1.0.4</summary>
   
 - Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br>
 </details>
 <details>
-  <summary>v1.0.3:</summary>
+  <summary>v1.0.3</summary>
   
 - Increased trimp multiplier on slopes.<br>
 </details>
 <details>
-  <summary>v1.0.2:</summary>
+  <summary>v1.0.2</summary>
   
 - Added Character and Weapon Switch capability.<br>
 </details>
 <details>
-  <summary>v1.0.1:</summary>
+  <summary>v1.0.1</summary>
   
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v1.0.0:</summary>
+  <summary>v1.0.0</summary>
   
 - First build deployed.<br>
 </details>
