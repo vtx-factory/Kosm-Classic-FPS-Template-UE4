@@ -48,6 +48,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 <img src="https://kosm.vtxfactory.org/imgs/testing_grounds_map.jpg" /><br><br>
 
 ## PACK patch_notes:
+below you can find all changes and tweaks made from previous versions of the project
 <details>
   <summary>v1.2.0:</summary>
   
