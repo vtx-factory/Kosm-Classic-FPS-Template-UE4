@@ -127,6 +127,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - [ ] All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.
 - [ ] VQ3 Acceleration Gain Detection will be upgraded.
 - [ ] Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
+- [ ] Physics Collisions to be added to VQ3 and CPMA Characters.
 - [x] ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~
 
 ## PACK installation:
