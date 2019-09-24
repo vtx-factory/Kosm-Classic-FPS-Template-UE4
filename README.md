@@ -2,7 +2,7 @@
 > Classic Arena First Person Shooter Mechanics for Unreal Engine.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 3 Projectiles (Rocket Launcher, Railgun and Nailgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more, all replicated for online gameplay.<br><br>
 This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
-**Showcase Teaser:** <a href="https://www.youtube.com/watch?v=udRW0fI7Cvk">Watch Video</a><br>
+**Showcase Teaser:** <a href="#">Soon</a><br>
 **Current Development Build:** v1.2.0<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 **Unreal Engine Compatibility Version:** v4.22.3 - v4.23.0<br><br>
@@ -72,45 +72,13 @@ Below you can find all changes and tweaks made from previous to current version 
 - Aligned Projectile with Crosshair.<br>
 - Fixed a SpawnedDecal error.<br>
 - Upgraded Project compatibility to support Unreal Engine v4.23.0 Preview 6.<br>
-</details>
-<details>
-  <summary>v1.0.8</summary>
-  
 - Added an extra ragdoll for you to test collision and physics.<br>
-</details>
-<details>
-  <summary>v1.0.7</summary>
-  
 - Each character has its own HUD and individual speedometer, which now displays and works correctly when switching Characters.<br>
-</details>
-<details>
-  <summary>v1.0.6</summary>
-  
 - Removed jump cooldown node so CPMA character won't stay glued to the ground when jumping on the edge of a slope or when the space between stairs is too narrow.<br>
-</details>
-<details>
-  <summary>v1.0.5</summary>
-  
 - Increased map Bound Scale limits to remove artifacts from viewport.<br>
-</details>
-<details>
-  <summary>v1.0.4</summary>
-  
 - Checked Use Flat Base for Floor to avoid the situation where characters slowly lower off the side of a ledge. (as their capsule "balances" on the edge)<br>
-</details>
-<details>
-  <summary>v1.0.3</summary>
-  
 - Increased trimp multiplier on slopes.<br>
-</details>
-<details>
-  <summary>v1.0.2</summary>
-  
 - Added Character and Weapon Switch capability.<br>
-</details>
-<details>
-  <summary>v1.0.1</summary>
-  
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
