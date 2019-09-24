@@ -82,7 +82,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v1.0.0 *** #05-08-2019 *** </summary>
+  <summary>v1.0.0 <strong><i>#05-08-2019</strong></i> </summary>
   
 - First build deployed.<br>
 </details>
