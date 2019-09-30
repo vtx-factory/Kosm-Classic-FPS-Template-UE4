@@ -36,14 +36,14 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; Player's HUD** 
 **&#9632; Radial/Splash Damage** 
 **&#9632; Damage Indicators** 
-**&#9632; Custom Crosshairs and Speedometer** 
-**&#9632; Footsteps, Misc Sounds and Attenuation Settings** 
 **&#9632; Toggle Crouch** 
 **&#9632; Bunny-hop** 
 **&#9632; Weapon Zoom** 
 **&#9632; Double Jump** 
 **&#9632; Dash** 
-**&#9632; Walk**<br><br>
+**&#9632; Walk**
+**&#9632; Custom Crosshairs and Speedometer** 
+**&#9632; Footsteps, Misc Sounds and Attenuation Settings**<br><br>
 
 ## PACK patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
