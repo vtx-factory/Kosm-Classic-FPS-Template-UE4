@@ -37,9 +37,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; Custom Crosshairs and Speedometer**<br>
 **&#9632; Footsteps, Misc Sounds and Attenuation Settings**<br>
 **&#9632; Toggle Crouch**<br>
-**&#9632; Bunny-hop**<br>
-**&#9632; Weapon Zoom**<br>
-**&#9632; Double Jump**<br>
+**&#9632; Bunny-hop** 
+**&#9632; Weapon Zoom** 
+**&#9632; Double Jump** 
 **&#9632; Dash**<br>
 **&#9632; Walk**<br><br>
 **&#9632; Fortress_DM Map**<br><br>
