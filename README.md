@@ -38,7 +38,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; Damage Indicators** 
 **&#9632; Toggle Crouch** 
 **&#9632; Bunny-hop** 
-**&#9632; Weapon Zoom** 
+**&#9632; Weapon Zoom** <br>
 **&#9632; Double Jump** 
 **&#9632; Dash** 
 **&#9632; Walk**
