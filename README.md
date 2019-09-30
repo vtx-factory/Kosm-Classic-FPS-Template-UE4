@@ -31,21 +31,19 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; Artificial Intelligence Bot with Sight and Hearing Perception** <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a><br><br>
 **&#9632; Rocket Launcher, Railgun and Nailgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br><br>
 **&#9632; Health/Armor System & Pickups** <a href="https://kosm.vtxfactory.org/vid/healthsysandpickups.mp4">(preview)</a><br><br>
-**&#9632; Player's HUD**<br>
-**&#9632; Radial/Splash Damage**<br>
-**&#9632; Damage Indicators**<br>
-**&#9632; Custom Crosshairs and Speedometer**<br>
-**&#9632; Footsteps, Misc Sounds and Attenuation Settings**<br>
-**&#9632; Toggle Crouch**<br>
+**&#9632; Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br><br>
+**&#9632; Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br><br>
+**&#9632; Player's HUD** 
+**&#9632; Radial/Splash Damage** 
+**&#9632; Damage Indicators** 
+**&#9632; Custom Crosshairs and Speedometer** 
+**&#9632; Footsteps, Misc Sounds and Attenuation Settings** 
+**&#9632; Toggle Crouch** 
 **&#9632; Bunny-hop** 
 **&#9632; Weapon Zoom** 
 **&#9632; Double Jump** 
-**&#9632; Dash**<br>
+**&#9632; Dash** 
 **&#9632; Walk**<br><br>
-**&#9632; Fortress_DM Map**<br><br>
-<img src="https://kosm.vtxfactory.org/imgs/fortress_map.jpg" /><br><br>
-**&#9632; Testing_Grounds Map**<br><br>
-<img src="https://kosm.vtxfactory.org/imgs/testing_grounds_map.jpg" /><br>
 
 ## PACK patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
