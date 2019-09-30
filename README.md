@@ -42,7 +42,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; Double Jump** 
 **&#9632; Dash** 
 **&#9632; Walk**
-**&#9632; Custom Crosshairs and Speedometer** 
+**&#9632; Custom Crosshairs and Speedometer** <br>
 **&#9632; Footsteps, Misc Sounds and Attenuation Settings**<br><br>
 
 ## PACK patch_notes:
