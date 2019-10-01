@@ -31,7 +31,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **CPMA movement Character** <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
 **&#9632; 3 PROJECTILES** 
-- **Rocket Launcher, Railgun and Nailgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br><br>
+- **Rocket Launcher, Railgun and Nailgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br>
 
 **&#9632; AI BOT** with Perception System <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a>
 
@@ -39,7 +39,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 
 **&#9632; 2 MAPS**
 - **Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
-- **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
+- **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a>
 
 **&#9632; OTHER INCLUDES:**
 - **Player's HUD** 
