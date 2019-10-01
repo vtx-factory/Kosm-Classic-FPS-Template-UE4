@@ -39,8 +39,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; HEALTH/ARMOR** Pickups & System <a href="https://kosm.vtxfactory.org/vid/healthsysandpickups.mp4">(preview)</a><br>
 
 **&#9632; 2 MAPS:**
-- **Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
-- **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a>
+- **Fortress Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
+- **Testing Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a>
 
 **&#9632; OTHER INCLUDES:**
 - **Custom Crosshairs and Speedometer**
