@@ -25,6 +25,7 @@ You can test our PACK functionalities with our DEMO showcase below, on Testing_G
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm-PACK
 <img src="https://kosm.vtxfactory.org/imgs/includes.jpg" />
+
 ## PACK includes:
 **&#9632; 2 CHARACTERS** with distinct movement:
 - **VQ3 movement Character** <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
@@ -39,7 +40,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 
 **&#9632; 2 MAPS:**
 - **Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
-- **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
+- **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a>
 
 **&#9632; OTHER INCLUDES:**
 - **Custom Crosshairs and Speedometer**
