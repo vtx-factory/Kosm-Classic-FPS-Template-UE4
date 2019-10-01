@@ -27,8 +27,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 <img src="https://kosm.vtxfactory.org/imgs/kosm-intro.png" /><br>
 ## PACK includes:
 **&#9632; 2 CHARACTERS with distinct movement**
-- VQ3 movement Character** (Green Actor) <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
-**&#9632; CPMA movement Character** (Red Actor) <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
+- **VQ3 movement Character** (Green Actor) <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br><br>
+- **CPMA movement Character** (Red Actor) <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
 **&#9632; Rocket Launcher, Railgun and Nailgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br><br>
 **&#9632; Artificial Intelligence Bot with Sight and Hearing Perception** <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a><br><br>
 **&#9632; Health/Armor System & Pickups** <a href="https://kosm.vtxfactory.org/vid/healthsysandpickups.mp4">(preview)</a><br><br>
