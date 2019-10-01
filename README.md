@@ -33,12 +33,12 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; 3 PROJECTILES** 
 - **Rocket Launcher, Railgun and Nailgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br><br>
 
-**&#9632; Artificial Intelligence Bot with Sight and Hearing Perception** <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a>
+**&#9632; AI BOT** with Perception System <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a>
 
-**&#9632; Health/Armor System & Pickups** <a href="https://kosm.vtxfactory.org/vid/healthsysandpickups.mp4">(preview)</a><br><br>
+**&#9632; HEALTH/ARMOR** System & Pickups <a href="https://kosm.vtxfactory.org/vid/healthsysandpickups.mp4">(preview)</a><br><br>
 
 **&#9632; 2 MAPS**
-- **Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br><br>
+- **Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
 - **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a>
 
 **&#9632; OTHER INCLUDES:**
