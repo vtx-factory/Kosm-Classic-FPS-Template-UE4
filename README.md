@@ -29,7 +29,6 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; 2 CHARACTERS** with distinct movement
 - **VQ3 movement Character** (Green Actor) <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
 - **CPMA movement Character** (Red Actor) <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.<br><br>
-
 **&#9632; 3 PROJECTILES** 
 - **Rocket Launcher, Railgun and Nailgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br><br>
 **&#9632; Artificial Intelligence Bot with Sight and Hearing Perception** <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a><br><br>
