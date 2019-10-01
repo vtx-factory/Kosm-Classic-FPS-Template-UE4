@@ -26,18 +26,18 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 # Kosm-PACK
 <img src="https://kosm.vtxfactory.org/imgs/kosm-intro.png" /><br>
 ## PACK includes:
-**&#9632; 2 CHARACTERS** with distinct movement
+**&#9632; 2 CHARACTERS** with distinct movement:
 - **VQ3 movement Character** <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
 - **CPMA movement Character** <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
-**&#9632; 3 PROJECTILES** 
+**&#9632; 3 PROJECTILES:** 
 - **Rocket Launcher, Nailgun and Railgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br>
 
 **&#9632; AI BOT** with Perception System <a href="https://kosm.vtxfactory.org/vid/AI_bot.mp4">(preview)</a>
 
 **&#9632; HEALTH/ARMOR** System & Pickups <a href="https://kosm.vtxfactory.org/vid/healthsysandpickups.mp4">(preview)</a><br>
 
-**&#9632; 2 MAPS**
+**&#9632; 2 MAPS:**
 - **Fortress_DM Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a><br>
 - **Testing_Grounds Map** <a href="https://kosm.vtxfactory.org/vid/.mp4">(preview)</a>
 
