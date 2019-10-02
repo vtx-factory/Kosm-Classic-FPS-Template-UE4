@@ -78,7 +78,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Added Individual HUDs for each Character.
 </details>
 <details>
-  <summary>v1.1.0 <strong><i>- #25-08-2019</strong></i></summary>
+  <summary>v1.1.0 <strong><i>- Patch Date: 25-08-2019 | Last Updated: 03-09-2019</strong></i></summary>
   
 - Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 - Revamped Rocket Launcher Projectile animations and particles.<br>
