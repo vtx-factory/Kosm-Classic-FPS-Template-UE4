@@ -42,7 +42,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Fortress Map** <a href="https://kosm.vtxfactory.org/vid/fortress.mp4">(preview)</a><br>
 - **Testing Grounds Map** <a href="https://kosm.vtxfactory.org/vid/testingg.mp4">(preview)</a>
 
-**&#9632; OTHER INCLUDES:**
+**&#9632; OTHER FEATURES:**
 - **Custom Crosshairs and Speedometer**
 - **Footsteps, Misc Sounds and Attenuation Settings**
 - **Player's HUD** 
