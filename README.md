@@ -58,7 +58,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary>v1.2.0 <strong><i>- Patch Date: 21-09-2019 | Last Updated: 02-10-2019</strong></i></summary>
+  <summary>v1.2.0 <strong><i>- Patch Date: 21-09-2019 | Last Updated: 02-10-2019</i></strong></summary>
   
 - Increased Terminal Z Velocity.
 - Corrected "Physics and Collisions" for Player Controlled Characters.
@@ -78,7 +78,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Added Individual HUDs for each Character.
 </details>
 <details>
-  <summary>v1.1.0 <strong><i>- Patch Date: 25-08-2019 | Last Updated: 03-09-2019</strong></i></summary>
+  <summary>v1.1.0 <strong><i>- Patch Date: 25-08-2019 | Last Updated: 03-09-2019</i></strong></summary>
   
 - Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 - Revamped Rocket Launcher Projectile animations and particles.<br>
@@ -95,7 +95,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v1.0.0 <strong><i>- #05-08-2019</strong></i> </summary>
+  <summary>v1.0.0 <strong><i>- Patch Date: 05-08-2019 | Last Updated: 15-08-2019</i></strong> </summary>
   
 - First build deployed.<br>
 </details>
