@@ -2,7 +2,7 @@
 > Classic Arena First-Person-Shooter Mechanics.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 3 Projectiles (Rocket Launcher, Railgun and Nailgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more, all replicated for online gameplay.<br><br>
 This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
-**Showcase Teaser:** <a href="https://www.youtube.com/watch?v=4IjjMspx6Kg" target="_blank">Watch Video</a><br>
+**Showcase Teaser:** <a href="https://www.youtube.com/watch?v=4IjjMspx6Kg">Watch Video</a><br>
 **Current Development Build:** v1.2.0<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 **Unreal Engine Compatibility Version:** v4.23.0<br><br>
