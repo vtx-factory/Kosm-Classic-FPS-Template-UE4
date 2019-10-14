@@ -95,7 +95,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v1.0.0 <strong><i>- Patch Date: 05-08-2019 | Last Updated: 15-08-2019</i></strong> </summary>
+  <summary>v1.0.0 <strong><i>- Patch Date: 05-08-2019</i></strong> </summary>
   
 - First build deployed.<br>
 </details>
