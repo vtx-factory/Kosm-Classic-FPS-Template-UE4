@@ -114,8 +114,7 @@ Below you can find all changes and tweaks made from previous to current version 
 ## PACK installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
 ## PACK buy:
-- <a href="#">Unreal Engine Marketplace</a> (soon)
-- <a href="#">Clickbank Store</a> (soon)<br><br><br>
+- <a href="#">Unreal Engine Marketplace</a> (soon)<br><br><br>
 # Unreal Engine 4 QoL improvements:<br>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Show Frame Rate and Memory in Editor**<br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
