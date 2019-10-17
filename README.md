@@ -7,7 +7,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 **Unreal Engine Compatibility Version:** v4.23.0<br><br>
 <img src="https://kosm.vtxfactory.org/imgs/banner_git1.jpg" /><br><br>
-- <a href="#demo-download">DEMO Download</a><br>
+- <a href="#demo-download">Download Demo</a><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
 <a href="#pack-includes">Includes</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
@@ -18,7 +18,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
 - <a href="#licensing">Licensing</a><br><br><br>
-# DEMO Download
+# Download Demo
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.<br><br>
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm-PACK
