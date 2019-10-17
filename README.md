@@ -7,7 +7,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 **Unreal Engine Compatibility Version:** v4.23.0<br><br>
 <img src="https://kosm.vtxfactory.org/imgs/banner_git1.jpg" /><br><br>
-- <a href="#demo-download">Download Demo</a><br>
+- <a href="#download-demo">Download Demo</a><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
 <a href="#pack-includes">Includes</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
