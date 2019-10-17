@@ -15,18 +15,18 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <a href="#pack-known_issues">Known Issues</a><br>
 <a href="#pack-installation">Installation</a><br>
 <a href="#pack-buy">Buy</a><br>
-- <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL improvements</a><br>
+- <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL Improvements</a><br>
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
 - <a href="#licensing">Licensing</a><br><br><br>
 # Kosm-DEMO
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.
-## DEMO download:
+## DEMO Download:
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm-PACK
 <img src="https://kosm.vtxfactory.org/imgs/includes_1.jpg" />
 
-## PACK includes:
+## PACK Includes:
 **&#9632; 2 CHARACTERS** with distinct movement:
 - **VQ3 movement Character** <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
 - **CPMA movement Character** <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
@@ -55,7 +55,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Dash** 
 - **Walk**<br><br>
 
-## PACK patch_notes:
+## PACK Patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
   <summary>v1.2.0 <strong><i>- Patch Date: 21-09-2019 | Last Updated: 12-10-2019</i></strong></summary>
@@ -100,7 +100,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - First build deployed.<br>
 </details>
 
-## PACK known_issues:
+## PACK Known_issues:
 
 - [ ] AI Bot is still Experimental, but will be upgraded overtime.
 - [ ] Correct Third-Person AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).
@@ -111,11 +111,11 @@ Below you can find all changes and tweaks made from previous to current version 
 - [x] ~~Physics Collisions to be added to VQ3 and CPMA Characters as they are on Ragdoll and Noobot_AI.~~
 - [x] ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~
 
-## PACK installation:
+## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
-## PACK buy:
+## PACK Buy:
 - <a href="https://unrealengine.com/marketplace/en-US/slug/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
-# Unreal Engine 4 QoL improvements:<br>
+# Unreal Engine 4 QoL Improvements:<br>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Show Frame Rate and Memory in Editor**<br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
 **&#9632; t.MaxFPS 300**<br>When playing the active level in editor viewport, it caps your fps to 60. To increase the cap, go to <strong>Edit > Project Settings</strong> and type "Console" in <strong>Search Details</strong> field to bind your <strong>Console key</strong>. Now click <strong>Play</strong> from the <strong>Editor Viewport</strong>, click your binded key and write <i>t.maxfps 300</i> in the newly open command prompt.)<br><br>
