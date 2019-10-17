@@ -51,7 +51,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Weapon Zoom**
 - **Double Jump** 
 - **Dash** 
-- **Walk**<br><br>
+- **Walk**<br>
 
 ## PACK Patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
