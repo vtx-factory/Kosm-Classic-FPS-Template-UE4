@@ -5,7 +5,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" /> &nbsp;Project being actively enhanced.
 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
-**Current Development Build:** v1.2.0<br>
+**Current Development Build:** v1.2.0 <a href="#pack-patch_notes">(view Changelog)</a><br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 **Unreal Engine Compatibility Version:** v4.23.0<br><br>
 <img src="https://kosm.vtxfactory.org/imgs/banner_git1.jpg" /><br><br>
