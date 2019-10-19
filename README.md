@@ -7,7 +7,8 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
 **Current Development Build:** v1.2.0 <a href="#pack-patch_notes">(view Changelog)</a><br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
-**Unreal Engine Compatibility Version:** v4.23.0<br><br>
+**Unreal Engine Compatibility Version:** v4.23.0<br>
+**Licensing:** GNU/GPL v3<br><br>
 <img src="https://kosm.vtxfactory.org/imgs/banner_git1.jpg" /><br><br>
 - <a href="#download-demo">Download Demo</a><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
@@ -131,4 +132,4 @@ If you'd like to contribute to this project in any way, please feel free to pull
 <strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
 <strong>Support</strong><br>support@vtxfactory.org<br><br><br>
 # Licensing
-This project supports the GNU v3.0 license.
+This project supports the GNU/GPL v3.0 license.
