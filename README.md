@@ -59,6 +59,26 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK Patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
+  <summary>(In Development...) v1.3.0 <strong><i>- Patch Date: | Last Updated: </i></strong></summary>
+  
+- Increased Terminal Z Velocity.
+- Corrected "Physics and Collisions" for Player Controlled Characters.
+- Added Lifespan to Projectiles so they won't propagate infinitely.
+- Added level restart on KillZ trigger.
+- Added Auto-Respawn to Player Characters.
+- Further tuned VQ3 Character movement.
+- Enabled Raw Input Support.
+- Added Damage Indicators.
+- Added Sound Attenuation over distance.
+- Added Radial/Splash Damage.
+- Added AI with Sight and Hear Perception.
+- Added Footsteps Audio.
+- Added Health/Armor System.
+- Added Health and Armor Pickups.
+- Added Nailgun and Railgun Projectiles.
+- Added Individual HUDs for each Character.
+</details>
+<details>
   <summary>v1.2.0 <strong><i>- Patch Date: 21-09-2019 | Last Updated: 12-10-2019</i></strong></summary>
   
 - Increased Terminal Z Velocity.
