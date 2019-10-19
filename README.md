@@ -59,7 +59,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK Patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary>(In Development...) v1.3.0 <strong><i>- Patch Date: | Last Updated: </i></strong></summary>
+  <summary><strong><i>(In Development...)</i></strong> v1.3.0</summary>
   
 - Increased Terminal Z Velocity.
 - Corrected "Physics and Collisions" for Player Controlled Characters.
