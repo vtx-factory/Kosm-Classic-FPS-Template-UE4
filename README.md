@@ -60,6 +60,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
   <summary><strong><i>(In Development...)</i></strong> v1.3.0</summary>
+  
+- In Development...
 </details>
 <details>
   <summary>v1.2.0 <strong><i>- Patch Date: 21-09-2019 | Last Updated: 12-10-2019</i></strong></summary>
