@@ -8,7 +8,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Current Development Build:** v1.2.0 <a href="#pack-patch_notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.23.0<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
-- <a href="https://bit.ly/2I6l8Bge">Manual Guide and Other Instructions</a><br><br>
+- <a href="https://bit.ly/2I6l8Bge">Manual Guide and Instructions</a><br><br>
 
 <img src="https://kosm.vtxfactory.org/imgs/banner_git1.jpg" /><br><br>
 - <a href="#download-demo">Download Demo</a><br>
