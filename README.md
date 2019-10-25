@@ -138,6 +138,6 @@ If you'd like to contribute to this project in any way, please feel free to pull
 <strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
 <strong>Support</strong><br>support@vtxfactory.org<br><br><br>
 # Licensing
-This project is published under MIT license License which allows very broad use for both academic and commercial purposes.
+This project is published under MIT License which allows very broad use for both academic and commercial purposes.
 
-You are very welcome to modify these mechanics and use them for your own commercial use - please keep a link to the original repository and refer to <a href="https://bit.ly/2I6l8Bge">Manual Guide and Documentation</a> for more information.
+You are very welcome to modify these mechanics and use them for your own commercial use - if doing so, please keep a link to the original repository and refer to <a href="https://bit.ly/2I6l8Bge">Manual Guide and Documentation</a> for more information.
