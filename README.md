@@ -140,4 +140,4 @@ If you'd like to contribute to this project in any way, please feel free to pull
 # Licensing
 This project is published under MIT License which allows very broad use for both academic and commercial purposes.
 
-You are very welcome to modify these mechanics and use them for your own commercial use - if doing so, please keep a link to the original repository and refer to <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a> for more information.
+You are very welcome to modify these mechanics and use them for your own commercial use - if doing so, please keep a link to the original repository and refer to <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Commercial Use Documentation</a> for more information.
