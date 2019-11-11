@@ -109,7 +109,7 @@ Below you can find all changes and tweaks made from previous to current version 
 
 ## PACK Known_issues:
 
-- [ ] Fix Server-Client Network Replication.
+- [ ] Fix Client-Server Replication.
 - [ ] AI Bot is still Experimental, but will be upgraded overtime.
 - [ ] Correct Third-Person AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).
 - [ ] On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.
