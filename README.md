@@ -60,7 +60,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK Patch_notes:
 Below you can find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary><strong><i>(In Development...)</i></strong> v1.3.0</summary>
+  <summary><strong><i>(In Development...)</i></strong> v1.3.0 <strong><i>- Release Date: Coming this December</i></strong></summary>
   
 - Added Portal Gun Projectiles (In/Out Flow)
 - Added Shotgun Projectile (Named the "Shutgun")
