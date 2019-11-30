@@ -63,7 +63,7 @@ Below you can find all changes and tweaks made from previous to current version 
   <summary><strong><i>(In Development...)</i></strong> v1.3.0 <strong><i>- Release Date: Coming December 2019</i></strong></summary>
   
 - Added Portal Gun Projectiles (In/Out Flow)
-- Added Shotgun Projectile (Named the "Shutgun")
+- Added Shotgun Projectile (Namely "Shutgun")
 - Added Lightning Gun Projectile
 - Added JumpPads
 - Further upgraded VQ3 Character jump gained Acceleration
