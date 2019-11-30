@@ -115,8 +115,6 @@ Below you can find all changes and tweaks made from previous to current version 
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication.
-- [ ] AI Bot is still Experimental, but will be upgraded overtime.
-- [ ] Correct Third-Person AI and Player Animations to be added (e.g. when Crouching, Shooting, Strafing, Walking, etc).
 - [ ] On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.
 - [ ] All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.
 - [ ] VQ3 Acceleration Gain Detection will be upgraded.
