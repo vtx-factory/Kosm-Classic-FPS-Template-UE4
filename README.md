@@ -118,7 +118,6 @@ Below you can find all changes and tweaks made from previous to current version 
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication.
-- [ ] All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.
 - [ ] Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
 
 ## PACK Installation:
