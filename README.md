@@ -118,11 +118,8 @@ Below you can find all changes and tweaks made from previous to current version 
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication.
-- [ ] On Weapon Zoom, Crosshair slightly misaligned with fired Projectile.
 - [ ] All Characters' Tap-Jump Acceleration will work as if it was Bunny-hop.
 - [ ] Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
-- [x] ~~Physics Collisions to be added to VQ3 and CPMA Characters as they are on Ragdoll and Noobot_AI.~~
-- [x] ~~When pogo jumping with VQ3 Character, sometimes you'll hear two jump Audio Cues at the same time.~~
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
