@@ -70,6 +70,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Further upgraded VQ3 Character jump gained Acceleration.
 - Aligned Crosshair with View on Weapon Zoom-In.
 - Added variable to reduce Zoom-In Mouse Sensitivity.
+- Fixed Tap-Jump applied Ground Friction.
 - ...
 </details>
 <details>
