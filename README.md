@@ -63,11 +63,13 @@ Below you can find all changes and tweaks made from previous to current version 
 <details>
   <summary><strong><i>(In Development...)</i></strong> v1.3.0 <strong><i>- Release Date: Coming December 2019</i></strong></summary>
   
-- Added Portal Gun Projectiles (In/Out Flow)
-- Added Shotgun Projectile (Namely "Shutgun")
-- Added Lightning Gun Projectile
-- Added JumpPads
-- Further upgraded VQ3 Character jump gained Acceleration
+- Added Portal Gun Projectiles. (In/Out Flow)
+- Added Shotgun Projectile. (Namely "Shutgun")
+- Added Lightning Gun Projectile.
+- Added JumpPads.
+- Further upgraded VQ3 Character jump gained Acceleration.
+- Aligned Crosshair with View on Weapon Zoom-In.
+- Added variable to reduce Zoom-In Mouse Sensitivity.
 - ...
 </details>
 <details>
