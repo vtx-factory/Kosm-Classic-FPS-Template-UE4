@@ -74,6 +74,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Weapon won't change to the already selected one.
 - Dash uses only X/Y Axis, now you won't be able to gain Height while using it.
 - Speedometer aligned to center when number of digits increase.
+- Fixed the previous existing delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
 - ...
 </details>
 <details>
@@ -122,7 +123,6 @@ Below you can find all changes and tweaks made from previous to current version 
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication.
-- [ ] Theres a delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
