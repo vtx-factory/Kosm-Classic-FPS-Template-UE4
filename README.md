@@ -72,7 +72,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Added variable to reduce Zoom-In Mouse Sensitivity.
 - Fixed applied Ground Friction on VQ3 Character Tap-Jump.
 - Weapon won't change to the already selected one.
-- Dash now uses only X/Y Axis, you won't be able to gain Height while using it now.
+- Dash uses only X/Y Axis, now you won't be able to gain Height while using it.
 - Speedometer aligned to center when number of digits increase.
 - ...
 </details>
