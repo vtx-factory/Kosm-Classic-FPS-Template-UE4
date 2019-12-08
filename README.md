@@ -76,6 +76,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Speedometer aligned to center when number of digits increase.
 - Fixed the previous existing delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
 - Added Audio Spatialization to AI_Noobot's Footsteps, Jump and Double Jump, Projectiles, On Hit Explosions and Landing so you can better perceive where the sound is coming from (behind, below, directional left/right, etc)
+- Added 1st/3rd Person Camera Toggle.
 - ...
 </details>
 <details>
@@ -124,6 +125,7 @@ Below you can find all changes and tweaks made from previous to current version 
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication.
+- [ ] When switching to 3rd Person Camera, you'll not be able to fire projectiles. (to be implemented on the next patch)
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
