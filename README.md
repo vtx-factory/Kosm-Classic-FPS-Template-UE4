@@ -126,6 +126,7 @@ Below you can find all changes and tweaks made from previous to current version 
 
 - [ ] Fix Client-Server Replication.
 - [ ] When switching to 3rd Person Camera, you'll not be able to fire projectiles. (to be implemented on the next patch)
+- [ ] Ragdoll spawns with unintended rotation when in 3rd Person Camera.
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
