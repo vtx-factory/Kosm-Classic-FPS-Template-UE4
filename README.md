@@ -36,6 +36,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 
 **&#9632; 3 PROJECTILES:** 
 - **Rocket Launcher, Nailgun and Railgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br>
+- **Rocket Launcher, Nailgun and Railgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br>
+- **Rocket Launcher, Nailgun and Railgun Projectiles** <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a><br>
 
 **&#9632; AI BOT** with Perception System <a href="https://kosm.vtxfactory.org/vid/ai-fight.mp4">(preview)</a>
 
