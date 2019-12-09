@@ -82,7 +82,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Added 1st/3rd Person Camera Toggle.
 - Added Deathcam.
 - Player will no longer keep firing if killed while shooting.
-- ... (coming out of the oven)
+- ... <i>(coming out of the oven)</i>
 </details>
 <details>
   <summary>v1.2.0 <strong><i>- Release Date: 12-10-2019</i></strong></summary>
