@@ -126,7 +126,7 @@ Below you can find all changes and tweaks made from previous to current version 
 
 ## PACK Known_issues:
 
-- [ ] Fix Client-Server Replication.
+- [ ] Fix Client-Server Replication for Online Gameplay.
 - [ ] You'll not be able to fire projectiles when switching to 3rd Person Camera. (to be implemented later on)
 - [ ] Ragdoll_Noobot unintended rotation when spawning him in 3rd Person Camera.
 
