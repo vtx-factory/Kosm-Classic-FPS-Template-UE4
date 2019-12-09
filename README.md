@@ -82,6 +82,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added 1st/3rd Person Camera Toggle.
 - Added Deathcam.
 - Player will no longer keep firing Projectiles if killed while shooting.
+- Fixed Nailgun Splash Damage, now it won't propagate to characters that are real close to each other.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
