@@ -77,7 +77,7 @@ Below you can find all changes and tweaks made from previous to current version 
 - Weapon won't change to the already selected one.
 - Dash uses only X/Y Axis, now you won't be able to gain Height while using it.
 - Speedometer aligned to center when number of digits increase.
-- Fixed the previous existing delay on the next fired Projectile when firing any weapon and immediately switching to another at the same time.
+- Fixed previous existing delay on the next fired Projectile when firing any weapon and immediately switching to another one at the same time.
 - Added Audio Spatialization to Footsteps, Jump and Double Jump, Projectiles, On Hit Explosions and Landing so you can better perceive where the sound is coming from (behind, below, directional left/right, etc)
 - Added 1st/3rd Person Camera Toggle.
 - Added Deathcam.
