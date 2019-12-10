@@ -86,7 +86,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added diagonal Dash movement.
 - Added Crouch movement Animation on 3rd Person Camera.
 - Added smooth Crouch.
-- Upgraded UE Compatibility to v4.24.
+- Upgraded Project Compatibility to UE v4.24.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
