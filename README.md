@@ -85,6 +85,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Fixed Nailgun Splash Damage, now it won't propagate to characters that are real close to each other.
 - Added diagonal Dash movement.
 - Added Crouch movement Animation on 3rd Person Camera.
+- Added smooth Crouch.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
