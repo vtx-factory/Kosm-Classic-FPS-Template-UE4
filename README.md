@@ -71,7 +71,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Lightning Gun Projectile.
 - Added JumpPads.
 - Further upgraded VQ3 Character jump gained Acceleration.
-- Aligned Crosshair with View on Weapon Zoom-In.
+- Aligned Projectile with Crosshair on Weapon Zoom-In.
 - Added variable to reduce Zoom-In Mouse Sensitivity.
 - Fixed applied Ground Friction on VQ3 Character Tap-Jump.
 - Weapon won't change to the already selected one.
