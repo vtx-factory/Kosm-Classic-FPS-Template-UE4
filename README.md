@@ -9,7 +9,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Unreal Engine Compatibility Version:** v4.23<br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
-- <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Commercial Use Documentation</a><br><br>
+- <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 
 <img src="https://kosm.vtxfactory.org/imgs/banner_git1.jpg" /><br><br>
 - <a href="#download-demo">Download Demo</a><br>
