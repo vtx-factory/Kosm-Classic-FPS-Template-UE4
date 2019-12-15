@@ -87,6 +87,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Crouch movement Animation on 3rd Person Camera.
 - Added smooth Crouch.
 - Upgraded Project Compatibility to UE v4.24.
+- Added Deathscream and Fatal Fall Damage.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
