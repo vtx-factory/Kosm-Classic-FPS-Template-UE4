@@ -88,7 +88,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added smooth Crouch.
 - Upgraded Project Compatibility to UE v4.24.
 - Added Deathscream and Fatal Fall Damage.
-- Bots no longer freeze when killed in the air.
+- Bots no longer freeze when killed while in the air.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
