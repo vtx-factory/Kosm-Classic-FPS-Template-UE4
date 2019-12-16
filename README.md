@@ -100,7 +100,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added level restart on KillZ trigger.
 - Added Auto-Respawn to Player Characters.
 - Further tuned VQ3 Character movement.
-- Enabled Raw Input Support.
+- Enabled Raw Input Plugin.
 - Added Damage Indicators.
 - Added Sound Attenuation over distance.
 - Added Radial/Splash Damage.
