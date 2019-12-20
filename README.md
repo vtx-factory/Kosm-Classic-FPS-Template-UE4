@@ -86,10 +86,10 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added diagonal Dash movement.
 - Added Crouch movement Animation on 3rd Person Camera.
 - Added smooth Crouch.
-- Bots no longer freeze when killed while in the air.
 - Upgraded Project Compatibility to UE v4.24.
 - Added Deathscream and Fatal Fall Damage.
-- Added Lighning Gun Kickbak Impulse while in the air.
+- Bots no longer freeze when killed while in the air.
+- Added Lightning Gun kickback impulse.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
