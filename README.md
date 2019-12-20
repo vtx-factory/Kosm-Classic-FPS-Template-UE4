@@ -137,11 +137,10 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication for Online Gameplay.
-- [ ] You'll not be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Ragdoll_Noobot unintended rotation when spawning him in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] Switching Weapons while firing the Lightning Gun will cause an undesired Audio loop.
-- [ ] Lightning Gun kickbak to be added later on.
-- [ ] Projectiles don't pass through Portals, only Characters for now. (to be implemented later on)
+- [ ] You'll not be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
+- [ ] Projectiles don't pass through Portals, only Characters. (temporary, to be implemented later on)
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
