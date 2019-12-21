@@ -139,7 +139,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Fix Client-Server Replication for Online Gameplay.
 - [ ] Ragdoll_Noobot unintended rotation when spawning him in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] Switching Weapons while firing the Lightning Gun will cause an undesired Audio loop.
-- [ ] You'll not be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
+- [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Portal Gun is still a WIP - for now, only the first created In/Out Portal Projectiles are working.
 - [ ] Projectiles don't pass through Portals, only Characters. (temporary, to be implemented later on)
 
