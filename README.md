@@ -90,6 +90,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Deathscream and Fatal Fall Damage.
 - Bots no longer freeze when killed while in the air.
 - Added Lightning Gun kickback impulse.
+- Added Zoomout Animation on Deathcam.
 - ... <i>(still coming out of the oven)</i>
 </details>
 <details>
