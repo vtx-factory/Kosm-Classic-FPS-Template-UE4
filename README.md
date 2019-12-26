@@ -34,9 +34,12 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **VQ3 movement Character** <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
 - **CPMA movement Character** <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
-**&#9632; 3 PROJECTILES:** 
+**&#9632; 6 PROJECTILES:** 
 - **Rocket Launcher Projectile**<br>
 - **Nailgun Projectile**<br>
+- **Lightning Gun Projectile**<br>
+- **Shutgun Projectile**<br>
+- **Portal Gun Projectile**<br>
 - **Railgun Projectile**<br>
 <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a>
 
