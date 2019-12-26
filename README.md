@@ -52,6 +52,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Testing Grounds Map** <a href="https://kosm.vtxfactory.org/vid/testingg.mp4">(preview)</a>
 
 **&#9632; OTHER FEATURES:**
+- **JumpPads**
+- **Toggle 1st/3rd Person Camera**
+- **Cycle Center/Right Weapons**
 - **Custom Crosshairs and Speedometer**
 - **Footsteps, Misc Sounds and Attenuation Settings**
 - **Player's HUD** 
