@@ -98,7 +98,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Lightning Gun kickback impulse.
 - Added Zoomout Animation on Deathcam.
 - Added Center/Right Weapon Selection.
-- ... <i>(still coming out of the oven)</i>
 </details>
 <details>
   <summary>v1.2.0 <strong><i>- Release Date: 12-10-2019</i></strong></summary>
