@@ -144,8 +144,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication for Online Gameplay.
-- [ ] Ragdoll_Noobot unintended rotation when spawning him in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
-- [ ] Noobot_AI was bugging out with JumpPad enabled, sadly he won't be able to jump on them. (to be implemented later on)
+- [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
 
