@@ -39,8 +39,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Nailgun Projectile**<br>
 - **Lightning Gun Projectile**<br>
 - **Shutgun Projectile**<br>
-- **Portal Gun Projectile** (Experimental/WIP - Portal Gun is GPU Intensive, please refer to the manual to know how to disable it if not using)<br>
 - **Railgun Projectile**<br>
+- **Portal Gun Projectile** <i>(Experimental/WIP - Portal Gun is GPU Intensive, please refer to the manual to know how to disable it if not using)</i><br>
 <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a>
 
 **&#9632; AI BOT** with Hearing/Sight Perception System <a href="https://kosm.vtxfactory.org/vid/ai-fight.mp4">(preview)</a>
