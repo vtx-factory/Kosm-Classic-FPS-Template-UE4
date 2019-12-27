@@ -1,5 +1,5 @@
 # Kosm: Classic FPS Pack For Unreal Engine 4
-> Classic Arena First-Person-Shooter Mechanics.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 3 Projectiles (Rocket Launcher, Nailgun, Lightning Gun, Shutgun, Portal Gun and Railgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more.<br><br>
+> Classic Arena First-Person-Shooter Mechanics.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 6 Projectiles (Rocket Launcher, Nailgun, Lightning Gun, Shutgun, Portal Gun and Railgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more.<br><br>
 This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" /> &nbsp;Project being actively enhanced.
