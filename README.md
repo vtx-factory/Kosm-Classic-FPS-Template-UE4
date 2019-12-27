@@ -38,7 +38,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Rocket Launcher Projectile**<br>
 - **Nailgun Projectile**<br>
 - **Lightning Gun Projectile**<br>
-- **Shutgun Projectile**<br>
+- **Shotgun Projectile**<br>
 - **Railgun Projectile**<br>
 - **Portal Gun Projectile** <i>(Experimental/WIP - Portal Gun is GPU Intensive, please refer to the manual to know how to disable it if not using)</i><br>
 <a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a>
