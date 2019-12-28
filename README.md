@@ -12,7 +12,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#download-demo">Download Demo</a><br>
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 
-<img src="https://kosm.vtxfactory.org/imgs/banner_git2.jpg" /><br><br>
+<img src="https://kosm.vtxfactory.org/cb/assets/screenshots/02.jpg" /><br><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
 <a href="#pack-includes">Includes</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
