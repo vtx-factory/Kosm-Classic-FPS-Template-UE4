@@ -174,7 +174,7 @@ If you'd like to contribute to this project in any way, please feel free to pull
 # Contact
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
 <strong>Feedback & Information</strong><br>info@vtxfactory.org<br><br>
-<strong>Bug Report & Support</strong><br>support@vtxfactory.org<br><br><br>
+<strong>Bug Report & Dev Support</strong><br>support@vtxfactory.org<br><br><br>
 # Licensing
 This project is published under MIT License which allows very broad use for both academic and commercial purposes.
 
