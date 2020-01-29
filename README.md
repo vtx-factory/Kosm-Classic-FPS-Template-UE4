@@ -173,7 +173,7 @@ Here's some tips to improve your experience using Unreal Engine:<br><br>
 If you'd like to contribute to this project in any way, please feel free to pull a request or contact us directly.<br><br>Feel free to contact support if you have any suggestions or run into any trouble editing the blueprints.<br><br><br>
 # Contact
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
-<strong>General Info & Feedback</strong><br>info@vtxfactory.org<br><br>
+<strong>Bug Report, Feedback & Other Info</strong><br>info@vtxfactory.org<br><br>
 <strong>Support</strong><br>support@vtxfactory.org<br><br><br>
 # Licensing
 This project is published under MIT License which allows very broad use for both academic and commercial purposes.
