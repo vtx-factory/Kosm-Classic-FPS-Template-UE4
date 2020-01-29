@@ -7,7 +7,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
 **Current Development Build:** v1.3.0 <a href="#pack-patch_notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.24<br>
-**Network Replicated:** Coming soon.<br>
+**Network Replicated:** Coming soon<br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 - <a href="https://www.youtube.com/watch?v=fKr9Qey_Jk8">Watch Teaser</a><br>
