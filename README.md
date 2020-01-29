@@ -72,7 +72,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK Patch_notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary><i><strong>(In Development)</strong></i> v1.3.1 <strong><i>- Release Date: February 2020</i></strong> </summary>
+  <summary><i><strong>(In Development)</strong></i> v1.3.1 <strong><i>- ETA: February, 2020</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 </details>
