@@ -7,6 +7,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
 **Current Development Build:** v1.3.0 <a href="#pack-patch_notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.24<br>
+**Network Replicated:** Coming soon.<br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready<br>
 - <a href="https://www.youtube.com/watch?v=fKr9Qey_Jk8">Watch Teaser</a><br>
@@ -70,6 +71,11 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 
 ## PACK Patch_notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
+<details>
+  <summary><i>()</i> v1.3.1 <strong><i>- Release Date: 05-08-2019</i></strong> </summary>
+  
+- Added Network Replication for Online Gameplay.<br>
+</details>
 <details>
   <summary>v1.3.0 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
   
