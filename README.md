@@ -151,7 +151,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## PACK Known_issues:
 
 - [ ] Fix Client-Server Replication for Online Gameplay.
-- [ ] Fix Lightning Gun bugs when using Client-Server Replication.
+- [ ] Fix Lightning Gun issues when using Client-Server Replication.
 - [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
