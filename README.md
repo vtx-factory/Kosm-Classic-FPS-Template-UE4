@@ -75,6 +75,7 @@ Below you'll find all changes and tweaks made from previous to current version o
   <summary><i><strong>(In Development)</strong></i> v1.3.1 <strong><i>- ETA: February, 2020.</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
+- Increased Shotgun Spread damage.<br>
 </details>
 <details>
   <summary>v1.3.0 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
@@ -155,7 +156,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
-- [ ] Shotgun Projectile Spread is too low atm, needs to be increased.
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
