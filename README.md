@@ -76,7 +76,7 @@ Below you'll find all changes and tweaks made from previous to current version o
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
-- Increased Shotgun Spread damage.<br>
+- Increased Shotgun spread.<br>
 </details>
 <details>
   <summary>v1.3.0 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
