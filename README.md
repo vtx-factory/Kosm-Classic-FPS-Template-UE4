@@ -75,6 +75,7 @@ Below you'll find all changes and tweaks made from previous to current version o
   <summary><i><strong>(In Development)</strong></i> v1.3.1 <strong><i>- ETA: February, 2020.</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
+- Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
 - Increased Shotgun Spread damage.<br>
 </details>
 <details>
