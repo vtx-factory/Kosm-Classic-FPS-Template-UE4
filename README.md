@@ -72,7 +72,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK Patch_notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary><i><strong>(In Development)</strong></i> v1.3.1 <strong><i>- ETA: February, 2020.</i></strong> </summary>
+  <summary><i><strong>(In Development)</strong></i> v0.5 <strong><i>- ETA: February, 2020.</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
@@ -80,7 +80,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Increased Perfomance across all platforms.<br>
 </details>
 <details>
-  <summary>v1.3.0 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
+  <summary>v0.4 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
   
 - Added Portal Gun Projectiles. (In/Out Flow)
 - Added Shotgun Projectile. (Namely "Shutgun")
@@ -110,7 +110,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Center/Right Weapon Selection.
 </details>
 <details>
-  <summary>v1.2.0 <strong><i>- Release Date: 12-10-2019</i></strong></summary>
+  <summary>v0.3 <strong><i>- Release Date: 12-10-2019</i></strong></summary>
   
 - Increased Terminal Z Velocity.
 - Corrected "Physics and Collisions" for Player Controlled Characters.
@@ -129,7 +129,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Individual HUDs for each Character.
 </details>
 <details>
-  <summary>v1.1.0 <strong><i>- Release Date: 25-08-2019</i></strong></summary>
+  <summary>v0.2 <strong><i>- Release Date: 25-08-2019</i></strong></summary>
   
 - Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 - Revamped Rocket Launcher Projectile animations and particles.<br>
@@ -146,7 +146,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v1.0.0 <strong><i>- Release Date: 05-08-2019</i></strong> </summary>
+  <summary>v0.1 <strong><i>- Release Date: 05-08-2019</i></strong> </summary>
   
 - First build deployed.<br>
 </details>
