@@ -78,6 +78,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
 - Increased Shotgun spread.<br>
 - Increased Perfomance across all platforms.<br>
+- Improved VQ3 and CPMA Acceleration detection.<br>
 </details>
 <details>
   <summary>v0.4 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
@@ -157,6 +158,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
+- [ ] Tap-Jump to be detected exactly as Pogo jumping is.
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
