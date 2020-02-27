@@ -77,7 +77,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
 - Increased Shotgun spread.<br>
-- Increased Perfomance across all platforms.<br>
 - Improved VQ3 and CPMA Acceleration detection.<br>
 </details>
 <details>
