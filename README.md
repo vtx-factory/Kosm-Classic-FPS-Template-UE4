@@ -79,6 +79,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Shotgun pellets are now traced, which increases its Spread.<br>
 - Improved VQ3 and CPMA Acceleration detection.<br>
 - Fixed various Audio duplicates on Network.<br>
+- Fixed Lighting issues on Fortress map.<br>
 </details>
 <details>
   <summary>v0.4 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
