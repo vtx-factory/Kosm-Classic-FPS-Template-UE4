@@ -156,10 +156,12 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## PACK Known_issues:
 
 - [ ] <strong>NETWORK:</strong> Fix Lightning Gun delay issues on Client.
-- [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
-- [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
-- [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
+- [ ] <strong>NETWORK:</strong> Fix Noobot issues on Client.
 - [ ] Tap-Jump to be detected exactly as Pogo-jump is.
+- [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
+- [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
+- [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
+
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
