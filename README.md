@@ -26,7 +26,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#contact">Contact</a><br>
 - <a href="#licensing">Licensing</a><br><br><br>
 # Download Demo
-You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.<br><br>
+You can test our PACK functionalities with our DEMO showcase.<br><br>
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm-PACK
 
