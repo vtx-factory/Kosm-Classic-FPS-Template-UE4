@@ -42,7 +42,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Railgun Projectile**<br>
 - **Portal Gun Projectile** <i>(Experimental/WIP)</i><br>
 
-**&#9632; AI BOT** with Hearing/Sight Perception System <a href="https://kosm.vtxfactory.org/vid/ai-fight.mp4">(preview)</a>
+**&#9632; AI BOT** with Hearing/Sight Perception System
 
 **&#9632; HEALTH/ARMOR** Pickups & System <br>
 
