@@ -14,7 +14,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#download-demo">Download Demo</a><br>
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 
-<img src="https://kosm.vtxfactory.org/cb/assets/screenshots/02.jpg" /><br><br>
+<img src="https://kosm.vtxfactory.org/imgs/includes_2.jpg" /><br><br>
 - <a href="#kosm-pack">Kosm-PACK</a><br>
 <a href="#pack-includes">Includes</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
@@ -29,7 +29,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 You can test our PACK functionalities with our DEMO showcase below, on Testing_Grounds Map.<br><br>
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm-PACK
-<img src="https://kosm.vtxfactory.org/imgs/includes_2.jpg" />
+
 
 ## PACK Includes:
 **&#9632; 2 CHARACTERS** with distinct movement:
