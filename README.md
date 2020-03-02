@@ -31,8 +31,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 # Kosm-PACK
 
 **&#9632; 2 CHARACTERS** with distinct movement:
-- **VQ3 movement Character** <a href="https://kosm.vtxfactory.org/vid/vq3-mov.mp4">(preview)</a><br>Longer the Bunny-hop, faster the travel.<br>
-- **CPMA movement Character** <a href="https://kosm.vtxfactory.org/vid/cpma-mov.mp4">(preview)</a><br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
+- **VQ3 movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
+- **CPMA movement Character** <br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
 **&#9632; 6 PROJECTILES:** 
 - **Rocket Launcher Projectile**<br>
@@ -41,25 +41,24 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Shotgun Projectile**<br>
 - **Railgun Projectile**<br>
 - **Portal Gun Projectile** <i>(Experimental/WIP)</i><br>
-<a href="https://kosm.vtxfactory.org/vid/projectiles.mp4">(preview)</a>
 
 **&#9632; AI BOT** with Hearing/Sight Perception System <a href="https://kosm.vtxfactory.org/vid/ai-fight.mp4">(preview)</a>
 
-**&#9632; HEALTH/ARMOR** Pickups & System <a href="https://kosm.vtxfactory.org/vid/pickups.mp4">(preview)</a><br>
+**&#9632; HEALTH/ARMOR** Pickups & System <br>
 
 **&#9632; 2 MAPS:**
-- **Fortress Map** <a href="https://kosm.vtxfactory.org/vid/fortress.mp4">(preview)</a><br>
-- **Testing Grounds Map** <a href="https://kosm.vtxfactory.org/vid/testingg.mp4">(preview)</a>
+- **Fortress Map** <br>
+- **Testing Grounds Map**
 
 **&#9632; OTHER FEATURES:**
-- **JumpPads**
+- **Footsteps, Misc Sounds and Attenuation Settings**
+- **Custom Crosshairs and Speedometer**
 - **Toggle 1st/3rd Person Camera**
 - **Cycle Center/Right Weapons**
-- **Custom Crosshairs and Speedometer**
-- **Footsteps, Misc Sounds and Attenuation Settings**
 - **Player's HUD** 
 - **Radial/Splash Damage** 
 - **Damage Indicators** 
+- **JumpPads**
 - **Toggle Crouch** 
 - **Bunny-hop** 
 - **Weapon Zoom**
