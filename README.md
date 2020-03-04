@@ -73,6 +73,7 @@ Below you'll find all changes and tweaks made from previous to current version o
   
 - Added Grenade Launcher Projectile.<br>
 - Added Machine Gun Projectile.<br>
+- Reworked Portals In/Out Visuals, Behavior and Performance.
 - ...<br>
 </details>
 <details>
