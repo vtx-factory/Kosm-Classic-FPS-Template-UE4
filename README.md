@@ -53,6 +53,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; OTHER FEATURES:**
 - **Footsteps, Misc Sounds and Attenuation Settings**
 - **Custom Crosshairs and Speedometer**
+- **Respawn System**
 - **Toggle 1st/3rd Person Camera**
 - **Cycle Center/Right Weapons**
 - **Player's HUD** 
