@@ -169,7 +169,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 
 ## PACK Installation:
-Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, character selection and blueprint editing.<br>
+Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings.<br>
 ## PACK Buy:
 - <a href="https://unrealengine.com/marketplace/en-US/slug/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
 # Unreal Engine 4 QoL Improvements<br>
