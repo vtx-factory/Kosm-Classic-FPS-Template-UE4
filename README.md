@@ -69,7 +69,14 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## PACK Patch_notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary><i><strong>(In Development)</strong></i> v0.5 <strong><i>- ETA: March, 2020.</i></strong> </summary>
+  <summary><i><strong>(In Development)</strong></i> v0.6 <strong><i>- ETA: May/June, 2020.</i></strong> </summary>
+  
+- Added Grenade Launcher Projectile.<br>
+- Added Machine Gun Projectile.<br>
+- ...<br>
+</details>
+<details>
+  <summary>v0.5 <strong><i>- Release Date: 04-03-2020.</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
