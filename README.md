@@ -76,7 +76,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - ...<br>
 </details>
 <details>
-  <summary>v0.5 <strong><i>- Release Date: 04-03-2020.</i></strong> </summary>
+  <summary>v0.5 <strong><i>- Release Date: 04-03-2020</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
