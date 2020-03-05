@@ -79,7 +79,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - ...<br>
 </details>
 <details>
-  <summary>v0.5 <strong><i>- ETA: Waiting Unreal team review, delayed until next week, March 11th</i></strong> </summary>
+  <summary>v0.5 <strong><i>- ETA: Waiting Unreal team review, delayed until next week, 11th of March</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
