@@ -31,8 +31,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 # Kosm-PACK
 
 **&#9632; 2 CHARACTERS** with distinct movement:
-- **VQ3 movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
-- **CPMA movement Character** <br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
+- **VQ3 Strafe-Jumping movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
+- **CPMA Air Control movement Character** <br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
 **&#9632; 6 PROJECTILES:** 
 - **Rocket Launcher Projectile**<br>
