@@ -81,7 +81,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - ...<br>
 </details>
 <details>
-  <summary>v0.5 <strong><i>- ETA: Waiting Unreal team review, delayed until next week, 11th of March</i></strong> </summary>
+  <summary>v0.5 <strong><i>- ETA: Waiting for Unreal Team review, delayed until next week, 11th of March</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
@@ -170,7 +170,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
-
+- [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on determined Distance.
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings.<br>
