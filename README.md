@@ -171,7 +171,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on determined Distance.
-- [ ] If timed correctly, you may spawn 2 Projectiles at the same time.
+- [ ] If timed correctly, you can spawn 2 Projectiles at the same time.
 
 ## PACK Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings.<br>
