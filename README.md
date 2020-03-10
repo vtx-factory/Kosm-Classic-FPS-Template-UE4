@@ -165,7 +165,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## PACK Known_issues:
 
-- [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues on Client.
+- [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] Tap-Jump to be detected exactly as Pogo-jump is.
 - [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
