@@ -2,8 +2,6 @@
 > Classic Arena First-Person-Shooter Mechanics.<br><br>A powerful tool with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints defined as VQ3 (imagine Visor from Quake) and CPMA (Full Air Control Support), an AI Bot and Ragdoll, 6 Projectiles (Rocket Launcher, Nailgun, Lightning Gun, Shutgun, Portal Gun and Railgun), 2 Maps for you to make all your testing, plus an Health/Armor System and much more, all replicated for online gameplay.<br><br>
 This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
-**We're aware of the issues presented in the available build, where you can't open the project on the latest Unreal Engine version - we've issued a new updated build but its still pending approval from the Unreal Team, please give them some time to approve the changes, maximum until Wednesday, 11th of March. Sorry for the inconvenience.**
-
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" />
 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
