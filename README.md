@@ -18,7 +18,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#kosm-pack">Kosm-PACK</a><br>
 <a href="#pack-includes">Includes</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
-<a href="#pack-bug_tracker">Bug Tracker</a><br>
+<a href="#pack-bug-tracker">Bug Tracker</a><br>
 <a href="#pack-installation">Installation</a><br>
 <a href="#pack-buy">Buy</a><br>
 - <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL Improvements</a><br>
