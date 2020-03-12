@@ -15,8 +15,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 
 <img src="https://kosm.vtxfactory.org/imgs/includes_3.jpg" /><br><br>
-- <a href="#kosm-classic-fps-pack">Kosm-PACK</a><br>
-<a href="#pack-includes">Includes</a><br>
+- <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Pack</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
 <a href="#pack-bug-tracker">Bug Tracker</a><br>
 <a href="#pack-installation">Installation</a><br>
