@@ -28,7 +28,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 # Download Demo
 You can test our PACK functionalities with our DEMO showcase.<br><br>
 Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
-# Kosm-PACK
+# Kosm: Classic FPS Pack
 
 **&#9632; 2 CHARACTERS** with distinct movement:
 - **VQ3 Strafe-Jumping movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
@@ -67,7 +67,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Dash** 
 - **Walk**<br>
 
-## PACK Patch_notes:
+## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
   <summary><i><strong>(In Development)</strong></i> v0.6 <strong><i>- ETA: May/June, 2020</i></strong> </summary>
@@ -161,7 +161,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - First build deployed.<br>
 </details>
 
-## PACK Bug Tracker:
+## Bug Tracker:
 
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] <strong>NETWORK-CLIENT:</strong> Some bugs were found on Character's Movement Replication.
@@ -172,9 +172,9 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
 - [ ] If timed correctly, you can spawn 2 Projectiles at the same time.
 
-## PACK Installation:
+## Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings. <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
-## PACK Buy:
+## Buy:
 - <a href="https://unrealengine.com/marketplace/en-US/slug/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
 # Unreal Engine 4 QoL Improvements<br>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
