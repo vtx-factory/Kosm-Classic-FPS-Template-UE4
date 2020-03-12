@@ -173,7 +173,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] If timed correctly, you can spawn 2 Projectiles at the same time.
 
 ## PACK Installation:
-Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings.<br>
+Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings. <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
 ## PACK Buy:
 - <a href="https://unrealengine.com/marketplace/en-US/slug/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
 # Unreal Engine 4 QoL Improvements<br>
