@@ -16,10 +16,10 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 
 <img src="https://kosm.vtxfactory.org/imgs/includes_3.jpg" /><br><br>
 - <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Pack</a><br>
-<a href="#pack-patch_notes">Patch Notes</a><br>
-<a href="#pack-bug-tracker">Bug Tracker</a><br>
-<a href="#pack-installation">Installation</a><br>
-<a href="#pack-buy">Buy</a><br>
+<a href="#patch_notes">Patch Notes</a><br>
+<a href="#bug-tracker">Bug Tracker</a><br>
+<a href="#installation">Installation</a><br>
+<a href="#buy">Buy</a><br>
 - <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL Improvements</a><br>
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
