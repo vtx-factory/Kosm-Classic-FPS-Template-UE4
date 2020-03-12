@@ -170,6 +170,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Unintended rotation when spawning Ragdoll_Noobot in 3rd Person Camera. (while pressing "N" in 3rd Person Camera)
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
 - [ ] If timed correctly, you can spawn 2 Projectiles at the same time.
+- [ ] Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
 
 ## Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. A .pdf manual is included for further installation instructions, blueprint editing and network settings. <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
