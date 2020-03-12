@@ -18,7 +18,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#kosm-pack">Kosm-PACK</a><br>
 <a href="#pack-includes">Includes</a><br>
 <a href="#pack-patch_notes">Patch Notes</a><br>
-<a href="#pack-known_issues">Known Issues</a><br>
+<a href="#pack-bug_tracker">Bug Tracker</a><br>
 <a href="#pack-installation">Installation</a><br>
 <a href="#pack-buy">Buy</a><br>
 - <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL Improvements</a><br>
@@ -161,7 +161,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - First build deployed.<br>
 </details>
 
-## PACK Known_issues:
+## PACK Bug Tracker:
 
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] <strong>NETWORK-CLIENT:</strong> Some bugs were found on Character's Movement Replication.
