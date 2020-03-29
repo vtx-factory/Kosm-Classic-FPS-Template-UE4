@@ -86,7 +86,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Improved VQ3 and CPMA Acceleration detection.<br>
 - Fixed various Audio duplicates on Network.<br>
 - Fixed Lighting issues on Fortress map.<br>
-- Changed maximum Velocity to 4000 for VQ3 and 4200 for CPMA.<br>
+- Changed maximum XY Velocity to 4000 for VQ3 and 4200 for CPMA.<br>
 </details>
 <details>
   <summary>v0.4 <strong><i>- Release Date: 27-12-2019</i></strong></summary>
