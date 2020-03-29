@@ -75,7 +75,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Machine Gun Projectile.<br>
 - Added 3rdPerson Mesh backward/sideways movement Animations.<br>
 - Updated Portals In/Out Visuals, Behavior and Performance.
-- ...<br>
+- <i>(coming out of the oven)</i><br>
 </details>
 <details>
   <summary>v0.5 <strong><i>- Release Date: 10-03-2020</i></strong> </summary>
