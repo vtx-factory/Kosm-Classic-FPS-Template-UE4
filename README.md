@@ -5,7 +5,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" />
 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
-**Current Development Build:** v0.5 <a href="#pack-patch_notes">(view Changelog)</a><br>
+**Current Development Build:** v0.5 <a href="#patch_notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.24<br>
 **Network Replicated:** Yes.<br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible.<br>
