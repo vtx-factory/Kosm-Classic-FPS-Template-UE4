@@ -36,9 +36,9 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; 6 PROJECTILES:** 
 - **Rocket Launcher Projectile**<br>
 - **Nailgun Projectile**<br>
+- **Railgun Projectile**<br>
 - **Lightning Gun Projectile** <i>(Experimental/WIP)</i><br>
 - **Shotgun Projectile**<br>
-- **Railgun Projectile**<br>
 - **Portal Gun Projectile** <i>(Experimental/WIP)</i><br>
 
 **&#9632; AI BOT** with Hearing/Sight Perception System
