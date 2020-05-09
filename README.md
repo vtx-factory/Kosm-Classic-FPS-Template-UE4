@@ -76,6 +76,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added 3rdPerson Mesh backward/sideways movement Animations.<br>
 - Updated Portals In/Out Visuals, Behavior and Performance.
 - Fixed some Replication issues related to Character's movement.
+- Upgraded Project Compatibility to UE v4.25.
 - <i>(...)</i><br>
 </details>
 <details>
