@@ -164,7 +164,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
-- [ ] <strong>NETWORK-CLIENT:</strong> You can notice some stutters on Character's movement while on Network when executing fast movements, this is because the Exterp/Interp need and will be fine tuned.
+- [ ] <strong>NETWORK-CLIENT:</strong> You can notice some stutters on Character's movement while on Network, this is because the Exterp/Interp need and will be fine tuned.
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
 - [ ] Tap-Jump to be detected exactly as Bunny-hop is.
