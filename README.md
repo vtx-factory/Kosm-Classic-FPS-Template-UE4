@@ -169,7 +169,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
 - [ ] Tap-Jump to be detected exactly as Bunny-hop is.
-- [ ] Portal Gun is still a WIP, there will be bugs - Projectiles won't pass through Portals, only Characters. (to be implemented later on)
 - [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] If timed correctly, you can spawn 2 Projectiles at the same time.
 - [ ] Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
