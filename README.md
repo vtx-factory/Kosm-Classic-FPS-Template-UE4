@@ -164,7 +164,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
-- [ ] <strong>PORTALS:</strong> There's Mesh Clipping when passing through Portals.
+- [ ] <strong>PORTALS:</strong> There's still Mesh Clipping when passing through Portals.
 - [ ] <strong>NETWORK-CLIENT:</strong> You can notice some stutters on Character's movement while on Network, this is because the Exterp/Interp need and will be fine tuned.
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
