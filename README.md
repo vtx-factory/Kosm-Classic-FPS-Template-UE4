@@ -74,7 +74,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Grenade Launcher Projectile.<br>
 - Added Machine Gun Projectile.<br>
 - Added 3rdPerson Mesh backward/sideways movement Animations.<br>
-- Updated Portals In/Out Behavior, Performance and Visuals - e.g. No render delay; Projectiles and Physics objects now pass through Portals. (the only exceptions being Machine Gun, Railgun, Lightning Gun and Shotgun Projectiles for now)
+- Updated Portals In/Out Behavior, Performance and Visuals - e.g. No render delay; Projectiles and Physics objects now pass through Portals.
 - Fixed some Replication issues related to Character's movement.
 - Upgraded Project Compatibility to UE v4.25.
 - <i>(...)</i><br>
@@ -164,7 +164,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
-- [ ] <strong>PORTALS:</strong> There's still Mesh Clipping when passing through Portals.
+- [ ] <strong>PORTALS:</strong> There's still Mesh Clipping when passing through Portals and Machine Gun, Railgun, Lightning Gun and Shotgun Projectiles won't pass through them.
 - [ ] <strong>NETWORK-CLIENT:</strong> You can notice some stutters on Character's movement while on Network, this is because the Exterp/Interp need and will be fine tuned.
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
