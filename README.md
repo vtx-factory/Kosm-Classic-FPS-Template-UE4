@@ -77,6 +77,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Updated Portals In/Out Behavior, Performance and Visuals - e.g. No render delay; Projectiles and Physics objects now pass through Portals.
 - Fixed some Replication issues related to Character's movement.
 - Upgraded Project Compatibility to UE v4.25.
+- 3rdPersonGun now changes material accordingly to selected Weapon.
 - <i>(...)</i><br>
 </details>
 <details>
