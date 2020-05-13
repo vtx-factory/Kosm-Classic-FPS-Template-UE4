@@ -165,14 +165,14 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
-- [ ] <strong>PORTALS:</strong> There's Mesh Clipping when passing through Portals. Projectiles that are Instant Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
 - [ ] <strong>NETWORK-CLIENT:</strong> Stutters can be noticed on Character's movement while on Network, this is because the Exterp/Interp need and will be fine tuned.
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
-- [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
-- [ ] Tap-Jump to be detected exactly as Bunny-hop is.
-- [ ] You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
-- [ ] If timed correctly, you can spawn 2 Projectiles at the same time.
-- [ ] Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
+- [ ] <strong>STANDALONE-WEAPONS:</strong> Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
+- [ ] <strong>STANDALONE-WEAPONS:</strong> You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
+- [ ] <strong>STANDALONE-WEAPONS:</strong> If timed correctly, you can spawn 2 Projectiles at the same time.
+- [ ] <strong>STANDALONE-WEAPONS:</strong> Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
+- [ ] <strong>STANDALONE-PORTALS:</strong> There's Mesh Clipping when passing through Portals. Projectiles that are Instant Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
+- [ ] <strong>STANDALONE-MOVEMENT:</strong> Tap-Jump to be detected exactly as Bunny-hop is.
 
 ## Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
