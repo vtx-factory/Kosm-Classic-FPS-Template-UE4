@@ -165,7 +165,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
-- [ ] <strong>PORTALS:</strong> There's Mesh Clipping when passing through Portals. Machine Gun, Railgun, Lightning Gun and Shotgun Projectiles won't pass through them.
+- [ ] <strong>PORTALS:</strong> There's Mesh Clipping when passing through Portals. Projectiles that are Instant Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
 - [ ] <strong>NETWORK-CLIENT:</strong> Stutters can be noticed on Character's movement while on Network, this is because the Exterp/Interp need and will be fine tuned.
 - [ ] <strong>NETWORK-CLIENT:</strong> Fix Lightning Gun delay issues.
 - [ ] Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
