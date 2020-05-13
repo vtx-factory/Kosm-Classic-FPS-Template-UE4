@@ -173,6 +173,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> There's Mesh Clipping when passing through Portals.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit or have a low delay between shots (Machine Gun, Nailgun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
+- [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre allocated as Actors on the map. On a future update, there'll be no need for this.
 - [ ] <strong>[STANDALONE-MOVEMENT]</strong> Tap-Jump to be detected exactly as Bunny-hop is.
 
 ## Installation:
