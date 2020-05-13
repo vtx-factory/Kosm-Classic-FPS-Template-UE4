@@ -171,7 +171,8 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> If timed correctly, you can spawn 2 Projectiles at the same time.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
-- [ ] <strong>[STANDALONE-PORTALS]</strong> There's Mesh Clipping when passing through Portals. Projectiles that are Instant Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
+- [ ] <strong>[STANDALONE-PORTALS]</strong> There's Mesh Clipping when passing through Portals.
+- [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Instant Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
 - [ ] <strong>[STANDALONE-MOVEMENT]</strong> Tap-Jump to be detected exactly as Bunny-hop is.
 
 ## Installation:
