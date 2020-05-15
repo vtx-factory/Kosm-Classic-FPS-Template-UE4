@@ -78,7 +78,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Fixed some Replication issues related to Character's movement.
 - Upgraded Project Compatibility to UE v4.25.
 - 3rdPersonGun now changes material accordingly to selected Weapon.
-- PhysicsActor interact with JumpPad.
+- PhysicsActor now interact with JumpPad.
 - <i>(...)</i><br>
 </details>
 <details>
