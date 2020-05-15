@@ -177,7 +177,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-PORTALS]</strong> There's Mesh Clipping when passing through Portals.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit or have a low delay between shots (Machine Gun, Nailgun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre allocated as Actors on the map. On a future update, there'll be no need for it.
-- Found a bug? <a href="https://vtxfactory.org/main/#contact">Snitch it here</a>
+- [ ] Found a bug? <a href="https://vtxfactory.org/main/#contact">Snitch it here.</a>
 
 ## Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
