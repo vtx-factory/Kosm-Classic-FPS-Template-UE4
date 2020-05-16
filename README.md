@@ -74,7 +74,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Grenade Launcher Projectile.<br>
 - Added Machine Gun Projectile.<br>
 - Added 3rdPerson Mesh backward/sideways movement Animations.<br>
-- Updated Portals In/Out Behavior, Performance and Visuals - e.g. No render delay; Physic Objects and Projectiles (not all of them) can now pass through Portals.
+- Updated Portals In/Out Behavior, Performance and Visuals - e.g. No render delay; PhysicsActor and Projectiles (not all of them) can now pass through Portals.
 - Fixed some Replication issues related to Character's movement.
 - Upgraded Project Compatibility to UE v4.25.
 - 3rdPersonGun now changes material accordingly to selected Weapon.
