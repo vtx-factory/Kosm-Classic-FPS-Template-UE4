@@ -177,7 +177,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> If timed correctly, you can spawn 2 Projectiles at the same time.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
-- [ ] Found a bug? <a href="https://vtxfactory.org/main/#contact">Snitch it here.</a>
+- [ ] Found a bug? <a href="https://vtxfactory.org/main/#contact">Contact us.</a>
 
 ## Installation:
 Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
