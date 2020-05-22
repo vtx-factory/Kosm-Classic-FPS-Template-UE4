@@ -80,7 +80,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - 3rdPersonGun now changes material accordingly to selected Weapon.
 - PhysicsActor now interact with JumpPad and Portals.
 - You can now Step Up on Characters.
-- Added Critical Damage when hitting the Head bone of the Opponent Mesh - a multiplier of x2 is applied and Damage Indicator is displayed in red.
+- Added Critical Damage when hitting the Head bone of the Opponent Mesh - it will do twice as Damage and the Indicator is displayed in red.
 - <i>(...)</i><br>
 </details>
 <details>
