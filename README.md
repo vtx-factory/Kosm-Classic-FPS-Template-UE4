@@ -81,6 +81,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - PhysicsActor now interact with JumpPad and Portals.
 - You can now Step Up on Characters.
 - Added Critical Damage when hitting the Head bone of the Opponent Mesh - it will do twice as Damage and the Indicator is displayed in red.
+- Updated Health and Armor Bars behavior and visuals, now they only appear when crosshair is hovering the specific Actor. 
 - <i>(...)</i><br>
 </details>
 <details>
