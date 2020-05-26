@@ -83,6 +83,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Critical Damage when hitting the Head bone of the Opponent Mesh - it will do twice as Damage and the Indicator is displayed in red.
 - Updated HealthBars behavior and visuals, now they only appear when crosshair is hovering the specific Actor. Jittery edges and Aliasing have been removed.
 - Added Crouch Slide Mechanic.
+- Further tuned Ta-Jump detection for both Characters.
 - <i>(...)</i><br>
 </details>
 <details>
