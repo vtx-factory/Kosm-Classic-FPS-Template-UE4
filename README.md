@@ -179,7 +179,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit or have a low delay between shots (Machine Gun, Nailgun, Railgun, Lightning Gun and Shotgun) won't pass through them yet.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre allocated as Actors on the map. On a future update, there'll be no need for that.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
-- [ ] <strong>[STANDALONE-WEAPONS]</strong> You won't be able to fire projectiles when switching to 3rd Person Camera. (Pressing "N") (to be implemented later on)
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> If timed correctly, you can spawn 2 Projectiles at the same time.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
 - [ ] Found a bug? <a href="https://vtxfactory.org/main/#contact">Contact us</a>.
