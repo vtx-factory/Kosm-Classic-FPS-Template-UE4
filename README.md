@@ -85,6 +85,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Crouch Slide Mechanic.
 - Further tuned Tap-Jump detection for both Characters.
 - Added the ability to fire projectiles while using 3rdPersonCamera.
+- Absolute align Decals and Projectiles with Crosshair and Hit Info.
 - <i>(...)</i><br>
 </details>
 <details>
