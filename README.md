@@ -88,7 +88,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - <i>(...)</i><br>
 </details>
 <details>
-  <summary>v0.5 <strong><i>- Release#10032020</i></strong> </summary>
+  <summary>v0.5 <strong><i>- Release#10.03.2020</i></strong> </summary>
   
 - Added Network Replication for Online Gameplay.<br>
 - Added Shotgun Bullet Sprites to Weapon Muzzle when firing.<br>
@@ -99,7 +99,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Changed maximum XY Velocity to 4000 for VQ3 and 4200 for CPMA.<br>
 </details>
 <details>
-  <summary>v0.4 <strong><i>- Release#27122019</i></strong></summary>
+  <summary>v0.4 <strong><i>- Release#27.12.2019</i></strong></summary>
   
 - Added Portal Gun Projectiles. (In/Out Flow)
 - Added Shotgun Projectile. (Namely "Shutgun")
@@ -129,7 +129,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Center/Right Weapon Selection.
 </details>
 <details>
-  <summary>v0.3 <strong><i>- Release#12102019</i></strong></summary>
+  <summary>v0.3 <strong><i>- Release#12.10.2019</i></strong></summary>
   
 - Increased Terminal Z Velocity.
 - Corrected "Physics and Collisions" for Player Controlled Characters.
@@ -148,7 +148,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Individual HUDs for each Character.
 </details>
 <details>
-  <summary>v0.2 <strong><i>- Release Date: 25-08-2019</i></strong></summary>
+  <summary>v0.2 <strong><i>- Release#25.08.2019</i></strong></summary>
   
 - Optimized Mouse Acceleration detection for the VQ3 character to work better. (further updates will be coming on next patch)<br>
 - Revamped Rocket Launcher Projectile animations and particles.<br>
@@ -165,7 +165,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Increased step height so character can step up stairs.<br>
 </details>
 <details>
-  <summary>v0.1 <strong><i>- Release Date: 05-08-2019</i></strong> </summary>
+  <summary>v0.1 <strong><i>- Release#05.08.2019</i></strong> </summary>
   
 - First build deployed.<br>
 </details>
