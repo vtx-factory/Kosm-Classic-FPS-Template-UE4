@@ -84,6 +84,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Updated HealthBars behavior and visuals, now they only appear when crosshair is hovering the specific Actor. Jittery edges and Aliasing have been removed.
 - Added Crouch Slide Mechanic.
 - Further tuned Tap-Jump detection for both Characters.
+- Added the ability to fire projectiles while using 3rdPersonCamera.
 - <i>(...)</i><br>
 </details>
 <details>
