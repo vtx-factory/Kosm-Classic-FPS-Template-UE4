@@ -86,6 +86,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Further tuned Tap-Jump detection for both Characters.
 - Added the ability to fire projectiles while using 3rdPersonCamera.
 - Absolute align Decals and Projectiles with Crosshair and Hit Info.
+- Added Weapon/Ammo Refill System - grab Weapon from the floor and refill your Ammo.
 - <i>(...)</i><br>
 </details>
 <details>
