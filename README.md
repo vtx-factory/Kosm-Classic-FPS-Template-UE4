@@ -88,7 +88,8 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Align Decals and Projectiles with Crosshair based on Hit Info.
 - Added Weapon/Ammo Refill System - grab Ammo from the ground to refill your Weapon.
 - Noobot now switches between Rocket Launcher and Nailgun Projectiles.
-- Added Blood splashes on Event Hit and Visual damage to Skeletal Meshes.  
+- Added Blood splashes on Event Hit and Visual damage to Skeletal Meshes.
+- Added Hit Sound on Opponent Damage - Pitch is modulated by the amount of Damage done.
 - <i>(...)</i><br>
 </details>
 <details>
