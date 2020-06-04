@@ -185,6 +185,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> If timed correctly, you can spawn 2 Projectiles at the same time.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Sometimes, Rocket Launcher/Nailgun Impulse doesn't damage own player when firing at a 90º angle.
+- [ ] <strong>[STANDALONE-WEAPONS]</strong> Sometimes, Grenade Launcher Blast Radius doesn't trigger Radial Damage.
 - [ ] Found a bug? <a href="https://vtxfactory.org/main/#contact">Contact us</a>.
 
 ## Installation:
