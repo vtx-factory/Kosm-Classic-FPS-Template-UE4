@@ -91,6 +91,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Blood splashes on Event Hit and Visual damage to Skeletal Meshes.
 - Added Hit Sound on Opponent Damage - Pitch is modulated by the amount of Damage done.
 - Added Wind sound FX when falling over -4000 ZVelocity.
+- Added Speed Blendspace to 1stPerson Mesh.
 - <i>(...)</i><br>
 </details>
 <details>
