@@ -90,6 +90,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Noobot now switches between Rocket Launcher and Nailgun Projectiles.
 - Added Blood splashes on Event Hit and Visual damage to Skeletal Meshes.
 - Added Hit Sound on Opponent Damage - Pitch is modulated by the amount of Damage done.
+- Added Wind sound FX when falling over -4000 ZVelocity.
 - <i>(...)</i><br>
 </details>
 <details>
