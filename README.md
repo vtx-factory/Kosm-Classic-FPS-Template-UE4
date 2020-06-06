@@ -92,6 +92,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Hit Sound on Opponent Damage - Pitch is modulated by the amount of Damage done.
 - Added Wind sound FX when falling over -4000 ZVelocity.
 - Added Speed Blendspace to 1stPerson Mesh.
+- Added Ground Accel when swinging mouse for greater impulse when jumping.
 - <i>(...)</i><br>
 </details>
 <details>
