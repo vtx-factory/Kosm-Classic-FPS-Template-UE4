@@ -185,6 +185,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fix Lightning Gun delay issues.
 - [ ] <strong>[STANDALONE-GENERAL]</strong> Sometimes Deathscream is triggered in situations where it shouldn't.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> There's Mesh Clipping when passing through Portals.
+- [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals will trigger Event Hit but won't apply any damage.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through yet.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre-allocated as Actors on the map. On a future update, there'll be no need for that.
 - [ ] <strong>[STANDALONE-WEAPONS]</strong> Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
