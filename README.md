@@ -93,6 +93,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Wind sound FX when falling over -4000 ZVelocity.
 - Added Speed Blendspace to 1stPerson Mesh.
 - Added Ground Accel when swinging mouse for greater jump impulse.
+- Normalized Transform (Rotation and Scale) across all Characters.
 - <i>(...)</i><br>
 </details>
 <details>
