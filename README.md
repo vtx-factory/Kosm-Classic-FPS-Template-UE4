@@ -94,6 +94,9 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Speed Blendspace to 1stPerson Mesh.
 - Added Ground Accel when swinging mouse for greater jump impulse.
 - Normalized Transform (Rotation and Scale) across all Characters.
+- Added Instanced Static Mesh version of fortress.umap to decrease loading time and boost performance while level is open.
+- Improved Characters Blueprints Accessibility by collapsing nodes into functions.
+- Reorganized variables by category and type on main characters BPs.
 - <i>(...)</i><br>
 </details>
 <details>
