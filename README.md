@@ -186,7 +186,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fall Damage is triggered in situations where it shouldn't.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Stutters can be noticed on Character's movement while on Network, this is because the Exterp/Interp still need to be tuned.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fix Lightning Gun delay issues.
-- [ ] <strong>[STANDALONE-GENERAL]</strong> Sometimes Deathscream is triggered in situations where it shouldn't.
+- [ ] <strong>[STANDALONE-GENERAL]</strong> Deathscream is triggered in situations where it shouldn't.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> There's Mesh Clipping when passing through Portals.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals will trigger Event Hit but won't apply any damage. They will have a small deviation on direction too.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them.
