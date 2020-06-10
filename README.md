@@ -96,6 +96,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Normalized Transform (Rotation and Scale) across all Characters.
 - Added Instanced Static Mesh version of fortress.umap to decrease loading time and boost performance while level is open.
 - Improved Accessibility and Readability by adding more important comments, collapsing nodes into functions and reorganized variables by category and type on main BPs.
+- Attached Muzzle Sprites and Projectile Spawns to Muzzle Component so it will follow weapon when moving.  
 - <i>(...)</i><br>
 </details>
 <details>
