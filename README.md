@@ -98,6 +98,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Improved Accessibility and Readability by adding more important comments, collapsing nodes into functions and reorganized variables by category and type on main BPs.
 - Attached Muzzle Sprites and Projectile Spawns to Muzzle Component so it follows weapon when moving.
 - Added minimum Zvelocity you need to fall in order to produce on_land noise. This will help in reaching new heights without triggering any perceivable noise event.
+- Added Ragdoll State when opponent is killed to Ragdoll_Noobot and Noobot_AI. VQ3 and CPMA still use the on_death animation.
 - <i>(...)</i><br>
 </details>
 <details>
