@@ -99,7 +99,9 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Attached Muzzle Sprites and Projectile Spawns to Muzzle Component so it follows weapon when moving.
 - Added minimum Zvelocity you need to fall in order to produce on_land noise. This will help in reaching new heights without triggering any perceivable noise event.
 - Added Ragdoll State when opponent is killed to Ragdoll_Noobot and Noobot_AI. VQ3 and CPMA still use the on_death animation.
-- Added Hotkeys (O and P keyboard keys) for Double Jump Selection Mode - DoubleJump Active, DoubleJump Disabled and Infinite DoubleJump.
+- Added Hotkeys (O and P) for Double Jump Selection Mode - DoubleJump Active, DoubleJump Disabled and Infinite DoubleJump.
+- Added Hotkey (L) to Refill Ammo.
+- Characters will now pass under obstacles when Crouched.
 - <i>(...)</i><br>
 </details>
 <details>
