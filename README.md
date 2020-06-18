@@ -103,6 +103,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Hotkey (L) to Refill Ammo.
 - Characters will now pass under obstacles while Crouched.
 - Linetrace to check if objects are above character while Crouched.
+- Added Animated Meshes of Health and Armor to UI.
 - <i>(...)</i><br>
 </details>
 <details>
