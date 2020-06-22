@@ -104,6 +104,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Characters will now pass under obstacles while Crouched.
 - Linetrace to check if objects are above character while Crouched.
 - Added Animated Meshes of Health and Armor to UI.
+- Revamped Character Selection system (Tab key) - now it opens a selection menu for you to choose active character.
 - <i>(...)</i><br>
 </details>
 <details>
