@@ -85,7 +85,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Crouch Slide Mechanic.
 - Further tuned Tap-Jump detection for both Characters.
 - Added the ability to fire projectiles while using 3rdPersonCamera.
-- Align Decals and Projectiles with Crosshair based on Hit Info.
+- Align Decals and Projectiles with Crosshair based on Hit Info and Line Trace.
 - Added Weapon/Ammo Refill System - grab Ammo from the ground to refill your Weapon.
 - Noobot now switches between Rocket Launcher and Nailgun Projectiles.
 - Added Blood splashes on Event Hit and Visual damage to Skeletal Meshes.
