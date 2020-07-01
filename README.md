@@ -46,7 +46,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; HEALTH/ARMOR** Pickups & System <br>
 
 **&#9632; 2 MAPS:**
-- **Fortress Map** <br>
+- **Fortress DM/TDM Map** (based on dm20) <br>
 - **Testing Grounds Map**
 
 **&#9632; OTHER FEATURES:**
