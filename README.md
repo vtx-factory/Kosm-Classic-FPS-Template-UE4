@@ -7,7 +7,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
 **Current Development Build:** v0.5 <a href="#patch-notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.24<br>
-**Network Replicated:** Yes. (WIP)<br>
+**Network Replicated:** Yes. <i>(WIP)</i><br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible.<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready.<br>
 - <a href="https://www.youtube.com/watch?v=fKr9Qey_Jk8">Watch Teaser</a><br>
@@ -46,7 +46,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 **&#9632; HEALTH/ARMOR** Pickups & System <br>
 
 **&#9632; 2 MAPS:**
-- **Fortress DM/TDM Map** (based on dm20) <br>
+- **Fortress DM/TDM Map** <i>(based on dm20)</i> <br>
 - **Testing Grounds Map**
 
 **&#9632; OTHER FEATURES:**
