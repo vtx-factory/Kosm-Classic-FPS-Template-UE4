@@ -106,6 +106,8 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Animated Meshes of Health and Armor to UI.
 - Revamped Character Selection system (Tab key) - now it opens up a menu for you to choose active character.
 - Added Switch Weapons sound effect.
+- Added Crouch Slide delay on landed when not doing it simultaneously.
+- Crouch Slide movement speed and time increase proportionaly to continuous use.
 - <i>(...)</i><br>
 </details>
 <details>
