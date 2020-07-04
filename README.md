@@ -199,8 +199,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[NETWORK-CLIENT]</strong> Stutters can be noticed on Character's movement while on Network, this is because the Exterp/Interp still need to be tuned.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fix Lightning Gun delay issues.
 - [ ] <strong>[STANDALONE-GENERAL]</strong> Deathscream is triggered in situations where it shouldn't.
-- [ ] <strong>[STANDALONE-PORTALS]</strong> Increasing distance from Portals will cause flickering on overlapping surfaces.
-- [ ] <strong>[STANDALONE-PORTALS]</strong> Camera isn't smooth transitioning when character pass Portal while using 3PersonCamera.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals have a small deviation on direction.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre-allocated as Actors on the map.
