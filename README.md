@@ -106,8 +106,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Animated Meshes of Health and Armor to UI.
 - Revamped Character Selection system (Tab key) - now it opens up a menu for you to choose active character.
 - Added Switch Weapons sound FX.
-- Added Weapon Sway on 1PersonMesh. 
-- <i>(...)</i><br>
+- Added Weapon Sway on 1PersonMesh.
 </details>
 <details>
   <summary>v0.5 <strong><i>- Release#10.03.2020</i></strong> </summary>
