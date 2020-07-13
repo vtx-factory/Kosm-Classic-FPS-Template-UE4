@@ -195,6 +195,8 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fix Lightning Gun delay issues.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Crouch Slide mechanic isn't working.
+- [ ] <strong>[NETWORK-CLIENT]</strong> Projectiles appear to have different location offsets when spawned from client to server.
+- [ ] <strong>[STANDALONE-GENERAL]</strong> While firing, you may be able to spawn 2 projectiles almost at the same time if switching weapons too fast. 
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals have a small deviation on direction.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre-allocated as Actors on the map.
