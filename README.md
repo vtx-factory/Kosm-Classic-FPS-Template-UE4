@@ -193,8 +193,8 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
-- [ ] <strong>[NETWORK-CLIENT]</strong> Fix Crouch Slide.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fix Lightning Gun delay issues.
+- [ ] <strong>[NETWORK-CLIENT]</strong> Crouch Slide mechanic isn't working.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals have a small deviation on direction.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Portals need to be pre-allocated as Actors on the map.
