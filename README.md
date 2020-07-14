@@ -194,7 +194,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## Bug Tracker:
 
 - [ ] <strong>[NETWORK-CLIENT]</strong> Fix Lightning Gun delay issues.
-- [ ] <strong>[NETWORK-CLIENT]</strong> Crouch Slide mechanic isn't working.
+- [ ] <strong>[NETWORK-CLIENT]</strong> Crouch Slide mechanic isn't replicating.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Projectiles appear to have different location offsets when spawned from client to server.
 - [ ] <strong>[STANDALONE-GENERAL]</strong> While firing, you may be able to spawn 2 projectiles almost at the same time if switching weapons too fast. 
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals have a small deviation on direction.
