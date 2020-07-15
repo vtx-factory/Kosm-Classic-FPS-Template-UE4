@@ -8,6 +8,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Current Development Build:** v0.6 <a href="#patch-notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.25<br>
 **Network Replicated:** Yes. <i>(WIP)</i><br>
+**Platform Compatibility:** PC, PS4, Xbox and VR (Oculus, Steam, Valve Index, Vive).<br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible.<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready.<br>
 - <a href="https://www.youtube.com/watch?v=fKr9Qey_Jk8">Watch Teaser</a><br>
