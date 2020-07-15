@@ -40,6 +40,8 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Lightning Gun Projectile** <i>(Experimental/WIP)</i><br>
 - **Shotgun Projectile**<br>
 - **Portal Gun Projectile** <i>(Experimental/WIP)</i><br>
+- **Machinegun Projectile**<br>
+- **Grenade Launcher Projectile**<br>
 
 **&#9632; AI BOT** with Hearing/Sight Perception System
 
@@ -70,7 +72,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 ## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-  <summary><i><strong>(In Development)</strong></i> v0.6 <strong><i>- ETA: July, 2020</i></strong> </summary>
+  <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
   
 - Added Grenade Launcher Projectile.<br>
 - Added Machine Gun Projectile.<br>
