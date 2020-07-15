@@ -5,8 +5,8 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" />
 
 **Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
-**Current Development Build:** v0.5 <a href="#patch-notes">(view Changelog)</a><br>
-**Unreal Engine Compatibility Version:** v4.24<br>
+**Current Development Build:** v0.6 <a href="#patch-notes">(view Changelog)</a><br>
+**Unreal Engine Compatibility Version:** v4.25<br>
 **Network Replicated:** Yes. <i>(WIP)</i><br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible.<br>
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready.<br>
@@ -33,7 +33,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **VQ3 Strafe-Jumping movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
 - **CPMA Air Control movement Character** <br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
-**&#9632; 6 PROJECTILES:** 
+**&#9632; 8 PROJECTILES:** 
 - **Rocket Launcher Projectile**<br>
 - **Nailgun Projectile**<br>
 - **Railgun Projectile**<br>
@@ -43,7 +43,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 
 **&#9632; AI BOT** with Hearing/Sight Perception System
 
-**&#9632; HEALTH/ARMOR** Pickups & System <br>
+**&#9632; HEALTH/ARMOR/AMMO** Pickups & System <br>
 
 **&#9632; 2 MAPS:**
 - **Fortress DM/TDM Map** <i>(based on dm20)</i> <br>
@@ -53,13 +53,14 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Footsteps, Misc Sounds and Attenuation Settings**
 - **Custom Crosshairs and Speedometer**
 - **Respawn System**
-- **Toggle 1st/3rd Person Camera**
+- **Camera Toggle**
 - **Cycle Center/Right Weapons**
 - **Player's HUD** 
 - **Radial/Splash Damage** 
 - **Damage Indicators** 
 - **JumpPads**
-- **Toggle Crouch** 
+- **Crouch Slide**
+- **Crouch** 
 - **Bunny-hop** 
 - **Weapon Zoom**
 - **Double Jump** 
