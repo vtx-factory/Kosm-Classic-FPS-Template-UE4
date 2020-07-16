@@ -46,7 +46,7 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 
 **&#9632; AI BOT** with Hearing/Sight Perception System
 
-**&#9632; HEALTH/ARMOR/AMMO** Pickups & System <br>
+**&#9632; HEALTH/ARMOR/AMMO** Pickup System <br>
 
 **&#9632; 2 MAPS:**
 - **Fortress DM/TDM Map** <i>(based on dm20)</i> <br>
