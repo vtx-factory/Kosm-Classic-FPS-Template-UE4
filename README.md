@@ -56,6 +56,7 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **Camera Toggle**
 - **Cycle Center/Right Weapons**
 - **Player HUD** 
+- **Visual Damage & Blood Splashes** 
 - **Radial/Splash Damage** 
 - **Damage Indicator**
 - **Healthbar** 
