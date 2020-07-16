@@ -214,7 +214,7 @@ Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-
 # Unreal Engine 4 QoL Improvements<br>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Show Frame Rate and Memory in Editor**<br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
-**&#9632; Use NEW EDITOR WINDOW (PIE)**<br>Click the drop-down arrow near **Play** and select **New Editor Window (PIE)**, it is more responsive, boost performance and have less input lag.<br><br>
+**&#9632; Use NEW EDITOR WINDOW (PIE)**<br>Click the drop-down arrow near **Play** and select **New Editor Window (PIE)** - it is more responsive, boost performance and have less input lag.<br><br>
 **&#9632; t.MaxFPS 300**<br>When playing the active level in editor viewport, it caps your fps to 60. To increase the cap, go to <strong>Edit > Project Settings</strong> and type "Console" in <strong>Search Details</strong> field to bind your <strong>Console key</strong>. Now click <strong>Play</strong> from the <strong>Editor Viewport</strong>, click your binded key and write <i>t.maxfps 300</i> in the newly opened command prompt.)<br><br>
 **&#9632; r.OneFrameThreadLag 0**<br>This option, when enabled on any Unreal Engine game, will cause input lag increases even for people who play the game with really good fps. If you're getting floating mouse movement, try disabling it.<br><br>
 **&#9632; r.VSync 0**<br>With your <strong>Console key</strong> already binded, click <strong>Play</strong> in the <strong>Editor Viewport</strong> and write <i>r.vsync 0</i> to disable Vertical Sync.<br><br>
