@@ -58,13 +58,13 @@ Check our <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/rele
 - **Respawn System**
 - **Camera Toggle**
 - **Cycle Center/Right Weapons**
-- **Player's HUD** 
+- **Player HUD** 
 - **Radial/Splash Damage** 
-- **Damage Indicators** 
-- **JumpPads**
-- **Crouch Slide**
-- **Crouch** 
-- **Bunny-hop** 
+- **Damage Indicator**
+- **Healthbar** 
+- **JumpPad**
+- **Bunny-hop**
+- **Crouch/Crouch Slide**
 - **Weapon Zoom**
 - **Double Jump** 
 - **Dash** 
