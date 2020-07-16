@@ -4,7 +4,6 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" />
 
-**Website @** <a href="https://kosm.vtxfactory.org">Kosm</a><br>
 **Current Development Build:** v0.6 <a href="#patch-notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.25<br>
 **Network Replicated:** Yes. <i>(WIP)</i><br>
