@@ -13,7 +13,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="https://www.youtube.com/watch?v=fKr9Qey_Jk8">Watch Teaser</a><br>
 - <a href="#download-demo">Download Demo</a><br>
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
-<br><img width="50%" src="https://vtxfactory.org/imgs/kosm1.png" /><br><br><br>
+<br><img src="https://vtxfactory.org/imgs/kosm1.png" /><br><br><br>
 - <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Pack</a><br>
 <a href="#patch-notes">Patch Notes</a><br>
 <a href="#bug-tracker">Bug Tracker</a><br>
