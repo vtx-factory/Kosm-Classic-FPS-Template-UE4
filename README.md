@@ -72,7 +72,7 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 ## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-  **(In Development...)** <summary>v0.7 <strong><i>- ETA: November, 2020</i></strong> </summary>
+<summary>(In Development...) v0.7 <strong><i>- ETA: November, 2020</i></strong> </summary>
   
 - Added Melee Weapon.<br>
 - Added Main Menu.<br>
