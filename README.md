@@ -79,6 +79,8 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Options Menu.<br>
 - Added Spectator Mode.<br>
 - Added Grapple Hook.<br>
+- Added Keyboard Arrow Navigation on Menus.<br>
+- Added Killfeed and Kill log.<br>
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
