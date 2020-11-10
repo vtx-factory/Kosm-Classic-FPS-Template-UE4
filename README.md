@@ -82,6 +82,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Keyboard Arrow Navigation on Menus.<br>
 - Added Killfeed and Kill log.<br>
 - Simplified Crouch and Crouch Slide Mechanics.<br>
+- Damage Indicators are now relative to World Space instead of Player Screen.<br>
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
