@@ -35,9 +35,9 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **Rocket Launcher Projectile**<br>
 - **Nailgun Projectile**<br>
 - **Railgun Projectile**<br>
-- **Lightning Gun Projectile** <i>(Experimental/WIP)</i><br>
+- **Lightning Gun Projectile** <i>(WIP)</i><br>
 - **Shotgun Projectile**<br>
-- **Portal Gun Projectile** <i>(Experimental/WIP)</i><br>
+- **Portal Gun Projectile** <i>(WIP)</i><br>
 - **Machinegun Projectile**<br>
 - **Grenade Launcher Projectile**<br>
 
