@@ -72,7 +72,7 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 ## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-<summary><strong>(In Development...)</strong> v0.7 <strong><i>- ETA: November, 2020</i></strong> </summary>
+<summary><strong>(In Development...)</strong> v0.7 <strong><i>- ETA: December, 2020</i></strong> </summary>
   
 - Added Melee Weapon.<br>
 - Added Main Menu.<br>
@@ -80,10 +80,12 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Spectator Mode.<br>
 - Added Grapple Hook.<br>
 - Added Keyboard Arrow Navigation on Menus.<br>
-- Added Killfeed and Kill log.<br>
+- Added Killfeed.<br>
+- Added Kill log.
 - Simplified Crouch and Crouch Slide Mechanics.<br>
 - Damage Indicators are now relative to World Space instead of Player Screen.<br>
 - Added Scoreboard Widget - for now it will only show the names of Actors spawned in level.<br>
+- Save game system to keep variables value between Editor/Packaged sessions.<br>
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
