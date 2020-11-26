@@ -4,7 +4,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 
 <img src="https://kosm.vtxfactory.org/imgs/loading.gif" />
 
-**Current Development Build:** v0.6 <a href="#patch-notes">(view Changelog)</a><br>
+**Current Published Build:** v0.6 <a href="#patch-notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.25<br>
 **Network Replicated:** Yes. <i>(WIP)</i><br>
 **Platform Compatibility:** PC, PS4, Xbox and VR (Oculus, Steam, Valve Index, Vive).<br>
