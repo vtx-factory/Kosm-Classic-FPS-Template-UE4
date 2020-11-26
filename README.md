@@ -85,7 +85,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Simplified Crouch and Crouch Slide Mechanics.<br>
 - Damage Indicators are now relative to World Space instead of Player Screen.<br>
 - Added Scoreboard Widget - for now it will only show the names of Actors spawned in level.<br>
-- SaveGame system to keep variables value between Editor/Packaged sessions.<br>
+- Save/Load Game System to keep variables value between Editor/Packaged sessions.<br>
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
