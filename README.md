@@ -89,7 +89,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Upgraded Project Compatibility to UE v4.26.<br>
 - Reworked Character Selection Widget.<br>
 - Reworked Damage System and Projectile BPs.<br>
-- Added Mega Armor Mega Health.<br>
+- Added Mega Armor and Mega Health.<br>
 - Simplified Event On Landed, Deathscream, Fall Damage, Double/Pogo Jump systems.
 </details>
 <details>
