@@ -93,7 +93,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Simplified Event On Landed, Deathscream, Fall Damage, Double/Pogo Jump systems.
 - Forward Shading activated - multiple fixes and improvements to get the maximum performance possible.
 - Replication: Added AimOffset on Client.
-- Damage Audio Pitch only activates on another Actor and not on Self-Damage.
+- Damage Audio Pitch only activates on another Actor and not on Self-Damage. The same goes for Damage Indicators.
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
