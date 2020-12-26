@@ -92,6 +92,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Added Mega Armor and Mega Health.<br>
 - Simplified Event On Landed, Deathscream, Fall Damage, Double/Pogo Jump systems.
 - Forward Shading activated - multiple fixes and improvements to get the maximum performance possible.
+- Tuned Menus Alignment to work with multiple aspect ratios.
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
