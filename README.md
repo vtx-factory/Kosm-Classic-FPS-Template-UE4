@@ -91,7 +91,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Reworked Damage System and Projectile BPs.<br>
 - Added Mega Armor and Mega Health.<br>
 - Simplified Event On Landed, Deathscream, Fall Damage, Double/Pogo Jump systems.
-- Forward Shading activated - multiple fixes and improvements to get the maximum performance possible.
+- Forward Shading activated - multiple fixes and improvements to get increased performance.
 - Replication: Added AimOffset on Client.
 - Damage Audio Pitch only activates on another Actor and not on Self-Damage. The same goes for Damage Indicators.
 </details>
