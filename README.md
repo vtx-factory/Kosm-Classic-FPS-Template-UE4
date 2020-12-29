@@ -224,7 +224,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[NETWORK-CLIENT]</strong> Crouch Slide mechanic isn't replicating.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Projectiles appear to have different location offsets when spawned from client to server.
 - [ ] <strong>[STANDALONE-GAMEPLAY]</strong> Fix Center Weapon Offset of Melee Weapon.
-- [ ] <strong>[STANDALONE-WEAPONS-GRENADELAUNCHER]</strong> Grenade Launcher Projectile overlaps Opponent if Player shoots too close to it, not registering damage.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Button CREDITS and REVERT ALL TO DEFAULT are not yet assigned.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Borderless Window Mode is not setting the chosen resolution in-game - instead, it's reading the current desktop's resolution.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals have a small deviation on direction.
