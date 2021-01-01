@@ -72,7 +72,7 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 ## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-<summary><strong>(In Development...)</strong> v0.7 <strong><i>- ETA: December, 2020</i></strong> </summary>
+<summary><strong>(In Development...)</strong> v0.7 <strong><i>- ETA: Early January, 2021</i></strong> </summary>
   
 - Added Melee Weapon.<br>
 - Added Main Menu.<br>
@@ -94,7 +94,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Forward Shading activated - multiple fixes and improvements to get increased performance.
 - Replication: Added AimOffset on Client.
 - Damage Audio Pitch only activates on another Actor and not on Self-Damage. The same goes for Damage Indicators.
-- Captured Health and Armor actors are now created inside LevelBlueprint on BeginPlay.
 </details>
 <details>
   <summary>v0.6 <strong><i>- Release#15.07.2020</i></strong> </summary>
