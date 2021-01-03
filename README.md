@@ -219,7 +219,6 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## Bug Tracker:
 
 - [ ] <strong>[NETWORK-WEAPONS-CLIENT]</strong> Fix Lightning Gun delay issues. Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
-- [ ] <strong>[NETWORK-CLIENT]</strong> Crouch Slide mechanic isn't replicating.
 - [ ] <strong>[NETWORK-CLIENT]</strong> Projectiles appear to have different location offsets when spawned from client to server.
 - [ ] <strong>[STANDALONE-GAMEPLAY]</strong> Fix Center Weapon Offset of Melee Weapon.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Button CREDITS and REVERT ALL TO DEFAULT are not yet assigned.
