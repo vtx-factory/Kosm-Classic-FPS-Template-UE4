@@ -29,17 +29,22 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **VQ3 Strafe-Jumping movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
 - **CPMA Air Control movement Character** <br>Full Air Control - forward vector is controlled by the direction of player's crosshair and Character gains Acceleration when swinging mouse.
 
-**&#9632; 8 PROJECTILES:** 
-- **Rocket Launcher Projectile**<br>
-- **Nailgun Projectile**<br>
-- **Railgun Projectile**<br>
-- **Lightning Gun Projectile** <i>(WIP)</i><br>
-- **Shotgun Projectile**<br>
-- **Portal Gun Projectile** <i>(WIP)</i><br>
-- **Machinegun Projectile**<br>
-- **Grenade Launcher Projectile**<br>
+**&#9632; 9 WEAPONS:** 
+- **Crowbar**<br>
+- **Rocket Launcher**<br>
+- **Nailgun**<br>
+- **Railgun**<br>
+- **Lightning Gun** <i>(WIP)</i><br>
+- **Shotgun**<br>
+- **Portal Gun** <i>(WIP)</i><br>
+- **Machinegun**<br>
+- **Grenade Launcher**<br>
 
 **&#9632; AI BOT** with Hearing/Sight Perception System
+
+**&#9632; SPECTATOR MODE** with ViewTarget, Third-Person View and Free Roam Camera <br>
+
+**&#9632; MAIN & OPTIONS MENU** <br>
 
 **&#9632; HEALTH/ARMOR/AMMO** Pickup System <br>
 
@@ -50,6 +55,9 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 **&#9632; OTHER FEATURES:**
 - **Footsteps, Misc Sounds and Attenuation Settings**
 - **Custom Crosshairs and Speedometer**
+- **Scoreboard**
+- **Character Selection**
+- **Grapple Hook**
 - **Respawn System**
 - **Camera Toggle**
 - **Cycle Center/Right Weapons**
@@ -61,7 +69,8 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **Healthbar** 
 - **JumpPad**
 - **Bunny-hop**
-- **Crouch/Crouch Slide**
+- **Toggle/Hold Crouch**
+- **Crouch Slide**
 - **Weapon Zoom**
 - **Double Jump** 
 - **Dash** 
