@@ -40,11 +40,11 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **Machinegun**<br>
 - **Grenade Launcher**<br>
 
+**&#9632; MAIN & OPTIONS MENU** <br>
+
 **&#9632; AI BOT** with Hearing/Sight Perception System
 
 **&#9632; SPECTATOR MODE** with ViewTarget, Third-Person View and Free Roam Camera <br>
-
-**&#9632; MAIN & OPTIONS MENU** <br>
 
 **&#9632; HEALTH/ARMOR/AMMO** Pickup System <br>
 
