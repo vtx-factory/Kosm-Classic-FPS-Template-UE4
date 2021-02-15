@@ -227,8 +227,13 @@ Below you'll find all changes and tweaks made from previous to current version o
 
 ## Bug Tracker:
 
+- [ ] <strong>[SPECTATOR-MODE]</strong> Weapon Sway is not replicating on Spectator Mode.
+- [ ] <strong>[SPECTATOR-MODE]</strong> While spectating a VQ3 Character, if that Player changes to CPMA Character, Spectator won't hook the right HUD to be displayed.
+- [ ] <strong>[NETWORK-DAMAGE-INDICATORS-CLIENT]</strong> Damage Indicators appear in all Clients instead of Owning Client.
+- [ ] <strong>[NETWORK-WEAPONS-CLIENT]</strong> Railgun Visual FX not appearing on client.
 - [ ] <strong>[NETWORK-WEAPONS-CLIENT]</strong> Fix Lightning Gun delay issues. Fix Lightning Gun beam, visually it should be Target Dynamic and not rely solely on distance.
-- [ ] <strong>[NETWORK-CLIENT]</strong> Projectiles appear to have different location offsets when spawned from client to server.
+- [ ] <strong>[NETWORK-WEAPONS-CLIENT]</strong> Projectiles appear to have different location offsets when spawned from client to server.
+- [ ] <strong>[NETWORK-GAMEPLAY-SLIDE-CLIENT]</strong> Slide is misconfigured to use while on Client.
 - [ ] <strong>[STANDALONE-GAMEPLAY]</strong> Fix Center Weapon Offset of Melee Weapon.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Button CREDITS and REVERT ALL TO DEFAULT are not yet assigned.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Borderless Window Mode is not setting the chosen resolution in-game - instead, it's reading the current desktop's resolution.
