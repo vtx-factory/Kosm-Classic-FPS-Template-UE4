@@ -19,7 +19,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 <a href="#installation">Installation</a><br>
 <a href="#buy">Buy</a><br>
 - <a href="#unreal-engine-4-qol-improvements">Unreal Engine 4 QoL Improvements</a><br>
-- <a href="#creative-commons-and-fair-use-content">Creative Commons and Fair Use content</a><br>
+- <a href="#creative-commons-and-fair-use-content">Creative Commons and Fair Use Content</a><br>
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
 - <a href="#licensing">Licensing</a><br><br><br>
@@ -259,7 +259,7 @@ Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Uncheck Mouse Smoothness**<br>Go into <strong>Project Settings</strong> and type "Mouse Smooth" in <strong>Search Details</strong>, then uncheck it.<br><br>
 **&#9632; Change Mouse Sensitivity**<br>Go into <strong>Project Settings</strong> and select <strong>Input</strong> from the left column, then scroll down until you see <strong>Turn</strong> and <strong>LookUp</strong> inside <strong>Axis Mappings</strong>, then just change the <strong>Scale</strong> property.<br><br>
 **&#9632; Enable Blutilities**<br>Go to <strong>Editor Preferences</strong> and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser and select Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
-# Creative Commons and Fair Use content
+# Creative Commons and Fair Use Content
 Audio: <i>(referring to MainMenu Music, we use a custom sample of)</i>
 - Justice - Stress (Auto Remix)
 - Kevin Macleod - Basement Floor
@@ -267,9 +267,8 @@ Audio: <i>(referring to MainMenu Music, we use a custom sample of)</i>
 - Substan - Virtual Forces
  
 Image: <i>(referring to MainMenu and LoadingLevel background images)</i>
-- Kevin Macleod - Basement Floor
-- Charles Holme - Safeguard
-- Substan - Virtual Forces<br><br><br>
+"Environment 2" by k04sk
+"Castellum" by Whiluna<br><br><br>
 # Contributing
 If you'd like to contribute to this project in any way, please feel free to pull a request or contact us directly.<br><br>Feel free to contact support if you have any suggestions or run into any trouble editing the blueprints.<br><br><br>
 # Contact
