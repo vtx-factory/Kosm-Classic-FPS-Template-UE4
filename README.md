@@ -266,8 +266,8 @@ Audio: <i>(referring to MainMenu Music, we use a custom sample of)</i>
 - Charles Holme - Safeguard
 - Substan - Virtual Forces
  
-Image: <i>(referring to MainMenu and LoadingLevel background images)</i>
-'Castellum' by Whiluna
+Image: <i>(referring to MainMenu and LoadingLevel background images)</i><br>
+'Castellum' by Whiluna<br>
 'Environment 2' by k04sk<br><br>
 
 # Contributing
