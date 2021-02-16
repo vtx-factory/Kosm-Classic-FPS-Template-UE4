@@ -267,8 +267,8 @@ Audio: <i>(referring to MainMenu Music, we use a custom sample of)</i>
 - Substan - Virtual Forces
  
 Image: <i>(referring to MainMenu and LoadingLevel background images)</i>
-"Environment 2" by k04sk
-"Castellum" by Whiluna<br><br><br>
+'Environment 2' by k04sk
+'Castellum' by Whiluna<br><br><br>
 # Contributing
 If you'd like to contribute to this project in any way, please feel free to pull a request or contact us directly.<br><br>Feel free to contact support if you have any suggestions or run into any trouble editing the blueprints.<br><br><br>
 # Contact
