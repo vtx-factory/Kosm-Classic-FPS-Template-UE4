@@ -260,13 +260,13 @@ Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Change Mouse Sensitivity**<br>Go into <strong>Project Settings</strong> and select <strong>Input</strong> from the left column, then scroll down until you see <strong>Turn</strong> and <strong>LookUp</strong> inside <strong>Axis Mappings</strong>, then just change the <strong>Scale</strong> property.<br><br>
 **&#9632; Enable Blutilities**<br>Go to <strong>Editor Preferences</strong> and search for Blutility and check the box to enable it. With Blutilities you'll be able to design several new kinds of tools and workflows based on Blueprints that add new capabilities to the Editor like Scripted Actions (e.g. Bulk Actions), Automation and Editor Widgets. <strong>Right-click in Content Browser and select Editor Utilities > Blutility/Editor Widget</strong> to start using them.<br><br><br>
 # Creative Commons and Fair Use content
-Audio: (referring to MainMenu Music, we use a custom sample of)
+Audio: <i>(referring to MainMenu Music, we use a custom sample of)</i>
 - Justice - Stress (Auto Remix)
 - Kevin Macleod - Basement Floor
 - Charles Holme - Safeguard
 - Substan - Virtual Forces
  
-Image: (referring to MainMenu and LoadingLevel background images)
+Image: <i>(referring to MainMenu and LoadingLevel background images)</i>
 - Kevin Macleod - Basement Floor
 - Charles Holme - Safeguard
 - Substan - Virtual Forces<br><br><br>
