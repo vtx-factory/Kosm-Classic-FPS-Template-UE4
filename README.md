@@ -2,8 +2,8 @@
 > Classic Arena First-Person-Shooter Mechanics.<br><br>Project with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints with distinct movement, defined as VQ3 and CPMA, an AI Bot and Ragdoll, Spectator Mode, 9 Weapons, 2 Maps for you to make all your testing, an Health/Armor/Ammo System and much more, all replicated for online gameplay.<br><br>
 This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
-**Current Published Build:** v0.6 <a href="#patch-notes">(view Changelog)</a><br>
-**Unreal Engine Compatibility Version:** v4.25<br>
+**Current Published Build:** v0.7 <a href="#patch-notes">(view Changelog)</a><br>
+**Unreal Engine Compatibility Version:** v4.26<br>
 **Network Replicated:** Yes. <i>(WIP)</i><br>
 **Platform Compatibility:** PC, PS4, Xbox and VR (Oculus, Steam, Valve Index, Vive).<br>
 **Input Compatibility:** Keyboard/Mouse, Gamepad Controller and VR Set Compatible.<br>
@@ -60,7 +60,9 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **Scoreboard**
 - **Character Selection**
 - **Grapple Hook**
+- **Damage System**
 - **Respawn System**
+- **Mega Health and Mega Armor**
 - **Camera Toggle**
 - **Cycle Center/Right Weapons**
 - **Player HUD** 
