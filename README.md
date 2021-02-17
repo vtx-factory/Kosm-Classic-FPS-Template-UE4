@@ -46,7 +46,7 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 
 **&#9632; AI BOT** with Hearing/Sight Perception System
 
-**&#9632; SPECTATOR MODE** with ViewTarget, Third-Person View and Free Roam Camera <br>
+**&#9632; SPECTATOR MODE** including Player View Target, Third-Person View and Free Roam Camera <br>
 
 **&#9632; HEALTH/ARMOR/AMMO** Pickup System <br>
 
@@ -54,7 +54,7 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases
 - **Fortress FFA/TDM Map** <i>(based on dm20)</i> <br>
 - **Testing Grounds Map**
 
-**&#9632; OTHER FEATURES:**
+**&#9632; FEATURES:**
 - **Footsteps, Misc Sounds and Attenuation Settings**
 - **Custom Crosshairs and Speedometer**
 - **Scoreboard**
