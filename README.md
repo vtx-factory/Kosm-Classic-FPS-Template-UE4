@@ -10,7 +10,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 **Supported Operating System:** Windows 32/64-bit, Linux and Oculus-Rift ready.<br>
 - <a href="https://www.youtube.com/watch?v=fKr9Qey_Jk8">Watch Teaser</a><br>
 - <a href="#download-demo">Download Demo</a><br>
-- <a href="https://discord.gg/twyPp4bz">Join Discord</a><br>
+- <a href="https://discord.gg/pQhjrHTRbs">Join Discord</a><br>
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 <br><img src="https://vtxfactory.org/imgs/kosm_lettering.png" /><br><br><br>
 - <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Pack</a><br>
