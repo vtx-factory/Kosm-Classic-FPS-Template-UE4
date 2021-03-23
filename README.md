@@ -13,7 +13,7 @@ This template is composed by a <strong>.uproject file</strong> which you can fre
 - <a href="https://discord.gg/pQhjrHTRbs">Join Discord</a><br>
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 <br><img src="https://vtxfactory.org/imgs/kosm_lettering.png" /><br><br><br>
-- <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Template</a><br>
+- <a href="#kosm-classic-fps-template">Kosm: Classic FPS Template</a><br>
 <a href="#patch-notes">Patch Notes</a><br>
 <a href="#bug-tracker">Bug Tracker</a><br>
 <a href="#installation">Installation</a><br>
@@ -24,7 +24,7 @@ This template is composed by a <strong>.uproject file</strong> which you can fre
 - <a href="#contact">Contact</a><br>
 - <a href="#licensing">Licensing</a><br><br><br>
 # Download Demo
-Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
+Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm: Classic FPS Template
 
 **&#9632; 2 CHARACTERS** with distinct movement:
@@ -250,7 +250,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## Installation:
 This template is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
 ## Buy:
-- <a href="https://unrealengine.com/marketplace/en-US/slug/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
+- <a href="https://www.unrealengine.com/marketplace/slug/e4f0905280dd46c5a5508617dd77bc81">Unreal Engine Marketplace</a><br><br><br>
 # Unreal Engine 4 QoL Improvements<br>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Show Frame Rate and Memory in Editor**<br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
