@@ -1,6 +1,6 @@
-# Kosm: Classic FPS Pack For Unreal Engine 4
-> Classic Arena First-Person-Shooter Mechanics.<br><br>Project with fully customizable Blueprints to tune your project up - this Pack includes 2 Character Blueprints with distinct movement, defined as VQ3 and CPMA, an AI Bot and Ragdoll, Spectator Mode, 9 Weapons, 2 Maps for you to make all your testing, an Health/Armor/Ammo System and much more, all replicated for online gameplay.<br><br>
-This Pack is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
+# Kosm: Classic FPS Template For Unreal Engine 4
+> Classic Arena First-Person-Shooter Mechanics.<br><br>Project with fully customizable Blueprints to tune your project up - it includes 2 Character Blueprints with distinct movement, defined as VQ3 and CPMA, an AI Bot and Ragdoll, Spectator Mode, 9 Weapons, 2 Maps for you to make all your testing, an Health/Armor/Ammo System and much more, all replicated for online gameplay.<br><br>
+This template is composed by a <strong>.uproject file</strong> which you can freely customize using Unreal Engine 4.<br><br>
 
 **Current Published Build:** v0.7 <a href="#patch-notes">(view Changelog)</a><br>
 **Unreal Engine Compatibility Version:** v4.26<br>
@@ -13,7 +13,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="https://discord.gg/pQhjrHTRbs">Join Discord</a><br>
 - <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a><br><br>
 <br><img src="https://vtxfactory.org/imgs/kosm_lettering.png" /><br><br><br>
-- <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Pack</a><br>
+- <a href="#kosm-classic-fps-pack">Kosm: Classic FPS Template</a><br>
 <a href="#patch-notes">Patch Notes</a><br>
 <a href="#bug-tracker">Bug Tracker</a><br>
 <a href="#installation">Installation</a><br>
@@ -25,7 +25,7 @@ This Pack is composed by a <strong>.uproject file</strong> which you can freely 
 - <a href="#licensing">Licensing</a><br><br><br>
 # Download Demo
 Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-Pack-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
-# Kosm: Classic FPS Pack
+# Kosm: Classic FPS Template
 
 **&#9632; 2 CHARACTERS** with distinct movement:
 - **VQ3 Strafe-Jumping movement Character** <br>Longer the Bunny-hop, faster the travel.<br>
@@ -248,7 +248,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] Found a bug? <a href="https://vtxfactory.org/main/#contact">Contact us</a>.
 
 ## Installation:
-Kosm-PACK is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
+This template is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
 ## Buy:
 - <a href="https://unrealengine.com/marketplace/en-US/slug/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
 # Unreal Engine 4 QoL Improvements<br>
