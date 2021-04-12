@@ -250,7 +250,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 ## Installation:
 This template is composed of a <strong>.uproject file</strong> that you can open on-the-fly using Unreal Engine. <strong>A .pdf manual is included for further installation instructions, blueprint editing and network settings.</strong> <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">(Manual Guide and Documentation)</a>
 ## Buy:
-- <a href="https://www.unrealengine.com/marketplace/slug/e4f0905280dd46c5a5508617dd77bc81">Unreal Engine Marketplace</a><br><br><br>
+- <a href="https://www.unrealengine.com/marketplace/en-US/product/kosm-classic-fps-pack">Unreal Engine Marketplace</a><br><br><br>
 # Unreal Engine 4 QoL Improvements<br>
 Here's some tips to improve your experience using Unreal Engine:<br><br>
 **&#9632; Show Frame Rate and Memory in Editor**<br>Go into <strong>Edit > Editor Preferences</strong> and type "Show Frame Rate and Memory" in <strong>Search Details</strong>, then check it.<br><br>
