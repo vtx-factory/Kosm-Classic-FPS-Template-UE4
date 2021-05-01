@@ -22,7 +22,8 @@ This template is composed by a <strong>.uproject file</strong> which you can fre
 - <a href="#creative-commons-and-fair-use-content">Creative Commons and Fair Use Content</a><br>
 - <a href="#contributing">Contributing</a><br>
 - <a href="#contact">Contact</a><br>
-- <a href="#licensing">Licensing</a><br><br><br>
+- <a href="#licensing">Licensing</a><br>
+- <a href="#donation">Donation</a><br><br><br>
 # Download Demo
 Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-UE4/releases">Releases</a> section to download the binaries for your platform.<br><br><br>
 # Kosm: Classic FPS Template
