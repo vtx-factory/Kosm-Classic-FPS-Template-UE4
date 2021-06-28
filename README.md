@@ -274,7 +274,7 @@ Image: <i>(referring to MainMenu and LoadingLevel background images)</i>
 - 'Castellum' by Whiluna<br><br>
 
 # Contributing
-If you'd like to contribute to this project in any way, please feel free to pull a request or contact us directly.<br><br>Feel free to contact support if you have any suggestions or run into any trouble editing the blueprints.<br><br><br>
+If you'd like to contribute to this project in any way, please feel free to contact us directly.<br><br><br>
 # Contact
 <strong>Website</strong><br>www.vtxfactory.org<br><br>
 <strong>Feedback & Information</strong><br>info@vtxfactory.org<br><br>
@@ -283,7 +283,3 @@ If you'd like to contribute to this project in any way, please feel free to pull
 This project is published under MIT License which allows very broad use for both academic and commercial purposes.
 
 You are very welcome to modify these mechanics and use them for your own commercial use - if doing so, please keep a link to the original repository and refer to <a href="https://vtxfactory.org/dl/Kosm_Documentation.zip">Manual Guide and Documentation</a> for more information.<br><br><br>
-# Donation
-- BTC: 3ENX3bCcEw66WbpyYWiKsLcXGN2dtgmpzH
-- ETH: 0x79b82df67B6E561687b568d8807bf5E6269a9506
-- LTC: MKkkFyEsH2UcArnLGKdvrGDy6Hm87iPKJD
