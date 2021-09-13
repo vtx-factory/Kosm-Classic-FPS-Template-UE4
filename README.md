@@ -84,8 +84,9 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-UE4/releases">Rel
 ## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
-<summary>v0.8<strong><i>(In Development...)</i></strong> </summary>
-  
+<summary>v0.8<strong><i> (In Development...)</i></strong> </summary>
+ 
+- Creation and setup of Kosm Dedicated Server build.<br>
 - Upgraded project compatibility to v4.27.<br>
 </details>
 <details>
