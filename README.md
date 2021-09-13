@@ -84,6 +84,11 @@ Check <a href="https://github.com/vtx-factory/Kosm-Classic-FPS-UE4/releases">Rel
 ## Patch Notes:
 Below you'll find all changes and tweaks made from previous to current version of the project:
 <details>
+<summary>v0.8 (In Development...)<strong><i>- Release#17.02.2021</i></strong> </summary>
+  
+- Upgraded project compatibility to v4.27.<br>
+</details>
+<details>
 <summary>v0.7 <strong><i>- Release#17.02.2021</i></strong> </summary>
   
 - Added Melee Weapon.<br>
