@@ -88,8 +88,8 @@ Below you'll find all changes and tweaks made from previous to current version o
  
 - Upgraded project compatibility to v4.27.<br>
 - No more "stuck at 45%" when loading project for the first time - also, the initial compiling shaders were reduced from 9k to 3k, with improved compiling speed.<br>
-- Creation and setup of Kosm Dedicated Server build.<br>
-- Reverted Forward Shading to its default settings. (Off)<br>
+- Creation and setup of Kosm Dedicated Server build - it will be made available when v0.8 officially releases.<br>
+- Reverted Forward Shading to its default setting. (Off)<br>
 - All players now spawn with Crowbar instead of Rocket launcher by default, with the ability to change Starting Weapon before entering map. (or even with all unlocked)<br>
 </details>
 <details>
