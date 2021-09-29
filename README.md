@@ -251,6 +251,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - [ ] <strong>[STANDALONE-GAMEPLAY]</strong> Fix Center Weapon Offset of Melee Weapon.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Button CREDITS and REVERT ALL TO DEFAULT are not yet assigned.
 - [ ] <strong>[STANDALONE-MENU-OPTIONS]</strong> Borderless Window Mode is not setting the chosen resolution in-game - instead, it's reading the current desktop's resolution.
+- [ ] <strong>[STANDALONE-PORTALS]</strong> Fix render recursion when looking to current portal through another one.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that pass through Portals have a small deviation on direction.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Sometimes, Projectiles won't Apply Damage when hitting a Character through Portals.
 - [ ] <strong>[STANDALONE-PORTALS]</strong> Projectiles that are Insta Hit (Machine Gun, Railgun, Lightning Gun and Shotgun) won't pass through them.
