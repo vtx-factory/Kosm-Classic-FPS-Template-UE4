@@ -90,7 +90,7 @@ Below you'll find all changes and tweaks made from previous to current version o
 - Reverted Forward Shading to its default setting. (Off)<br>
 - Creation and setup of Kosm Dedicated Server build - it will be made available when v0.8 officially releases.<br>
 - Upgraded Portals performance by reducing draw calls on render target, conserving same quality level.<br>
-- All players now spawn with Crowbar instead of Rocket launcher by default, with the ability to change Starting Weapon (or unlock all) before entering map.<br>
+- All players now spawn with Crowbar instead of Rocket Launcher by default, with the ability to change Starting Weapon (or unlock all) before entering map.<br>
 - Adjusted Character's Air Control movement while falling/when jumping on a JumpPad.
 </details>
 <details>
